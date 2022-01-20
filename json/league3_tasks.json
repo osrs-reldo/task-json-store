@@ -201,7 +201,7 @@
     "name": "Enter the Kalphite Lair",
     "description": "Enter the Kalphite Lair.",
     "skills": [],
-    "other": "Diary",
+    "other": "",
     "tier": "Beginner",
     "category": "General",
     "id": 1219
@@ -814,7 +814,7 @@
     "other": "Requires completion of Shades of Mort'ton",
     "tier": "Easy",
     "category": "General",
-    "id": -1
+    "id": 1478
   },
   {
     "name": "Pet the Museum Camp dog",
@@ -1387,7 +1387,7 @@
         "level": "50"
       }
     ],
-    "other": "400000 to both repair and upgrade the broken Iban's staff.<br/>Requires either Fremennik or Tirannwn area",
+    "other": "200000 to upgrade the Iban's staff.",
     "tier": "Medium",
     "category": "General",
     "id": 1058
@@ -2364,7 +2364,7 @@
     "name": "Enter the Myths' Guild",
     "description": "Enter the Myths' Guild.",
     "skills": [],
-    "other": "Requires The Fremennik Provinces to enter.",
+    "other": "",
     "tier": "Hard",
     "category": "General",
     "id": 1059
@@ -3189,7 +3189,7 @@
         "level": "78"
       }
     ],
-    "other": "The Fremennik Provinces",
+    "other": "",
     "tier": "Elite",
     "category": "General",
     "id": 778
@@ -3364,7 +3364,7 @@
         "level": "87"
       }
     ],
-    "other": "Unlocked Kandarin Area",
+    "other": "",
     "tier": "Elite",
     "category": "General",
     "id": 854
@@ -3633,7 +3633,7 @@
         "level": "60"
       }
     ],
-    "other": "Access to either Wilderness for Dragon pickaxe or the Fremennik Provinces for Dragon axe. Dragon Harpoon is unavailable within the league's restrictions.",
+    "other": "",
     "tier": "Elite",
     "category": "General",
     "id": 1090
@@ -4441,7 +4441,7 @@
         "level": "60"
       }
     ],
-    "other": "Fremennik Provinces for Dragon Slayer II '''AND''' Kandarin for Dragon metal shard",
+    "other": "Dragon Slayer II",
     "tier": "Master",
     "category": "General",
     "id": 779
@@ -7293,7 +7293,7 @@
     "other": "",
     "tier": "Hard",
     "category": "Combat",
-    "id": -1
+    "id": 90000
   },
   {
     "name": "Defeat Phosani's Nightmare",
@@ -8534,7 +8534,7 @@
         "level": "30"
       }
     ],
-    "other": "",
+    "other": "10000",
     "tier": "Medium",
     "category": "Construction",
     "id": 886
@@ -8548,7 +8548,7 @@
         "level": "50"
       }
     ],
-    "other": "",
+    "other": "25000",
     "tier": "Medium",
     "category": "Construction",
     "id": 1024
@@ -8562,7 +8562,7 @@
         "level": "20"
       }
     ],
-    "other": "",
+    "other": "7500",
     "tier": "Medium",
     "category": "Construction",
     "id": 1373
@@ -8660,7 +8660,7 @@
         "level": "80"
       }
     ],
-    "other": "Need the Fremennik area unlocked.",
+    "other": "",
     "tier": "Elite",
     "category": "Construction",
     "id": 1349
@@ -9088,26 +9088,12 @@
     "id": 1487
   },
   {
-    "name": "Equip a Full Mithril Set",
-    "description": "Equip a mithril platebody, a mithril full helm and either some mithril platelegs or a mithril plateskirt.",
-    "skills": [
-      {
-        "skill": "Defence",
-        "level": "20"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Defence",
-    "id": 725
-  },
-  {
     "name": "Equip either a Steel Platebody, some Steel Platelegs or a Steel Full Helm",
     "description": "Equip either a steel platebody, some steel platelegs or a steel full helm.",
     "skills": [
       {
         "skill": "Defence",
-        "level": "10"
+        "level": "5"
       }
     ],
     "other": "",
@@ -9128,6 +9114,20 @@
     "tier": "Easy",
     "category": "Defence",
     "id": 1405
+  },
+  {
+    "name": "Equip a Full Mithril Set",
+    "description": "Equip a mithril platebody, a mithril full helm and either some mithril platelegs or a mithril plateskirt.",
+    "skills": [
+      {
+        "skill": "Defence",
+        "level": "20"
+      }
+    ],
+    "other": "",
+    "tier": "Easy",
+    "category": "Defence",
+    "id": 725
   },
   {
     "name": "Equip Tier 5 Shayzien Armour",
@@ -9926,76 +9926,6 @@
     "id": 679
   },
   {
-    "name": "1 Wintertodt Kill",
-    "description": "Help the pyromancers subdue the Wintertodt.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 233
-  },
-  {
-    "name": "25 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 25 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 234
-  },
-  {
-    "name": "50 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 50 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 235
-  },
-  {
-    "name": "75 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 75 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 236
-  },
-  {
-    "name": "100 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 100 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 237
-  },
-  {
     "name": "Burn Some Oak Logs",
     "description": "Burn some Oak Logs.",
     "skills": [
@@ -10019,22 +9949,8 @@
     "id": 681
   },
   {
-    "name": "150 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 150 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Easy",
-    "category": "Firemaking",
-    "id": 1492
-  },
-  {
-    "name": "200 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 200 times.",
+    "name": "1 Wintertodt Kill",
+    "description": "Help the pyromancers subdue the Wintertodt.",
     "skills": [
       {
         "skill": "Firemaking",
@@ -10044,11 +9960,11 @@
     "other": "",
     "tier": "Medium",
     "category": "Firemaking",
-    "id": 238
+    "id": 233
   },
   {
-    "name": "300 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 300 times.",
+    "name": "25 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 25 times.",
     "skills": [
       {
         "skill": "Firemaking",
@@ -10058,11 +9974,11 @@
     "other": "",
     "tier": "Medium",
     "category": "Firemaking",
-    "id": 239
+    "id": 234
   },
   {
-    "name": "400 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 400 times.",
+    "name": "50 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 50 times.",
     "skills": [
       {
         "skill": "Firemaking",
@@ -10072,11 +9988,11 @@
     "other": "",
     "tier": "Medium",
     "category": "Firemaking",
-    "id": 240
+    "id": 235
   },
   {
-    "name": "500 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 500 times.",
+    "name": "75 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 75 times.",
     "skills": [
       {
         "skill": "Firemaking",
@@ -10086,7 +10002,7 @@
     "other": "",
     "tier": "Medium",
     "category": "Firemaking",
-    "id": 241
+    "id": 236
   },
   {
     "name": "Burn 100 Willow Logs",
@@ -10135,36 +10051,8 @@
     "id": 684
   },
   {
-    "name": "250 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 250 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Medium",
-    "category": "Firemaking",
-    "id": 1493
-  },
-  {
-    "name": "750 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 750 times.",
-    "skills": [
-      {
-        "skill": "Firemaking",
-        "level": "50"
-      }
-    ],
-    "other": "",
-    "tier": "Medium",
-    "category": "Firemaking",
-    "id": 1494
-  },
-  {
-    "name": "1000 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 1000 times.",
+    "name": "100 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 100 times.",
     "skills": [
       {
         "skill": "Firemaking",
@@ -10174,7 +10062,49 @@
     "other": "",
     "tier": "Hard",
     "category": "Firemaking",
-    "id": 242
+    "id": 237
+  },
+  {
+    "name": "150 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 150 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Hard",
+    "category": "Firemaking",
+    "id": 1492
+  },
+  {
+    "name": "200 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 200 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Hard",
+    "category": "Firemaking",
+    "id": 238
+  },
+  {
+    "name": "250 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 250 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Hard",
+    "category": "Firemaking",
+    "id": 1493
   },
   {
     "name": "Equip the Pyromancer's Garb",
@@ -10217,6 +10147,48 @@
     "tier": "Hard",
     "category": "Firemaking",
     "id": 686
+  },
+  {
+    "name": "500 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 500 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Elite",
+    "category": "Firemaking",
+    "id": 241
+  },
+  {
+    "name": "750 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 750 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Elite",
+    "category": "Firemaking",
+    "id": 1494
+  },
+  {
+    "name": "1000 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 1000 times.",
+    "skills": [
+      {
+        "skill": "Firemaking",
+        "level": "50"
+      }
+    ],
+    "other": "",
+    "tier": "Elite",
+    "category": "Firemaking",
+    "id": 242
   },
   {
     "name": "Reach Level 99 Firemaking",
@@ -10731,6 +10703,10 @@
       {
         "skill": "Crafting",
         "level": "5"
+      },
+      {
+        "skill": "Construction",
+        "level": "25"
       }
     ],
     "other": "",
@@ -10749,6 +10725,10 @@
       {
         "skill": "Crafting",
         "level": "60"
+      },
+      {
+        "skill": "Construction",
+        "level": "25"
       }
     ],
     "other": "",
@@ -10893,6 +10873,10 @@
       {
         "skill": "Crafting",
         "level": "75"
+      },
+      {
+        "skill": "Construction",
+        "level": "25"
       }
     ],
     "other": "",
@@ -13071,7 +13055,7 @@
     "other": "",
     "tier": "Medium",
     "category": "Runecraft",
-    "id": -1
+    "id": 90001
   },
   {
     "name": "Craft 50 Nature Runes",
@@ -13299,7 +13283,12 @@
   {
     "name": "Receive a Slayer Task From Vannaka",
     "description": "Receive a Slayer task from Vannaka in Edgeville Dungeon.",
-    "skills": [],
+    "skills": [
+      {
+        "skill": "Combat",
+        "level": "40"
+      }
+    ],
     "other": "",
     "tier": "Easy",
     "category": "Slayer",
@@ -13609,7 +13598,7 @@
     "other": "",
     "tier": "Hard",
     "category": "Slayer",
-    "id": -1
+    "id": 90002
   },
   {
     "name": "Defeat a Kurask in Tirannwn",
@@ -14237,7 +14226,7 @@
     "other": "",
     "tier": "Hard",
     "category": "Smithing",
-    "id": -1
+    "id": 90003
   },
   {
     "name": "Craft a Piece of Crystal Armour",
@@ -14990,7 +14979,7 @@
         "level": "90"
       }
     ],
-    "other": "",
+    "other": "Fire cape to enter inner Mor Ul Rek",
     "tier": "Elite",
     "category": "Thieving",
     "id": 963
