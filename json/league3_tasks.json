@@ -1454,7 +1454,7 @@
         "level": "50"
       }
     ],
-    "other": "Must kill a Skeletal Wyvern}",
+    "other": "Must kill a Skeletal Wyvern",
     "tier": "Medium",
     "category": "General",
     "id": 1115
@@ -4974,7 +4974,7 @@
         "level": "65"
       }
     ],
-    "other": "",
+    "other": "Completion of Tai Bwo Wannai Trio",
     "tier": "Hard",
     "category": "Fishing",
     "id": 966
@@ -9166,7 +9166,7 @@
         "level": "40"
       }
     ],
-    "other": "",
+    "other": "Completion of Dragon Slayer I (to wear the rune platebody)",
     "tier": "Medium",
     "category": "Defence",
     "id": 727
@@ -9784,7 +9784,7 @@
   },
   {
     "name": "Check a grown Cactus",
-    "description": "Check the health of a Cactus you've grown in Al Kharid.",
+    "description": "Check the health of a Cactus you've grown in Al Kharid or the Farming Guild.",
     "skills": [
       {
         "skill": "Farming",
@@ -9798,7 +9798,7 @@
   },
   {
     "name": "Check a grown Potato Cactus",
-    "description": "Check the health of a Potato Cactus you've grown in Al Kharid.",
+    "description": "Check the health of a Potato Cactus you've grown in Al Kharid or the Farming Guild.",
     "skills": [
       {
         "skill": "Farming",
@@ -12725,7 +12725,7 @@
         "level": "40"
       }
     ],
-    "other": "",
+    "other": "Dragon Slayer I completion",
     "tier": "Medium",
     "category": "Ranged",
     "id": 730
@@ -13235,7 +13235,7 @@
     "skills": [
       {
         "skill": "Combat",
-        "level": "5"
+        "level": "75"
       }
     ],
     "other": "",
@@ -14923,7 +14923,7 @@
         "level": "82"
       }
     ],
-    "other": "",
+    "other": "Quest",
     "tier": "Hard",
     "category": "Thieving",
     "id": 1235
