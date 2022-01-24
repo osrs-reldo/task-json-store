@@ -1757,7 +1757,7 @@
   },
   {
     "id": "900",
-    "name": "Defeat a Rock Crab\u00a0in the Fremennik Province",
+    "name": "Defeat a Rock Crab in the Fremennik Province",
     "description": "Defeat a Rock Crab\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -1768,7 +1768,7 @@
   },
   {
     "id": "905",
-    "name": "Defeat a Cockatrice\u00a0in the Fremennik Province",
+    "name": "Defeat a Cockatrice in the Fremennik Province",
     "description": "Defeat a Cockatrice\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -1800,7 +1800,7 @@
   },
   {
     "id": "914",
-    "name": "Defeat a Troll\u00a0in the Fremennik Province",
+    "name": "Defeat a Troll in the Fremennik Province",
     "description": "Defeat a Troll\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -1893,7 +1893,7 @@
   },
   {
     "id": "1002",
-    "name": "Pick a Pineapple\u00a0on Karamja",
+    "name": "Pick a Pineapple on Karamja",
     "description": "Pick a Pineapple\u00a0on Karamja.",
     "area": "Karamja",
     "type": "Other",
@@ -5156,7 +5156,7 @@
   },
   {
     "id": "906",
-    "name": "Defeat a Kurask\u00a0in the Fremennik Province",
+    "name": "Defeat a Kurask in the Fremennik Province",
     "description": "Defeat a Kurask\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -5208,7 +5208,7 @@
   },
   {
     "id": "918",
-    "name": "Defeat a Dagannoth\u00a0in the Fremennik Province",
+    "name": "Defeat a Dagannoth in the Fremennik Province",
     "description": "Defeat a Dagannoth\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -5230,7 +5230,7 @@
   },
   {
     "id": "926",
-    "name": "Defeat a Turoth\u00a0in the Fremennik Province",
+    "name": "Defeat a Turoth in the Fremennik Province",
     "description": "Defeat a Turoth\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -5246,7 +5246,7 @@
   },
   {
     "id": "931",
-    "name": "Defeat a Jelly\u00a0in the Fremennik Province",
+    "name": "Defeat a Jelly in the Fremennik Province",
     "description": "Defeat a Jelly\u00a0in the Fremennik Province.",
     "area": "Fremennik Province",
     "type": "Combat",
@@ -9918,7 +9918,7 @@
   },
   {
     "id": "976",
-    "name": "Equip a\u00a0Toktz-Ket-Xil",
+    "name": "Equip a Toktz-Ket-Xil",
     "description": "Equip a\u00a0Toktz-Ket-Xil.",
     "area": "Karamja",
     "type": "Combat",
@@ -9977,7 +9977,7 @@
   },
   {
     "id": "985",
-    "name": "Equip a\u00a0Toktz-Xil-Ak",
+    "name": "Equip a Toktz-Xil-Ak",
     "description": "Equip a\u00a0Toktz-Xil-Ak.",
     "area": "Karamja",
     "type": "Combat",
@@ -9993,7 +9993,7 @@
   },
   {
     "id": "986",
-    "name": "Equip a\u00a0Toktz-Xil-Ek",
+    "name": "Equip a Toktz-Xil-Ek",
     "description": "Equip a\u00a0Toktz-Xil-Ek.",
     "area": "Karamja",
     "type": "Combat",
@@ -13707,7 +13707,7 @@
   },
   {
     "id": "663",
-    "name": "Smith a Dragonfire\u00a0Shield",
+    "name": "Smith a Dragonfire Shield",
     "description": "Use an Anvil to smith a Dragonfire\u00a0Shield.",
     "area": "Global",
     "type": "Skill",
@@ -15741,7 +15741,7 @@
   },
   {
     "id": "1257",
-    "name": "Equip an\u00a0Inquisitor's Mace",
+    "name": "Equip an Inquisitor's Mace",
     "description": "Equip an\u00a0Inquisitor's Mace.",
     "area": "Morytania",
     "type": "Combat",
@@ -16052,7 +16052,7 @@
   },
   {
     "id": "1307",
-    "name": "Equip 250\u00a0Black Chinchompas",
+    "name": "Equip 250 Black Chinchompas",
     "description": "Equip a stack of at least 250 Black Chinchompas.",
     "area": "Wilderness",
     "type": "Skill",
@@ -17454,7 +17454,7 @@
   },
   {
     "id": "1123",
-    "name": "Equip Some Primordial, Pegasian and\u00a0Eternal Boots",
+    "name": "Equip Some Primordial, Pegasian and Eternal Boots",
     "description": "Equip\u00a0some Primordial Boots, some Pegasian Boots and\u00a0some Eternal Boots.",
     "area": "Asgarnia",
     "type": "Combat",
@@ -17601,7 +17601,7 @@
   },
   {
     "id": "1338",
-    "name": "Equip an\u00a0Elysian Spirit Shield",
+    "name": "Equip an Elysian Spirit Shield",
     "description": "Equip an\u00a0Elysian Spirit Shield.",
     "area": "Wilderness",
     "type": "Combat",
