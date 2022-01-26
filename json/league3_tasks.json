@@ -358,7 +358,7 @@
     "type": "Skill",
     "tier_icon": "2316",
     "skills": [],
-    "other": "100",
+    "other": "1 Log, 100",
     "tier": "Beginner"
   },
   {
@@ -1343,7 +1343,7 @@
     "type": "Skill",
     "tier_icon": "2317",
     "skills": [],
-    "other": "1000 coins or complete Daddy's Home",
+    "other": "1000 or complete Daddy's Home",
     "tier": "Easy"
   },
   {
@@ -1354,7 +1354,7 @@
     "type": "Skill",
     "tier_icon": "2317",
     "skills": [],
-    "other": "Up to 1000 coins",
+    "other": "At least 1000",
     "tier": "Easy"
   },
   {
@@ -2025,7 +2025,7 @@
         "level": "10"
       }
     ],
-    "other": "5000 coins",
+    "other": "5000",
     "tier": "Easy"
   },
   {
@@ -2437,7 +2437,7 @@
     "type": "Achievement",
     "tier_icon": "2317",
     "skills": [],
-    "other": "",
+    "other": "25 Sage's Renown to unlock King Black Dragon",
     "tier": "Easy"
   },
   {
@@ -2448,7 +2448,7 @@
     "type": "Other",
     "tier_icon": "2317",
     "skills": [],
-    "other": "",
+    "other": "Diary",
     "tier": "Easy"
   },
   {
@@ -4442,7 +4442,7 @@
         "level": "40"
       }
     ],
-    "other": "Dragon Slayer I completion",
+    "other": "Quest",
     "tier": "Medium"
   },
   {
@@ -4590,7 +4590,7 @@
         "level": "25"
       }
     ],
-    "other": "",
+    "other": "quest",
     "tier": "Medium"
   },
   {
@@ -4614,7 +4614,7 @@
         "level": "25"
       }
     ],
-    "other": "",
+    "other": "quest",
     "tier": "Medium"
   },
   {
@@ -4994,7 +4994,7 @@
         "level": "65"
       }
     ],
-    "other": "",
+    "other": "Quest",
     "tier": "Medium"
   },
   {
@@ -5081,7 +5081,7 @@
     "type": "Other",
     "tier_icon": "2318",
     "skills": [],
-    "other": "",
+    "other": "Diary",
     "tier": "Medium"
   },
   {
@@ -6360,7 +6360,7 @@
         "level": "40"
       }
     ],
-    "other": "",
+    "other": "Quest",
     "tier": "Medium"
   },
   {
@@ -8536,7 +8536,7 @@
         "level": "80"
       }
     ],
-    "other": "",
+    "other": "200000",
     "tier": "Hard"
   },
   {
@@ -8787,7 +8787,7 @@
         "level": "25"
       }
     ],
-    "other": "",
+    "other": "quest",
     "tier": "Hard"
   },
   {
@@ -8867,7 +8867,7 @@
         "level": "78"
       }
     ],
-    "other": "",
+    "other": "{{ilink|Lockpick|pic=Lockpick}}",
     "tier": "Hard"
   },
   {
@@ -9003,18 +9003,6 @@
       {
         "skill": "Farming",
         "level": "74"
-      },
-      {
-        "skill": "Hunter",
-        "level": "80"
-      },
-      {
-        "skill": "Smithing",
-        "level": "80"
-      },
-      {
-        "skill": "Crafting",
-        "level": "80"
       }
     ],
     "other": "",
@@ -9393,7 +9381,7 @@
     "type": "Other",
     "tier_icon": "2319",
     "skills": [],
-    "other": "3,200gp",
+    "other": "3200 Coins",
     "tier": "Hard"
   },
   {
@@ -9540,6 +9528,10 @@
     "skills": [
       {
         "skill": "Construction",
+        "level": "72"
+      },
+      {
+        "skill": "Mining",
         "level": "72"
       }
     ],
@@ -10375,7 +10367,7 @@
         "level": "54"
       }
     ],
-    "other": "",
+    "other": "Quest",
     "tier": "Hard"
   },
   {
@@ -11247,7 +11239,7 @@
         "level": "60"
       }
     ],
-    "other": "Completed Sins of the Father",
+    "other": "Quest",
     "tier": "Hard"
   },
   {
@@ -16863,7 +16855,7 @@
         "level": "70"
       }
     ],
-    "other": "Completed Song of the Elves",
+    "other": "Quest",
     "tier": "Elite"
   },
   {
@@ -17255,7 +17247,7 @@
     "type": "Other",
     "tier_icon": "3739",
     "skills": [],
-    "other": "250,000,000 GP",
+    "other": "250000000 Coins",
     "tier": "Master"
   },
   {
