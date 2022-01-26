@@ -7623,8 +7623,8 @@
   },
   {
     "id": "1493",
-    "name": "250 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 250 times.",
+    "name": "225 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 225 times.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -7639,8 +7639,8 @@
   },
   {
     "id": "250",
-    "name": "Complete 200 Farming Contracts",
-    "description": "Complete 200 Farming Contracts for Guildmaster Jane in the Farming Guild.",
+    "name": "Complete 110 Farming Contracts",
+    "description": "Complete 110 Farming Contracts for Guildmaster Jane in the Farming Guild.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -7655,8 +7655,8 @@
   },
   {
     "id": "251",
-    "name": "Complete 300 Farming Contracts",
-    "description": "Complete 300 Farming Contracts for Guildmaster Jane in the Farming Guild.",
+    "name": "Complete 120 Farming Contracts",
+    "description": "Complete 120 Farming Contracts for Guildmaster Jane in the Farming Guild.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -7671,8 +7671,8 @@
   },
   {
     "id": "252",
-    "name": "Complete 400 Farming Contracts",
-    "description": "Complete 400 Farming Contracts for Guildmaster Jane in the Farming Guild.",
+    "name": "Complete 130 Farming Contracts",
+    "description": "Complete 130 Farming Contracts for Guildmaster Jane in the Farming Guild.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -7687,8 +7687,8 @@
   },
   {
     "id": "253",
-    "name": "Complete 500 Farming Contracts",
-    "description": "Complete 500 Farming Contracts for Guildmaster Jane in the Farming Guild.",
+    "name": "Complete 150 Farming Contracts",
+    "description": "Complete 150 Farming Contracts for Guildmaster Jane in the Farming Guild.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -7799,8 +7799,8 @@
   },
   {
     "id": "325",
-    "name": "2500 Lizardmen Shaman Kills",
-    "description": "Help the Shayzien House by killing 2500 Lizardmen shamans.",
+    "name": "1250 Lizardmen Shaman Kills",
+    "description": "Help the Shayzien House by killing 1250 Lizardmen shamans.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2319",
@@ -7810,8 +7810,8 @@
   },
   {
     "id": "326",
-    "name": "5000 Lizardmen Shaman Kills",
-    "description": "Help the Shayzien House by killing 5000 Lizardmen shamans.",
+    "name": "1500 Lizardmen Shaman Kills",
+    "description": "Help the Shayzien House by killing 1500 Lizardmen shamans.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2319",
@@ -7876,8 +7876,8 @@
   },
   {
     "id": "333",
-    "name": "250 Sarachnis Kills",
-    "description": "Kill Sarachnis in the Forthos Dungeon 250 times.",
+    "name": "150 Sarachnis Kills",
+    "description": "Kill Sarachnis in the Forthos Dungeon 150 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2319",
@@ -7887,8 +7887,8 @@
   },
   {
     "id": "334",
-    "name": "500 Sarachnis Kills",
-    "description": "Kill Sarachnis in the Forthos Dungeon 500 times.",
+    "name": "200 Sarachnis Kills",
+    "description": "Kill Sarachnis in the Forthos Dungeon 200 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2319",
@@ -8130,8 +8130,8 @@
   },
   {
     "id": "426",
-    "name": "Steal 250 Artefacts",
-    "description": "Steal 250 artefacts for Captain Khaled in Piscarilius.",
+    "name": "Steal 125 Artefacts",
+    "description": "Steal 125 artefacts for Captain Khaled in Piscarilius.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2319",
@@ -13122,8 +13122,8 @@
   },
   {
     "id": "241",
-    "name": "500 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 500 times.",
+    "name": "250 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 250 times.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2320",
@@ -13138,8 +13138,8 @@
   },
   {
     "id": "1494",
-    "name": "750 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 750 times.",
+    "name": "300 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 300 times.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2320",
@@ -13154,8 +13154,8 @@
   },
   {
     "id": "242",
-    "name": "1,000 Wintertodt Kills",
-    "description": "Help the pyromancers subdue the Wintertodt 1,000 times.",
+    "name": "350 Wintertodt Kills",
+    "description": "Help the pyromancers subdue the Wintertodt 350 times.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2320",
@@ -13192,8 +13192,8 @@
   },
   {
     "id": "343",
-    "name": "75 Skotizo Kills",
-    "description": "Kill Skotizo beneath the Catacombs of Kourend 75 times.",
+    "name": "60 Skotizo Kills",
+    "description": "Kill Skotizo beneath the Catacombs of Kourend 60 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -13203,6 +13203,17 @@
   },
   {
     "id": "344",
+    "name": "80 Skotizo Kills",
+    "description": "Kill Skotizo beneath the Catacombs of Kourend 80 times.",
+    "area": "Kourend & Kebos",
+    "type": "Combat",
+    "tier_icon": "2320",
+    "skills": [],
+    "other": "",
+    "tier": "Elite"
+  },
+  {
+    "id": "345",
     "name": "100 Skotizo Kills",
     "description": "Kill Skotizo beneath the Catacombs of Kourend 100 times.",
     "area": "Kourend & Kebos",
@@ -13213,20 +13224,9 @@
     "tier": "Elite"
   },
   {
-    "id": "345",
-    "name": "150 Skotizo Kills",
-    "description": "Kill Skotizo beneath the Catacombs of Kourend 150 times.",
-    "area": "Kourend & Kebos",
-    "type": "Combat",
-    "tier_icon": "2320",
-    "skills": [],
-    "other": "",
-    "tier": "Elite"
-  },
-  {
     "id": "346",
-    "name": "200 Skotizo Kills",
-    "description": "Kill Skotizo beneath the Catacombs of Kourend 200 times.",
+    "name": "125 Skotizo Kills",
+    "description": "Kill Skotizo beneath the Catacombs of Kourend 125 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -13236,8 +13236,8 @@
   },
   {
     "id": "347",
-    "name": "250 Skotizo Kills",
-    "description": "Kill Skotizo beneath the Catacombs of Kourend 250 times.",
+    "name": "150 Skotizo Kills",
+    "description": "Kill Skotizo beneath the Catacombs of Kourend 150 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -13343,8 +13343,8 @@
   },
   {
     "id": "354",
-    "name": "500 Alchemical Hydra Kills",
-    "description": "Kill the Alchemical Hydra in Mount Karuulm 500 times.",
+    "name": "300 Alchemical Hydra Kills",
+    "description": "Kill the Alchemical Hydra in Mount Karuulm 300 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -13359,8 +13359,8 @@
   },
   {
     "id": "1401",
-    "name": "750 Alchemical Hydra Kills",
-    "description": "Kill the Alchemical Hydra in Mount Karuulm 750 times.",
+    "name": "500 Alchemical Hydra Kills",
+    "description": "Kill the Alchemical Hydra in Mount Karuulm 500 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -13523,6 +13523,22 @@
   },
   {
     "id": "419",
+    "name": "Open 200 Grubby Chests",
+    "description": "Open the grubby chest in the Forthos Dungeon 200 times.",
+    "area": "Kourend & Kebos",
+    "type": "Other",
+    "tier_icon": "2320",
+    "skills": [
+      {
+        "skill": "Thieving",
+        "level": "57"
+      }
+    ],
+    "other": "",
+    "tier": "Elite"
+  },
+  {
+    "id": "420",
     "name": "Open 250 Grubby Chests",
     "description": "Open the grubby chest in the Forthos Dungeon 250 times.",
     "area": "Kourend & Kebos",
@@ -13538,25 +13554,9 @@
     "tier": "Elite"
   },
   {
-    "id": "420",
-    "name": "Open 500 Grubby Chests",
-    "description": "Open the grubby chest in the Forthos Dungeon 500 times.",
-    "area": "Kourend & Kebos",
-    "type": "Other",
-    "tier_icon": "2320",
-    "skills": [
-      {
-        "skill": "Thieving",
-        "level": "57"
-      }
-    ],
-    "other": "",
-    "tier": "Elite"
-  },
-  {
     "id": "427",
-    "name": "Steal 500 Artefacts",
-    "description": "Steal 500 artefacts for Captain Khaled in Piscarilius.",
+    "name": "Steal 150 Artefacts",
+    "description": "Steal 150 artefacts for Captain Khaled in Piscarilius.",
     "area": "Kourend & Kebos",
     "type": "Skill",
     "tier_icon": "2320",
@@ -13582,8 +13582,8 @@
   },
   {
     "id": "473",
-    "name": "50 Mimic Kills",
-    "description": "Kill the Mimic as part of a Treasure Trail 50 times.",
+    "name": "35 Mimic Kills",
+    "description": "Kill the Mimic as part of a Treasure Trail 35 times.",
     "area": "Global",
     "type": "Combat",
     "tier_icon": "2320",
@@ -14964,8 +14964,8 @@
   },
   {
     "id": "1055",
-    "name": "Defeat 750 Demonic Gorillas",
-    "description": "Defeat 750 Demonic Gorillas in the Crash Site Cavern.",
+    "name": "Defeat 500 Demonic Gorillas",
+    "description": "Defeat 500 Demonic Gorillas in the Crash Site Cavern.",
     "area": "Kandarin",
     "type": "Combat",
     "tier_icon": "2320",
@@ -14975,8 +14975,8 @@
   },
   {
     "id": "1056",
-    "name": "Defeat 1,500 Demonic Gorillas",
-    "description": "Defeat 1,500 Demonic Gorillas in the Crash Site Cavern.",
+    "name": "Defeat 750 Demonic Gorillas",
+    "description": "Defeat 750 Demonic Gorillas in the Crash Site Cavern.",
     "area": "Kandarin",
     "type": "Combat",
     "tier_icon": "2320",
@@ -16504,8 +16504,8 @@
   },
   {
     "id": "1399",
-    "name": "750 Sarachnis Kills",
-    "description": "Kill Sarachnis in the Forthos Dungeon 750 times.",
+    "name": "250 Sarachnis Kills",
+    "description": "Kill Sarachnis in the Forthos Dungeon 250 times.",
     "area": "Kourend & Kebos",
     "type": "Combat",
     "tier_icon": "2320",
@@ -16641,8 +16641,8 @@
   },
   {
     "id": "1432",
-    "name": "500 Tempoross Kills",
-    "description": "Help the Spirit Anglers subdue the Tempoross 500 times.",
+    "name": "275 Tempoross Kills",
+    "description": "Help the Spirit Anglers subdue the Tempoross 275 times.",
     "area": "Kharidian Desert",
     "type": "Skill",
     "tier_icon": "2320",
@@ -16657,8 +16657,8 @@
   },
   {
     "id": "1433",
-    "name": "750 Tempoross Kills",
-    "description": "Help the Spirit Anglers subdue the Tempoross 750 times.",
+    "name": "300 Tempoross Kills",
+    "description": "Help the Spirit Anglers subdue the Tempoross 300 times.",
     "area": "Kharidian Desert",
     "type": "Skill",
     "tier_icon": "2320",
@@ -16673,8 +16673,8 @@
   },
   {
     "id": "1434",
-    "name": "1,000 Tempoross Kills",
-    "description": "Help the Spirit Anglers subdue the Tempoross 1,000 times.",
+    "name": "350 Tempoross Kills",
+    "description": "Help the Spirit Anglers subdue the Tempoross 350 times.",
     "area": "Kharidian Desert",
     "type": "Skill",
     "tier_icon": "2320",
@@ -17165,8 +17165,8 @@
   },
   {
     "id": "474",
-    "name": "100 Mimic Kills",
-    "description": "Kill the Mimic as part of a Treasure Trail 100 times.",
+    "name": "50 Mimic Kills",
+    "description": "Kill the Mimic as part of a Treasure Trail 50 times.",
     "area": "Global",
     "type": "Combat",
     "tier_icon": "3739",
