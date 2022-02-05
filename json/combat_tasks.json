@@ -114,7 +114,7 @@
   {
     "monster": "Hill Giant",
     "name": "Into the Den of Giants",
-    "description": "Kill a Hill Giant, Moss Giant and Fire Giant in the Giants' Den|Giant Cave within the Shayzien region.",
+    "description": "Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.",
     "category": "Kill count",
     "tier": "Easy"
   },
@@ -1414,7 +1414,7 @@
     "tier": "Elite"
   },
   {
-    "monster": "The Mimic|Mimic",
+    "monster": "Mimic",
     "name": "Mimic Adept",
     "description": "Kill the Mimic once.",
     "category": "Kill count",
