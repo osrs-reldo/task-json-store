@@ -5,7 +5,8 @@
     "name": "Noxious Foe",
     "description": "Kill an Aberrant Spectre.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "0"
   },
   {
     "id": "24",
@@ -13,7 +14,8 @@
     "name": "Barrows Novice",
     "description": "Open the Barrows chest 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "1"
   },
   {
     "id": "28",
@@ -21,7 +23,8 @@
     "name": "Defence? What Defence?",
     "description": "Kill any Barrows Brother using only magical damage.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "2"
   },
   {
     "id": "32",
@@ -29,7 +32,8 @@
     "name": "Big, Black and Fiery",
     "description": "Kill a Black Dragon.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "3"
   },
   {
     "id": "33",
@@ -37,7 +41,8 @@
     "name": "The Demonic Punching Bag",
     "description": "Kill a Bloodveld.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "4"
   },
   {
     "id": "35",
@@ -45,7 +50,8 @@
     "name": "Bryophyta Novice",
     "description": "Kill Bryophyta once.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "5"
   },
   {
     "id": "37",
@@ -53,7 +59,8 @@
     "name": "Protection from Moss",
     "description": "Kill Bryophyta with the Protect from Magic prayer active.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "6"
   },
   {
     "id": "39",
@@ -61,7 +68,8 @@
     "name": "Preparation Is Key",
     "description": "Kill Bryophyta without suffering any poison damage.",
     "category": "Perfection",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "7"
   },
   {
     "id": "40",
@@ -69,7 +77,8 @@
     "name": "A Slow Death",
     "description": "Kill Bryophyta with either poison or venom being the final source of damage.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "8"
   },
   {
     "id": "41",
@@ -77,7 +86,8 @@
     "name": "Fighting as Intended II",
     "description": "Kill Bryophyta on a free to play world.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "9"
   },
   {
     "id": "76",
@@ -85,7 +95,8 @@
     "name": "Deranged Archaeologist Novice",
     "description": "Kill the Deranged Archaeologist 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "10"
   },
   {
     "id": "80",
@@ -93,7 +104,8 @@
     "name": "The Walking Volcano",
     "description": "Kill a Fire Giant.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "11"
   },
   {
     "id": "398",
@@ -101,7 +113,8 @@
     "name": "Into the Den of Giants",
     "description": "Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "12"
   },
   {
     "id": "120",
@@ -109,7 +122,8 @@
     "name": "A Greater Foe",
     "description": "Kill a Greater Demon.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "13"
   },
   {
     "id": "121",
@@ -117,7 +131,8 @@
     "name": "Not So Great After All",
     "description": "Finish off a Greater Demon with a demonbane weapon.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "14"
   },
   {
     "id": "122",
@@ -125,7 +140,8 @@
     "name": "A Demon's Best Friend",
     "description": "Kill a Hellhound.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "15"
   },
   {
     "id": "129",
@@ -133,7 +149,8 @@
     "name": "Obor Novice",
     "description": "Kill Obor once.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "16"
   },
   {
     "id": "131",
@@ -141,7 +158,8 @@
     "name": "Sleeping Giant",
     "description": "Kill Obor whilst he is immobilized.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "17"
   },
   {
     "id": "134",
@@ -149,7 +167,8 @@
     "name": "Fighting as Intended",
     "description": "Kill Obor on a free to play world.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "18"
   },
   {
     "id": "162",
@@ -157,7 +176,8 @@
     "name": "King Black Dragon Novice",
     "description": "Kill the King Black Dragon 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "19"
   },
   {
     "id": "174",
@@ -165,7 +185,8 @@
     "name": "A Scaley Encounter",
     "description": "Kill a Lizardman Shaman.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "20"
   },
   {
     "id": "175",
@@ -173,7 +194,8 @@
     "name": "Shayzien Protector",
     "description": "Kill a Lizardman Shaman in Molch which has not dealt damage to anyone (excluding it's Spawns).",
     "category": "Perfection",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "21"
   },
   {
     "id": "177",
@@ -181,7 +203,8 @@
     "name": "Giant Mole Novice",
     "description": "Kill the Giant Mole 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "22"
   },
   {
     "id": "206",
@@ -189,7 +212,8 @@
     "name": "Sarachnis Novice",
     "description": "Kill Sarachnis 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "23"
   },
   {
     "id": "279",
@@ -197,7 +221,8 @@
     "name": "Wintertodt Novice",
     "description": "Subdue the Wintertodt 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "24"
   },
   {
     "id": "281",
@@ -205,7 +230,8 @@
     "name": "Mummy!",
     "description": "Heal a pyromancer after they have fallen.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "25"
   },
   {
     "id": "282",
@@ -213,7 +239,8 @@
     "name": "Handyman",
     "description": "Repair a brazier which has been destroyed by the Wintertodt.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "26"
   },
   {
     "id": "285",
@@ -221,7 +248,8 @@
     "name": "Cosy",
     "description": "Subdue the Wintertodt with four pieces of warm equipment equipped.",
     "category": "Restriction",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "27"
   },
   {
     "id": "287",
@@ -229,7 +257,8 @@
     "name": "A Slithery Encounter",
     "description": "Kill a Wyrm.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "28"
   },
   {
     "id": "353",
@@ -237,7 +266,8 @@
     "name": "Tempoross Novice",
     "description": "Subdue Tempoross 10 times.",
     "category": "Kill Count",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "29"
   },
   {
     "id": "356",
@@ -245,7 +275,8 @@
     "name": "Master of Buckets",
     "description": "Extinguish at least 5 fires during a single Tempoross fight.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "30"
   },
   {
     "id": "357",
@@ -253,7 +284,8 @@
     "name": "Calm Before the Storm",
     "description": "Repair either a mast or a totem pole.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "31"
   },
   {
     "id": "360",
@@ -261,7 +293,8 @@
     "name": "Fire in the Hole!",
     "description": "Attack Tempoross from both sides by loading both cannons on both ships.",
     "category": "Mechanical",
-    "tier": "Easy"
+    "tier": "Easy",
+    "clientSortId": "32"
   },
   {
     "id": "399",
@@ -269,7 +302,8 @@
     "name": "Sit Back and Relax",
     "description": "Deal 100 damage to creatures using undead thralls.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "33"
   },
   {
     "id": "25",
@@ -277,7 +311,8 @@
     "name": "Barrows Champion",
     "description": "Open the Barrows chest 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "34"
   },
   {
     "id": "26",
@@ -285,7 +320,8 @@
     "name": "Can't Touch Me",
     "description": "Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "35"
   },
   {
     "id": "27",
@@ -293,7 +329,8 @@
     "name": "Pray for Success",
     "description": "Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "36"
   },
   {
     "id": "34",
@@ -301,7 +338,8 @@
     "name": "Brutal, Big, Black and Firey",
     "description": "Kill a Brutal Black Dragon.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "37"
   },
   {
     "id": "36",
@@ -309,7 +347,8 @@
     "name": "Bryophyta Champion",
     "description": "Kill Bryophyta 5 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "38"
   },
   {
     "id": "38",
@@ -317,7 +356,8 @@
     "name": "Quick Cutter",
     "description": "Kill all 3 of Bryophyta's growthlings within 3 seconds of the first one dying.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "39"
   },
   {
     "id": "46",
@@ -325,7 +365,8 @@
     "name": "Demonic Weakening",
     "description": "Kill Skotizo with no altars active.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "40"
   },
   {
     "id": "48",
@@ -333,7 +374,8 @@
     "name": "Demonbane Weaponry",
     "description": "Kill Skotizo with a demonbane weapon equipped.",
     "category": "Restriction",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "41"
   },
   {
     "id": "61",
@@ -341,7 +383,8 @@
     "name": "Chaos Fanatic Champion",
     "description": "Kill the Chaos Fanatic 10 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "42"
   },
   {
     "id": "63",
@@ -349,7 +392,8 @@
     "name": "Sorry, What Was That?",
     "description": "Kill the Chaos Fanatic without anyone being hit by his explosion attack.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "43"
   },
   {
     "id": "70",
@@ -357,7 +401,8 @@
     "name": "Crazy Archaeologist Champion",
     "description": "Kill the Crazy Archaeologist 10 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "44"
   },
   {
     "id": "72",
@@ -365,7 +410,8 @@
     "name": "Mage of the Ruins",
     "description": "Kill the Crazy Archaeologist with only magical attacks.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "45"
   },
   {
     "id": "73",
@@ -373,7 +419,8 @@
     "name": "I'd Rather Not Learn",
     "description": "Kill the Crazy Archaeologist without anyone being hit by his \"Rain of Knowledge\" attack.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "46"
   },
   {
     "id": "77",
@@ -381,7 +428,8 @@
     "name": "Deranged Archaeologist Champion",
     "description": "Kill the Deranged Archaeologist 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "47"
   },
   {
     "id": "78",
@@ -389,7 +437,8 @@
     "name": "Mage of the Swamp",
     "description": "Kill the Deranged Archaeologist with only magical attacks.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "48"
   },
   {
     "id": "79",
@@ -397,7 +446,8 @@
     "name": "I'd Rather Be Illiterate",
     "description": "Kill the Deranged Archaeologist without anyone being hit by his \"Learn to Read\" attack.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "49"
   },
   {
     "id": "97",
@@ -405,7 +455,8 @@
     "name": "A Smashing Time",
     "description": "Kill a Gargoyle.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "50"
   },
   {
     "id": "130",
@@ -413,7 +464,8 @@
     "name": "Obor Champion",
     "description": "Kill Obor 5 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "51"
   },
   {
     "id": "132",
@@ -421,7 +473,8 @@
     "name": "Back to the Wall",
     "description": "Kill Obor without being pushed back more than one square by his knockback attack.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "52"
   },
   {
     "id": "133",
@@ -429,7 +482,8 @@
     "name": "Squashing the Giant",
     "description": "Kill Obor without taking any damage off prayer.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "53"
   },
   {
     "id": "163",
@@ -437,7 +491,8 @@
     "name": "King Black Dragon Champion",
     "description": "Kill the King Black Dragon 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "54"
   },
   {
     "id": "164",
@@ -445,7 +500,8 @@
     "name": "Claw Clipper",
     "description": "Kill the King Black Dragon with the Protect from Melee prayer activated.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "55"
   },
   {
     "id": "165",
@@ -453,7 +509,8 @@
     "name": "Hide Penetration",
     "description": "Kill the King Black Dragon with a stab weapon.",
     "category": "Restriction",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "56"
   },
   {
     "id": "166",
@@ -461,7 +518,8 @@
     "name": "Antifire Protection",
     "description": "Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.",
     "category": "Restriction",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "57"
   },
   {
     "id": "173",
@@ -469,7 +527,8 @@
     "name": "Master of Broad Weaponry",
     "description": "Kill a Kurask.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "58"
   },
   {
     "id": "178",
@@ -477,7 +536,8 @@
     "name": "Giant Mole Champion",
     "description": "Kill the Giant mole 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "59"
   },
   {
     "id": "182",
@@ -485,7 +545,8 @@
     "name": "Avoiding Those Little Arms",
     "description": "Kill the Giant Mole without her damaging anyone.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "60"
   },
   {
     "id": "197",
@@ -493,7 +554,8 @@
     "name": "Dagannoth Prime Champion",
     "description": "Kill Dagannoth Prime 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "61"
   },
   {
     "id": "201",
@@ -501,7 +563,8 @@
     "name": "Dagannoth Rex Champion",
     "description": "Kill Dagannoth Rex 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "62"
   },
   {
     "id": "204",
@@ -509,7 +572,8 @@
     "name": "A Frozen King",
     "description": "Kill Dagannoth Rex whilst he is immobilised.",
     "category": "Mechanical",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "63"
   },
   {
     "id": "207",
@@ -517,7 +581,8 @@
     "name": "Sarachnis Champion",
     "description": "Kill Sarachnis 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "64"
   },
   {
     "id": "210",
@@ -525,7 +590,8 @@
     "name": "Newspaper Enthusiast",
     "description": "Kill Sarachnis with a crush weapon.",
     "category": "Restriction",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "65"
   },
   {
     "id": "223",
@@ -533,7 +599,8 @@
     "name": "A Frozen Foe from the Past",
     "description": "Kill a Skeletal Wyvern",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "66"
   },
   {
     "id": "233",
@@ -541,7 +608,8 @@
     "name": "Dagannoth Supreme Champion",
     "description": "Kill Dagannoth Supreme 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "67"
   },
   {
     "id": "280",
@@ -549,7 +617,8 @@
     "name": "Wintertodt Champion",
     "description": "Subdue the Wintertodt 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "68"
   },
   {
     "id": "283",
@@ -557,7 +626,8 @@
     "name": "Can We Fix It?",
     "description": "Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "69"
   },
   {
     "id": "284",
@@ -565,7 +635,8 @@
     "name": "Leaving No One Behind",
     "description": "Subdue the Wintertodt without any of the Pyromancers falling.",
     "category": "Restriction",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "70"
   },
   {
     "id": "44",
@@ -573,7 +644,8 @@
     "name": "Skotizo Adept",
     "description": "Kill Skotizo once.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "71"
   },
   {
     "id": "354",
@@ -581,7 +653,8 @@
     "name": "Tempoross Champion",
     "description": "Subdue Tempoross 50 times.",
     "category": "Kill Count",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "72"
   },
   {
     "id": "359",
@@ -589,7 +662,8 @@
     "name": "The Lone Angler",
     "description": "Subdue Tempoross alone without getting hit by any fires, torrents or waves.",
     "category": "Perfection",
-    "tier": "Medium"
+    "tier": "Medium",
+    "clientSortId": "73"
   },
   {
     "id": "1",
@@ -597,7 +671,8 @@
     "name": "Abyssal Adept",
     "description": "Kill the Abyssal Sire 100 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "74"
   },
   {
     "id": "3",
@@ -605,7 +680,8 @@
     "name": "They Grow Up Too Fast",
     "description": "Kill the Abyssal Sire without letting any Scion mature.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "75"
   },
   {
     "id": "5",
@@ -613,7 +689,8 @@
     "name": "Don't Whip Me",
     "description": "Kill the Abyssal Sire without being hit by any external tentacles.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "76"
   },
   {
     "id": "7",
@@ -621,7 +698,8 @@
     "name": "Don't Stop Moving",
     "description": "Kill the Abyssal Sire without taking damage from any miasma pools.",
     "category": "Perfection",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "77"
   },
   {
     "id": "9",
@@ -629,7 +707,8 @@
     "name": "Kree'arra Adept",
     "description": "Kill Kree'arra 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "78"
   },
   {
     "id": "12",
@@ -637,7 +716,8 @@
     "name": "Airborne Showdown",
     "description": "Finish off Kree'arra whilst all of his bodyguards are dead.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "79"
   },
   {
     "id": "16",
@@ -645,7 +725,8 @@
     "name": "General Graardor Adept",
     "description": "Kill General Graardor 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "80"
   },
   {
     "id": "18",
@@ -653,7 +734,8 @@
     "name": "Ourg Freezer",
     "description": "Kill General Graardor whilst he is immobilized.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "81"
   },
   {
     "id": "20",
@@ -661,7 +743,8 @@
     "name": "General Showdown",
     "description": "Finish off General Graardor whilst all of his bodyguards are dead.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "82"
   },
   {
     "id": "29",
@@ -669,7 +752,8 @@
     "name": "Just Like That",
     "description": "Kill Karil using only damage dealt by special attacks.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "83"
   },
   {
     "id": "30",
@@ -677,7 +761,8 @@
     "name": "Faithless Crypt Run",
     "description": "Kill all six Barrows Brothers and loot the Barrows chest without ever having more than 0 prayer points.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "84"
   },
   {
     "id": "42",
@@ -685,7 +770,8 @@
     "name": "Callisto Adept",
     "description": "Kill Callisto 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "85"
   },
   {
     "id": "45",
@@ -693,7 +779,8 @@
     "name": "Skotizo Veteran",
     "description": "Kill Skotizo 10 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "86"
   },
   {
     "id": "57",
@@ -701,7 +788,8 @@
     "name": "Chaos Elemental Adept",
     "description": "Kill the Chaos Elemental 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "87"
   },
   {
     "id": "59",
@@ -709,7 +797,8 @@
     "name": "Hoarder",
     "description": "Kill the Chaos Elemental without it unequipping any of your items.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "88"
   },
   {
     "id": "60",
@@ -717,7 +806,8 @@
     "name": "The Flincher",
     "description": "Kill the Chaos Elemental without taking any damage from it's attacks.",
     "category": "Perfection",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "89"
   },
   {
     "id": "62",
@@ -725,7 +815,8 @@
     "name": "Chaos Fanatic Adept",
     "description": "Kill the Chaos Fanatic 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "90"
   },
   {
     "id": "64",
@@ -733,7 +824,8 @@
     "name": "Praying to the Gods",
     "description": "Kill the Chaos Fanatic 10 times without drinking any potion which restores prayer or leaving the Wilderness.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "91"
   },
   {
     "id": "71",
@@ -741,7 +833,8 @@
     "name": "Crazy Archaeologist Adept",
     "description": "Kill the Crazy Archaeologist 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "92"
   },
   {
     "id": "82",
@@ -749,7 +842,8 @@
     "name": "Grotesque Guardians Adept",
     "description": "Kill the Grotesque Guardians 100 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "93"
   },
   {
     "id": "84",
@@ -757,7 +851,8 @@
     "name": "Don't Look at the Eclipse",
     "description": "Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "94"
   },
   {
     "id": "85",
@@ -765,7 +860,8 @@
     "name": "Prison Break",
     "description": "Kill the Grotesque Guardians without taking damage from Dusk's prison attack.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "95"
   },
   {
     "id": "86",
@@ -773,7 +869,8 @@
     "name": "Granite Footwork",
     "description": "Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "96"
   },
   {
     "id": "87",
@@ -781,7 +878,8 @@
     "name": "Heal No More",
     "description": "Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "97"
   },
   {
     "id": "88",
@@ -789,7 +887,8 @@
     "name": "Static Awareness",
     "description": "Kill the Grotesque Guardians without being hit by any lightning attacks.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "98"
   },
   {
     "id": "123",
@@ -797,7 +896,8 @@
     "name": "Hespori Adept",
     "description": "Kill Hespori 10 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "99"
   },
   {
     "id": "124",
@@ -805,7 +905,8 @@
     "name": "Hesporisn't",
     "description": "Finish off Hespori with a special attack.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "100"
   },
   {
     "id": "125",
@@ -813,7 +914,8 @@
     "name": "Weed Whacker",
     "description": "Kill all of Hesporis flowers within 5 seconds.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "101"
   },
   {
     "id": "157",
@@ -821,7 +923,8 @@
     "name": "Kalphite Queen Adept",
     "description": "Kill the Kalphite Queen 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "102"
   },
   {
     "id": "159",
@@ -829,7 +932,8 @@
     "name": "Chitin Penetrator",
     "description": "Kill the Kalphite Queen while her defence was last lowered by you.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "103"
   },
   {
     "id": "167",
@@ -837,7 +941,8 @@
     "name": "Who Is the King Now?",
     "description": "Kill The King Black Dragon 10 times in a privately rented instance without leaving the instance.",
     "category": "Stamina",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "104"
   },
   {
     "id": "168",
@@ -845,7 +950,8 @@
     "name": "Kraken Adept",
     "description": "Kill the Kraken 100 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "105"
   },
   {
     "id": "169",
@@ -853,7 +959,8 @@
     "name": "Unnecessary Optimization",
     "description": "Kill the Kraken after killing all four tentacles.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "106"
   },
   {
     "id": "170",
@@ -861,7 +968,8 @@
     "name": "Krakan't Hurt Me",
     "description": "Kill the Kraken 25 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "107"
   },
   {
     "id": "179",
@@ -869,7 +977,8 @@
     "name": "Why Are You Running?",
     "description": "Kill the Giant Mole without her burrowing more than 2 times.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "108"
   },
   {
     "id": "181",
@@ -877,7 +986,8 @@
     "name": "Whack-a-Mole",
     "description": "Kill the Giant Mole within 10 seconds of her resurfacing.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "109"
   },
   {
     "id": "183",
@@ -885,7 +995,8 @@
     "name": "Nightmare Champion",
     "description": "Kill The Nightmare once.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "110"
   },
   {
     "id": "198",
@@ -893,7 +1004,8 @@
     "name": "Dagannoth Prime Adept",
     "description": "Kill Dagannoth Prime 150 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "111"
   },
   {
     "id": "202",
@@ -901,7 +1013,8 @@
     "name": "Dagannoth Rex Adept",
     "description": "Kill Dagannoth Rex 150 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "112"
   },
   {
     "id": "208",
@@ -909,7 +1022,8 @@
     "name": "Ready to Pounce",
     "description": "Kill Sarachnis without her using her range attack twice in a row.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "113"
   },
   {
     "id": "209",
@@ -917,7 +1031,8 @@
     "name": "Inspect Repellent",
     "description": "Kill Sarachnis without her dealing damage to anyone.",
     "category": "Perfection",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "114"
   },
   {
     "id": "211",
@@ -925,7 +1040,8 @@
     "name": "Commander Zilyana Adept",
     "description": "Kill Commander Zilyana 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "115"
   },
   {
     "id": "213",
@@ -933,7 +1049,8 @@
     "name": "Commander Showdown",
     "description": "Finish off Commander Zilyana while all of her bodyguards are dead.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "116"
   },
   {
     "id": "218",
@@ -941,7 +1058,8 @@
     "name": "Scorpia Adept",
     "description": "Kill Scorpia 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "117"
   },
   {
     "id": "220",
@@ -949,7 +1067,8 @@
     "name": "I Can't Reach That",
     "description": "Kill Scorpia without taking any damage from her.",
     "category": "Perfection",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "118"
   },
   {
     "id": "221",
@@ -957,7 +1076,8 @@
     "name": "Guardians No More",
     "description": "Kill Scorpia without killing her guardians.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "119"
   },
   {
     "id": "224",
@@ -965,7 +1085,8 @@
     "name": "Zulrah Adept",
     "description": "Kill Zulrah 100 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "120"
   },
   {
     "id": "234",
@@ -973,7 +1094,8 @@
     "name": "Dagannoth Supreme Adept",
     "description": "Kill Dagannoth Supreme 150 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "121"
   },
   {
     "id": "397",
@@ -981,7 +1103,8 @@
     "name": "Theatre of Blood: SM Adept",
     "description": "Complete the Theatre of Blood: Entry Mode 1 time.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "122"
   },
   {
     "id": "264",
@@ -989,7 +1112,8 @@
     "name": "Venenatis Adept",
     "description": "Kill Venenatis 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "123"
   },
   {
     "id": "266",
@@ -997,7 +1121,8 @@
     "name": "Vet'ion Adept",
     "description": "Kill Vet'ion 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "124"
   },
   {
     "id": "286",
@@ -1005,7 +1130,8 @@
     "name": "Why Fletch?",
     "description": "Subdue the Wintertodt after earning 3000 or more points.",
     "category": "Stamina",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "125"
   },
   {
     "id": "332",
@@ -1013,7 +1139,8 @@
     "name": "K'ril Tsutsaroth Adept",
     "description": "Kill K'ril Tsutsaroth 50 times.",
     "category": "Kill Count",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "126"
   },
   {
     "id": "334",
@@ -1021,7 +1148,8 @@
     "name": "Yarr No More",
     "description": "Receive kill-credit for K'ril Tsutsaroth without him using his special attack.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "127"
   },
   {
     "id": "335",
@@ -1029,7 +1157,8 @@
     "name": "Demonic Showdown",
     "description": "Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "128"
   },
   {
     "id": "339",
@@ -1037,7 +1166,8 @@
     "name": "Demonbane Weaponry II",
     "description": "Finish off K'ril Tsutsaroth with a demonbane weapon.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "129"
   },
   {
     "id": "355",
@@ -1045,7 +1175,8 @@
     "name": "Dress Like You Mean It",
     "description": "Subdue Tempoross while wearing any variation of the angler outfit.",
     "category": "Restriction",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "130"
   },
   {
     "id": "358",
@@ -1053,7 +1184,8 @@
     "name": "Why Cook?",
     "description": "Subdue Tempoross, getting rewarded with 10 reward permits from a single Tempoross fight.",
     "category": "Mechanical",
-    "tier": "Hard"
+    "tier": "Hard",
+    "clientSortId": "131"
   },
   {
     "id": "2",
@@ -1061,7 +1193,8 @@
     "name": "Abyssal Veteran",
     "description": "Kill the Abyssal Sire 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "132"
   },
   {
     "id": "4",
@@ -1069,7 +1202,8 @@
     "name": "Respiratory Runner",
     "description": "Kill the Abyssal Sire after only stunning him once.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "133"
   },
   {
     "id": "6",
@@ -1077,7 +1211,8 @@
     "name": "Demonic Rebound",
     "description": "Use the Vengeance spell to reflect the damage from the Abyssal Sire's explosion back to him.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "134"
   },
   {
     "id": "8",
@@ -1085,7 +1220,8 @@
     "name": "Perfect Sire",
     "description": "Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "135"
   },
   {
     "id": "10",
@@ -1093,7 +1229,8 @@
     "name": "Kree'arra Veteran",
     "description": "Kill Kree'arra 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "136"
   },
   {
     "id": "17",
@@ -1101,7 +1238,8 @@
     "name": "General Graardor Veteran",
     "description": "Kill General Graardor 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "137"
   },
   {
     "id": "19",
@@ -1109,7 +1247,8 @@
     "name": "Ourg Freezer II",
     "description": "Kill General Graardor without him attacking any players.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "138"
   },
   {
     "id": "31",
@@ -1117,7 +1256,8 @@
     "name": "Reflecting on This Encounter",
     "description": "Kill a Basilisk Knight.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "139"
   },
   {
     "id": "43",
@@ -1125,7 +1265,8 @@
     "name": "Callisto Veteran",
     "description": "Kill Callisto 100 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "140"
   },
   {
     "id": "47",
@@ -1133,7 +1274,8 @@
     "name": "Demon Evasion",
     "description": "Kill Skotizo without taking any damage.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "141"
   },
   {
     "id": "49",
@@ -1141,7 +1283,8 @@
     "name": "Up for the Challenge",
     "description": "Kill Skotizo without equipping a demonbane weapon.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "142"
   },
   {
     "id": "51",
@@ -1149,7 +1292,8 @@
     "name": "Cerberus Veteran",
     "description": "Kill Cerberus 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "143"
   },
   {
     "id": "54",
@@ -1157,7 +1301,8 @@
     "name": "Ghost Buster",
     "description": "Kill Cerberus after successfully negating 6 or more attacks from Summoned Souls.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "144"
   },
   {
     "id": "55",
@@ -1165,7 +1310,8 @@
     "name": "Unrequired Antifire",
     "description": "Kill Cerberus without taking damage from any lava pools.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "145"
   },
   {
     "id": "56",
@@ -1173,7 +1319,8 @@
     "name": "Anti-Bite Mechanics",
     "description": "Kill Cerberus without taking any melee damage.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "146"
   },
   {
     "id": "58",
@@ -1181,7 +1328,8 @@
     "name": "Chaos Elemental Veteran",
     "description": "Kill the Chaos Elemental 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "147"
   },
   {
     "id": "65",
@@ -1189,7 +1337,8 @@
     "name": "Corporeal Beast Veteran",
     "description": "Kill the Corporeal Beast 50 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "148"
   },
   {
     "id": "67",
@@ -1197,7 +1346,8 @@
     "name": "Hot on Your Feet",
     "description": "Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "149"
   },
   {
     "id": "68",
@@ -1205,7 +1355,8 @@
     "name": "Finding the Weak Spot",
     "description": "Finish off the Corporeal Beast with a Crystal Halberd special attack.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "150"
   },
   {
     "id": "69",
@@ -1213,7 +1364,8 @@
     "name": "Chicken Killer",
     "description": "Kill the Corporeal Beast solo.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "151"
   },
   {
     "id": "74",
@@ -1221,7 +1373,8 @@
     "name": "If Gorillas Could Fly",
     "description": "Kill a Demonic Gorilla.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "152"
   },
   {
     "id": "75",
@@ -1229,7 +1382,8 @@
     "name": "Hitting Them Where It Hurts",
     "description": "Finish off a Demonic Gorilla with a demonbane weapon.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "153"
   },
   {
     "id": "81",
@@ -1237,7 +1391,8 @@
     "name": "Galvek Speed-Trialist",
     "description": "Kill Galvek in less than 3 minutes.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "154"
   },
   {
     "id": "83",
@@ -1245,7 +1400,8 @@
     "name": "Grotesque Guardians Veteran",
     "description": "Kill the Grotesque Guardians 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "155"
   },
   {
     "id": "89",
@@ -1253,7 +1409,8 @@
     "name": "Done before Dusk",
     "description": "Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "156"
   },
   {
     "id": "90",
@@ -1261,7 +1418,8 @@
     "name": "Perfect Grotesque Guardians",
     "description": "Kill the Grotesque Guardians whilst completing the \"Don't look at the eclipse\", \"Prison Break\", \"Granite footwork\", \"Heal no more\", \"Static Awareness\" and \"Done before dusk\" tasks.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "157"
   },
   {
     "id": "92",
@@ -1269,7 +1427,8 @@
     "name": "Grotesque Guardians Speed-Trialist",
     "description": "Kill the Grotesque Guardians in less than 2 minutes.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "158"
   },
   {
     "id": "95",
@@ -1277,7 +1436,8 @@
     "name": "From Dusk...",
     "description": "Kill the Grotesque Guardians 10 times without leaving the instance.",
     "category": "Stamina",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "159"
   },
   {
     "id": "98",
@@ -1285,7 +1445,8 @@
     "name": "Corrupted Gauntlet Veteran",
     "description": "Complete the Corrupted Gauntlet 10 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "160"
   },
   {
     "id": "101",
@@ -1293,7 +1454,8 @@
     "name": "3, 2, 1 - Mage",
     "description": "Kill the Corrupted Hunllef without taking damage off prayer.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "161"
   },
   {
     "id": "109",
@@ -1301,7 +1463,8 @@
     "name": "Gauntlet Adept",
     "description": "Complete the Gauntlet 10 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "162"
   },
   {
     "id": "111",
@@ -1309,7 +1472,8 @@
     "name": "3, 2, 1 - Range",
     "description": "Kill the Crystalline Hunllef without taking damage off prayer.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "163"
   },
   {
     "id": "114",
@@ -1317,7 +1481,8 @@
     "name": "Egniol Diet",
     "description": "Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "164"
   },
   {
     "id": "115",
@@ -1325,7 +1490,8 @@
     "name": "Crystalline Warrior",
     "description": "Kill the Crystalline Hunllef with a full set of perfected armour equipped.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "165"
   },
   {
     "id": "116",
@@ -1333,7 +1499,8 @@
     "name": "Wolf Puncher",
     "description": "Kill the Crystalline Hunllef without making more than one attuned weapon.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "166"
   },
   {
     "id": "119",
@@ -1341,7 +1508,8 @@
     "name": "Glough Speed-Trialist",
     "description": "Kill Glough in less than 2 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "167"
   },
   {
     "id": "126",
@@ -1349,7 +1517,8 @@
     "name": "Plant-Based Diet",
     "description": "Kill Hespori without losing any prayer points.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "168"
   },
   {
     "id": "127",
@@ -1357,7 +1526,8 @@
     "name": "Hespori Speed-Trialist",
     "description": "Kill the Hespori in less than 48 seconds.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "169"
   },
   {
     "id": "135",
@@ -1365,7 +1535,8 @@
     "name": "Alchemical Master",
     "description": "Kill the Alchemical Hydra 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "170"
   },
   {
     "id": "147",
@@ -1373,7 +1544,8 @@
     "name": "Fight Caves Veteran",
     "description": "Complete the Fight Caves once.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "171"
   },
   {
     "id": "153",
@@ -1381,7 +1553,8 @@
     "name": "Facing Jad Head-on",
     "description": "Complete the Fight Caves with only melee.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "172"
   },
   {
     "id": "158",
@@ -1389,7 +1562,8 @@
     "name": "Kalphite Queen Veteran",
     "description": "Kill the Kalphite Queen 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "173"
   },
   {
     "id": "160",
@@ -1397,7 +1571,8 @@
     "name": "Insect Deflection",
     "description": "Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "174"
   },
   {
     "id": "161",
@@ -1405,7 +1580,8 @@
     "name": "Prayer Smasher",
     "description": "Kill the Kalphite Queen using only the Verac's Flail as a weapon.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "175"
   },
   {
     "id": "171",
@@ -1413,7 +1589,8 @@
     "name": "Ten-tacles",
     "description": "Kill the Kraken 50 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "176"
   },
   {
     "id": "176",
@@ -1421,7 +1598,8 @@
     "name": "Mimic Adept",
     "description": "Kill the Mimic once.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "177"
   },
   {
     "id": "180",
@@ -1429,7 +1607,8 @@
     "name": "Hard Hitter",
     "description": "Kill the Giant Mole with 4 or fewer instances of damage.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "178"
   },
   {
     "id": "184",
@@ -1437,7 +1616,8 @@
     "name": "Nightmare Adept",
     "description": "Kill The Nightmare 100 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "179"
   },
   {
     "id": "187",
@@ -1445,7 +1625,8 @@
     "name": "Explosion!",
     "description": "Kill two Husks at the same time.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "180"
   },
   {
     "id": "189",
@@ -1453,7 +1634,8 @@
     "name": "Sleep Tight",
     "description": "Kill the Nightmare solo.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "181"
   },
   {
     "id": "194",
@@ -1461,7 +1643,8 @@
     "name": "Nightmare (5-Scale) Speed-Trialist",
     "description": "Defeat the Nightmare (5-scale) in less than 5 minutes.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "182"
   },
   {
     "id": "199",
@@ -1469,7 +1652,8 @@
     "name": "Death to the Seer King",
     "description": "Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "183"
   },
   {
     "id": "200",
@@ -1477,7 +1661,8 @@
     "name": "From One King to Another",
     "description": "Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "184"
   },
   {
     "id": "203",
@@ -1485,7 +1670,8 @@
     "name": "Death to the Warrior King",
     "description": "Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "185"
   },
   {
     "id": "205",
@@ -1493,7 +1679,8 @@
     "name": "Toppling the Diarchy",
     "description": "Kill Dagannoth Rex and one other Dagannoth king at the exact same time.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "186"
   },
   {
     "id": "212",
@@ -1501,7 +1688,8 @@
     "name": "Commander Zilyana Veteran",
     "description": "Kill Commander Zilyana 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "187"
   },
   {
     "id": "216",
@@ -1509,7 +1697,8 @@
     "name": "Reminisce",
     "description": "Kill Commander Zilyana in a privately rented instance with melee only.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "188"
   },
   {
     "id": "219",
@@ -1517,7 +1706,8 @@
     "name": "Scorpia Veteran",
     "description": "Kill Scorpia 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "189"
   },
   {
     "id": "222",
@@ -1525,7 +1715,8 @@
     "name": "Fragment of Seren Speed-Trialist",
     "description": "Kill The Fragment of Seren in less than 4 minutes.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "190"
   },
   {
     "id": "225",
@@ -1533,7 +1724,8 @@
     "name": "Zulrah Veteran",
     "description": "Kill Zulrah 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "191"
   },
   {
     "id": "227",
@@ -1541,7 +1733,8 @@
     "name": "Snake Rebound",
     "description": "Kill Zulrah by using the Vengeance spell as the finishing blow.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "192"
   },
   {
     "id": "228",
@@ -1549,7 +1742,8 @@
     "name": "Snake. Snake!? Snaaaaaake!",
     "description": "Kill 3 Snakelings simultaneously.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "193"
   },
   {
     "id": "230",
@@ -1557,7 +1751,8 @@
     "name": "Zulrah Speed-Trialist",
     "description": "Kill Zulrah in less than 1 minute 20 seconds, without a slayer task.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "194"
   },
   {
     "id": "235",
@@ -1565,7 +1760,8 @@
     "name": "Death to the Archer King",
     "description": "Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "195"
   },
   {
     "id": "236",
@@ -1573,7 +1769,8 @@
     "name": "Rapid Succession",
     "description": "Kill all three Dagannoth Kings within 9 seconds of the first one.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "196"
   },
   {
     "id": "386",
@@ -1581,7 +1778,8 @@
     "name": "Anticoagulants",
     "description": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than 10 seconds.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "197"
   },
   {
     "id": "387",
@@ -1589,7 +1787,8 @@
     "name": "Appropriate Tools",
     "description": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "198"
   },
   {
     "id": "388",
@@ -1597,7 +1796,8 @@
     "name": "They Won't Expect This",
     "description": "In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "199"
   },
   {
     "id": "389",
@@ -1605,7 +1805,8 @@
     "name": "Chally Time",
     "description": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "200"
   },
   {
     "id": "390",
@@ -1613,7 +1814,8 @@
     "name": "Nylocas, On the Rocks",
     "description": "In the Theatre of Blood: Entry Mode, freeze any 4 Nylocas with a single Ice Barrage spell.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "201"
   },
   {
     "id": "391",
@@ -1621,7 +1823,8 @@
     "name": "Just To Be Safe",
     "description": "Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least 2.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "202"
   },
   {
     "id": "392",
@@ -1629,7 +1832,8 @@
     "name": "Don't Look at Me!",
     "description": "Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "203"
   },
   {
     "id": "393",
@@ -1637,7 +1841,8 @@
     "name": "No-Pillar",
     "description": "Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "204"
   },
   {
     "id": "394",
@@ -1645,7 +1850,8 @@
     "name": "Attack, Step, Wait",
     "description": "Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "205"
   },
   {
     "id": "395",
@@ -1653,7 +1859,8 @@
     "name": "Pass It On",
     "description": "In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "206"
   },
   {
     "id": "237",
@@ -1661,7 +1868,8 @@
     "name": "Theatre of Blood Veteran",
     "description": "Complete the Theatre of Blood 75 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "207"
   },
   {
     "id": "261",
@@ -1669,7 +1877,8 @@
     "name": "Thermonuclear Adept",
     "description": "Kill the Thermonuclear Smoke Devil 100 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "208"
   },
   {
     "id": "262",
@@ -1677,7 +1886,8 @@
     "name": "Hazard Prevention",
     "description": "Kill the Thermonuclear Smoke Devil without it hitting anyone.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "209"
   },
   {
     "id": "263",
@@ -1685,7 +1895,8 @@
     "name": "Spec'd Out",
     "description": "Kill the Thermonuclear Smoke Devil using only special attacks.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "210"
   },
   {
     "id": "265",
@@ -1693,7 +1904,8 @@
     "name": "Venenatis Veteran",
     "description": "Kill Venenatis 100 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "211"
   },
   {
     "id": "267",
@@ -1701,7 +1913,8 @@
     "name": "Vet'eran",
     "description": "Kill Vet'ion 100 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "212"
   },
   {
     "id": "268",
@@ -1709,7 +1922,8 @@
     "name": "Vorkath Veteran",
     "description": "Kill Vorkath 50 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "213"
   },
   {
     "id": "273",
@@ -1717,7 +1931,8 @@
     "name": "Stick 'em With the Pointy End",
     "description": "Kill Vorkath using melee weapons only.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "214"
   },
   {
     "id": "271",
@@ -1725,7 +1940,8 @@
     "name": "Zombie Destroyer",
     "description": "Kill Vorkath's zombified spawn without using crumble undead.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "215"
   },
   {
     "id": "292",
@@ -1733,7 +1949,8 @@
     "name": "Dust Seeker",
     "description": "Complete a Chambers of Xeric Challenge mode raid in the target time.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "216"
   },
   {
     "id": "299",
@@ -1741,7 +1958,8 @@
     "name": "Chambers of Xeric Veteran",
     "description": "Complete the Chambers of Xeric 75 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "217"
   },
   {
     "id": "302",
@@ -1749,7 +1967,8 @@
     "name": "Perfectly Balanced",
     "description": "Kill the Vanguards without them resetting their health.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "218"
   },
   {
     "id": "303",
@@ -1757,7 +1976,8 @@
     "name": "Together We'll Fall",
     "description": "Kill the Vanguards within 10 seconds of the first one dying.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "219"
   },
   {
     "id": "308",
@@ -1765,7 +1985,8 @@
     "name": "Redemption Enthusiast",
     "description": "Kill the Abyssal Portal without forcing Vespula to land.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "220"
   },
   {
     "id": "307",
@@ -1773,7 +1994,8 @@
     "name": "Mutta-diet",
     "description": "Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "221"
   },
   {
     "id": "311",
@@ -1781,7 +2003,8 @@
     "name": "Dancing with Statues",
     "description": "Receive kill-credit for a Stone Guardian without taking damage from falling rocks.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "222"
   },
   {
     "id": "312",
@@ -1789,7 +2012,8 @@
     "name": "Undying Raid Team",
     "description": "Complete a Chambers of Xeric raid without anyone dying.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "223"
   },
   {
     "id": "314",
@@ -1797,7 +2021,8 @@
     "name": "Shayzien Specialist",
     "description": "Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "224"
   },
   {
     "id": "316",
@@ -1805,7 +2030,8 @@
     "name": "Cryo No More",
     "description": "Receive kill-credit for the Ice Demon without taking any damage.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "225"
   },
   {
     "id": "320",
@@ -1813,7 +2039,8 @@
     "name": "Blizzard Dodger",
     "description": "Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "226"
   },
   {
     "id": "321",
@@ -1821,7 +2048,8 @@
     "name": "Kill It with Fire",
     "description": "Finish off the Ice Demon with a fire spell.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "227"
   },
   {
     "id": "328",
@@ -1829,7 +2057,8 @@
     "name": "Zalcano Veteran",
     "description": "Kill Zalcano 150 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "228"
   },
   {
     "id": "329",
@@ -1837,7 +2066,8 @@
     "name": "Perfect Zalcano",
     "description": "Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "229"
   },
   {
     "id": "330",
@@ -1845,7 +2075,8 @@
     "name": "Team Player",
     "description": "Receive imbued tephra from a golem.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "230"
   },
   {
     "id": "331",
@@ -1853,7 +2084,8 @@
     "name": "The Spurned Hero",
     "description": "Kill Zalcano as the player who has dealt the most damage to her.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "231"
   },
   {
     "id": "333",
@@ -1861,7 +2093,8 @@
     "name": "K'ril Tsutsaroth Veteran",
     "description": "Kill K'ril Tsutsaroth 250 times.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "232"
   },
   {
     "id": "337",
@@ -1869,7 +2102,8 @@
     "name": "Demonic Defence",
     "description": "Kill K'ril Tsutsaroth in a privately rented instance without taking any of his melee hits.",
     "category": "Perfection",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "233"
   },
   {
     "id": "336",
@@ -1877,7 +2111,8 @@
     "name": "The Bane of Demons",
     "description": "Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "234"
   },
   {
     "id": "341",
@@ -1885,7 +2120,8 @@
     "name": "Half-Way There",
     "description": "Kill a Jal-Zek within the Inferno.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "235"
   },
   {
     "id": "149",
@@ -1893,7 +2129,8 @@
     "name": "A Near Miss!",
     "description": "Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.",
     "category": "Mechanical",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "236"
   },
   {
     "id": "361",
@@ -1901,7 +2138,8 @@
     "name": "The II Jad Challenge",
     "description": "Complete TzHaar-Ket-Rak's second challenge.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "237"
   },
   {
     "id": "364",
@@ -1909,7 +2147,8 @@
     "name": "TzHaar-Ket-Rak's Speed-Trialist",
     "description": "Complete TzHaar-Ket-Rak's first challenge in less than 45 seconds.",
     "category": "Speed",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "238"
   },
   {
     "id": "367",
@@ -1917,7 +2156,8 @@
     "name": "Facing Jad Head-on III",
     "description": "Complete TzHaar-Ket-Rak's second challenge with only melee.",
     "category": "Restriction",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "239"
   },
   {
     "id": "400",
@@ -1925,7 +2165,8 @@
     "name": "Phosani's Champion",
     "description": "Kill Phosani's Nightmare once.",
     "category": "Kill Count",
-    "tier": "Elite"
+    "tier": "Elite",
+    "clientSortId": "240"
   },
   {
     "id": "11",
@@ -1933,7 +2174,8 @@
     "name": "Collateral Damage",
     "description": "Kill Kree'arra in a privately rented instance without ever attacking him directly.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "241"
   },
   {
     "id": "13",
@@ -1941,7 +2183,8 @@
     "name": "Swoop No More",
     "description": "Kill Kree'arra in a privately rented instance without taking any melee damage from the boss or his bodyguards.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "242"
   },
   {
     "id": "50",
@@ -1949,7 +2192,8 @@
     "name": "Precise Positioning",
     "description": "Kill Skotizo with the final source of damage being a Chinchompa explosion.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "243"
   },
   {
     "id": "52",
@@ -1957,7 +2201,8 @@
     "name": "Cerberus Master",
     "description": "Kill Cerberus 250 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "244"
   },
   {
     "id": "53",
@@ -1965,7 +2210,8 @@
     "name": "Arooo No More",
     "description": "Kill Cerberus without any of the Summoned Souls being spawned.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "245"
   },
   {
     "id": "66",
@@ -1973,7 +2219,8 @@
     "name": "Corporeal Beast Master",
     "description": "Kill the Corporeal Beast 150 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "246"
   },
   {
     "id": "91",
@@ -1981,7 +2228,8 @@
     "name": "Perfect Grotesque Guardians II",
     "description": "Kill the Grotesque Guardians 5 times in a row whilst completing the Perfect Grotesque Guardians task every time.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "247"
   },
   {
     "id": "93",
@@ -1989,7 +2237,8 @@
     "name": "Grotesque Guardians Speed-Chaser",
     "description": "Kill the Grotesque Guardians in less than 1:40 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "248"
   },
   {
     "id": "96",
@@ -1997,7 +2246,8 @@
     "name": "... 'til Dawn",
     "description": "Kill the Grotesque Guardians 20 times without leaving the instance.",
     "category": "Stamina",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "249"
   },
   {
     "id": "99",
@@ -2005,7 +2255,8 @@
     "name": "Corrupted Gauntlet Master",
     "description": "Complete the Corrupted Gauntlet 50 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "250"
   },
   {
     "id": "102",
@@ -2013,7 +2264,8 @@
     "name": "Perfect Corrupted Hunllef",
     "description": "Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunleff with the wrong weapon.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "251"
   },
   {
     "id": "103",
@@ -2021,7 +2273,8 @@
     "name": "Defence Doesn't Matter II",
     "description": "Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "252"
   },
   {
     "id": "105",
@@ -2029,7 +2282,8 @@
     "name": "Corrupted Warrior",
     "description": "Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "253"
   },
   {
     "id": "107",
@@ -2037,7 +2291,8 @@
     "name": "Corrupted Gauntlet Speed-Chaser",
     "description": "Complete a Corrupted Gauntlet in less than 7 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "254"
   },
   {
     "id": "110",
@@ -2045,7 +2300,8 @@
     "name": "Gauntlet Master",
     "description": "Complete the Gauntlet 100 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "255"
   },
   {
     "id": "112",
@@ -2053,7 +2309,8 @@
     "name": "Perfect Crystalline Hunllef",
     "description": "Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunleff with the wrong weapon.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "256"
   },
   {
     "id": "113",
@@ -2061,7 +2318,8 @@
     "name": "Defence Doesn't Matter",
     "description": "Kill the Crystalline Hunllef without making any armour within the Gauntlet.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "257"
   },
   {
     "id": "117",
@@ -2069,7 +2327,8 @@
     "name": "Gauntlet Speed-Chaser",
     "description": "Complete the Gauntlet in less than 5 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "258"
   },
   {
     "id": "128",
@@ -2077,7 +2336,8 @@
     "name": "Hespori Speed-Chaser",
     "description": "Kill the Hespori in less than 36 seconds.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "259"
   },
   {
     "id": "136",
@@ -2085,7 +2345,8 @@
     "name": "Alchemical Grandmaster",
     "description": "Kill the Alchemical Hydra 250 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "260"
   },
   {
     "id": "137",
@@ -2093,7 +2354,8 @@
     "name": "Unrequired Antipoisons",
     "description": "Kill the Alchemical Hydra without being hit by the acid pool attack.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "261"
   },
   {
     "id": "138",
@@ -2101,7 +2363,8 @@
     "name": "Lightning Lure",
     "description": "Kill the Alchemical Hydra without being hit by the lightning attack.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "262"
   },
   {
     "id": "139",
@@ -2109,7 +2372,8 @@
     "name": "Don't Flame Me",
     "description": "Kill the Alchemical Hydra without being hit by the flame wall attack.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "263"
   },
   {
     "id": "140",
@@ -2117,7 +2381,8 @@
     "name": "Mixing Correctly",
     "description": "Kill the Alchemical Hydra without empowering it.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "264"
   },
   {
     "id": "141",
@@ -2125,7 +2390,8 @@
     "name": "The Flame Skipper",
     "description": "Kill the Alchemical Hydra without letting it spawn a flame wall attack.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "265"
   },
   {
     "id": "142",
@@ -2133,7 +2399,8 @@
     "name": "Alcleanical Hydra",
     "description": "Kill the Alchemical Hydra without taking any damage.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "266"
   },
   {
     "id": "144",
@@ -2141,7 +2408,8 @@
     "name": "Alchemical Speed-Chaser",
     "description": "Kill the Alchemical Hydra in less than 1 minute 45 seconds.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "267"
   },
   {
     "id": "146",
@@ -2149,7 +2417,8 @@
     "name": "Working Overtime",
     "description": "Kill the Alchemical Hydra 15 times without leaving the room.",
     "category": "Stamina",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "268"
   },
   {
     "id": "148",
@@ -2157,7 +2426,8 @@
     "name": "Fight Caves Master",
     "description": "Complete the Fight Caves 10 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "269"
   },
   {
     "id": "150",
@@ -2165,7 +2435,8 @@
     "name": "Denying the Healers",
     "description": "Complete the Fight caves without letting any of the Yt-MejKot heal.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "270"
   },
   {
     "id": "152",
@@ -2173,7 +2444,8 @@
     "name": "You Didn't Say Anything About a Bat",
     "description": "Complete the Fight Caves without being attacked by a Tz-Kih.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "271"
   },
   {
     "id": "155",
@@ -2181,7 +2453,8 @@
     "name": "Fight Caves Speed-Chaser",
     "description": "Complete the Fight Caves in less than 30 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "272"
   },
   {
     "id": "172",
@@ -2189,7 +2462,8 @@
     "name": "One Hundred Tentacles",
     "description": "Kill the Kraken 100 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "273"
   },
   {
     "id": "185",
@@ -2197,7 +2471,8 @@
     "name": "Nightmare Veteran",
     "description": "Kill The Nightmare 250 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "274"
   },
   {
     "id": "188",
@@ -2205,7 +2480,8 @@
     "name": "Perfect Nightmare",
     "description": "Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "275"
   },
   {
     "id": "191",
@@ -2213,7 +2489,8 @@
     "name": "Nightmare (Solo) Speed-Trialist",
     "description": "Defeat the Nightmare (Solo) in less than 23 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "276"
   },
   {
     "id": "192",
@@ -2221,7 +2498,8 @@
     "name": "Nightmare (Solo) Speed-Chaser",
     "description": "Defeat the Nightmare (Solo) in less than 19 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "277"
   },
   {
     "id": "195",
@@ -2229,7 +2507,8 @@
     "name": "Nightmare (5-Scale) Speed-Chaser",
     "description": "Defeat the Nightmare (5-scale) in less than 4 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "278"
   },
   {
     "id": "215",
@@ -2237,7 +2516,8 @@
     "name": "Moving Collateral",
     "description": "Kill Commander Zilyana in a privately rented instance without attacking her directly.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "279"
   },
   {
     "id": "226",
@@ -2245,7 +2525,8 @@
     "name": "Zulrah Master",
     "description": "Kill Zulrah 250 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "280"
   },
   {
     "id": "229",
@@ -2253,7 +2534,8 @@
     "name": "Perfect Zulrah",
     "description": "Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "281"
   },
   {
     "id": "231",
@@ -2261,7 +2543,8 @@
     "name": "Zulrah Speed-Chaser",
     "description": "Kill Zulrah in less than 1 minute, without a slayer task.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "282"
   },
   {
     "id": "250",
@@ -2269,7 +2552,8 @@
     "name": "Can't Drain This",
     "description": "Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "283"
   },
   {
     "id": "244",
@@ -2277,7 +2561,8 @@
     "name": "Perfect Maiden",
     "description": "Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "284"
   },
   {
     "id": "240",
@@ -2285,7 +2570,8 @@
     "name": "Two-Down",
     "description": "Kill the Pestilent Bloat before he shuts down for the third time.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "285"
   },
   {
     "id": "245",
@@ -2293,7 +2579,8 @@
     "name": "Perfect Bloat",
     "description": "Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "286"
   },
   {
     "id": "246",
@@ -2301,7 +2588,8 @@
     "name": "Perfect Nylocas",
     "description": "Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "287"
   },
   {
     "id": "242",
@@ -2309,7 +2597,8 @@
     "name": "A Timely Snack",
     "description": "Kill Sotetseg after surviving at least 3 ball attacks without sharing the damage and without anyone dying throughout the fight.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "288"
   },
   {
     "id": "247",
@@ -2317,7 +2606,8 @@
     "name": "Perfect Sotesteg",
     "description": "Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "289"
   },
   {
     "id": "251",
@@ -2325,7 +2615,8 @@
     "name": "Can You Dance?",
     "description": "Kill Xarpus without anyone in the team using a ranged or magic weapon.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "290"
   },
   {
     "id": "248",
@@ -2333,7 +2624,8 @@
     "name": "Perfect Xarpus",
     "description": "Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "291"
   },
   {
     "id": "241",
@@ -2341,7 +2633,8 @@
     "name": "Pop It",
     "description": "Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "292"
   },
   {
     "id": "249",
@@ -2349,7 +2642,8 @@
     "name": "Perfect Verzik",
     "description": "Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "293"
   },
   {
     "id": "253",
@@ -2357,7 +2651,8 @@
     "name": "Back in My Day...",
     "description": "Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "294"
   },
   {
     "id": "255",
@@ -2365,7 +2660,8 @@
     "name": "Theatre (Trio) Speed-Chaser",
     "description": "Complete the Theatre of Blood (Trio) in less than 20 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "295"
   },
   {
     "id": "257",
@@ -2373,7 +2669,8 @@
     "name": "Theatre (4-Scale) Speed-Chaser",
     "description": "Complete the Theatre of Blood (4-scale) in less than 17 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "296"
   },
   {
     "id": "259",
@@ -2381,7 +2678,8 @@
     "name": "Theatre (5-Scale) Speed-Chaser",
     "description": "Complete the Theatre of Blood (5-scale) in less than 16 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "297"
   },
   {
     "id": "238",
@@ -2389,7 +2687,8 @@
     "name": "Theatre of Blood Master",
     "description": "Complete the Theatre of Blood 150 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "298"
   },
   {
     "id": "269",
@@ -2397,7 +2696,8 @@
     "name": "Vorkath Master",
     "description": "Kill Vorkath 250 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "299"
   },
   {
     "id": "270",
@@ -2405,7 +2705,8 @@
     "name": "The Walk",
     "description": "Hit Vorkath 12 times during the acid special without getting hit by his rapid fire or the acid pools.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "300"
   },
   {
     "id": "272",
@@ -2413,7 +2714,8 @@
     "name": "Dodging the Dragon",
     "description": "Kill Vorkath 5 times without taking any damage from his special attacks and without leaving his area.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "301"
   },
   {
     "id": "276",
@@ -2421,7 +2723,8 @@
     "name": "Vorkath Speed-Chaser",
     "description": "Kill Vorkath in less than 1 minute and 15 seconds.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "302"
   },
   {
     "id": "278",
@@ -2429,7 +2732,8 @@
     "name": "Extended Encounter",
     "description": "Kill Vorkath 10 times without leaving his area.",
     "category": "Stamina",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "303"
   },
   {
     "id": "288",
@@ -2437,7 +2741,8 @@
     "name": "Chambers of Xeric: CM Master",
     "description": "Complete the Chambers of Xeric: Challenge Mode 50 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "304"
   },
   {
     "id": "290",
@@ -2445,7 +2750,8 @@
     "name": "Immortal Raid Team",
     "description": "Complete a Chambers of Xeric: Challenge mode raid without anyone dying.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "305"
   },
   {
     "id": "291",
@@ -2453,7 +2759,8 @@
     "name": "Immortal Raider",
     "description": "Complete a Chambers of Xeric Challenge mode (Solo) raid without dying.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "306"
   },
   {
     "id": "293",
@@ -2461,7 +2768,8 @@
     "name": "Chambers of Xeric: CM (Solo) Speed-Chaser",
     "description": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 45 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "307"
   },
   {
     "id": "295",
@@ -2469,7 +2777,8 @@
     "name": "Chambers of Xeric: CM (5-Scale) Speed-Chaser",
     "description": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 30 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "308"
   },
   {
     "id": "297",
@@ -2477,7 +2786,8 @@
     "name": "Chambers of Xeric: CM (Trio) Speed-Chaser",
     "description": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 35 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "309"
   },
   {
     "id": "300",
@@ -2485,7 +2795,8 @@
     "name": "Chambers of Xeric Master",
     "description": "Complete the Chambers of Xeric 150 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "310"
   },
   {
     "id": "304",
@@ -2493,7 +2804,8 @@
     "name": "No Time for Death",
     "description": "Clear the Tightrope room without Killing any Deathly Mages or Deathly Rangers.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "311"
   },
   {
     "id": "305",
@@ -2501,7 +2813,8 @@
     "name": "Putting It Olm on the Line",
     "description": "Complete a Chambers of Xeric solo raid with more than 40,000 points.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "312"
   },
   {
     "id": "306",
@@ -2509,7 +2822,8 @@
     "name": "A Not So Special Lizard",
     "description": "Kill the Great Olm in a solo raid without letting him use any of the following special attacks in his second to last phase: Crystal Burst, Lightning Walls, Teleportation Portals or left-hand autohealing.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "313"
   },
   {
     "id": "309",
@@ -2517,7 +2831,8 @@
     "name": "Stop Drop and Roll",
     "description": "Kill Vasa Nistirio before he performs his teleport attack for the second time.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "314"
   },
   {
     "id": "310",
@@ -2525,7 +2840,8 @@
     "name": "Anvil No More",
     "description": "Kill Tekton before he returns to his anvil for a second time after the fight begins.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "315"
   },
   {
     "id": "313",
@@ -2533,7 +2849,8 @@
     "name": "Undying Raider",
     "description": "Complete a Chambers of Xeric solo raid without dying.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "316"
   },
   {
     "id": "315",
@@ -2541,7 +2858,8 @@
     "name": "Playing with Lasers",
     "description": "Clear the Crystal Crabs room without wasting an orb after the first crystal has been activated.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "317"
   },
   {
     "id": "317",
@@ -2549,7 +2867,8 @@
     "name": "Perfect Olm (Solo)",
     "description": "Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "318"
   },
   {
     "id": "318",
@@ -2557,7 +2876,8 @@
     "name": "Perfect Olm (Trio)",
     "description": "Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "319"
   },
   {
     "id": "319",
@@ -2565,7 +2885,8 @@
     "name": "Blind Spot",
     "description": "Kill Tekton without taking any damage.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "320"
   },
   {
     "id": "322",
@@ -2573,7 +2894,8 @@
     "name": "Chambers of Xeric (Solo) Speed-Chaser",
     "description": "Complete a Chambers of Xeric (Solo) in less than 21 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "321"
   },
   {
     "id": "326",
@@ -2581,7 +2903,8 @@
     "name": "Chambers of Xeric (Trio) Speed-Chaser",
     "description": "Complete a Chambers of Xeric (Trio) in less than 16 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "322"
   },
   {
     "id": "324",
@@ -2589,7 +2912,8 @@
     "name": "Chambers of Xeric (5-Scale) Speed-Chaser",
     "description": "Complete a Chambers of Xeric (5-scale) in less than 15 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "323"
   },
   {
     "id": "346",
@@ -2597,7 +2921,8 @@
     "name": "Nibblers, Begone!",
     "description": "Kill TzKal-Zuk without letting a pillar fall before wave 67.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "324"
   },
   {
     "id": "362",
@@ -2605,7 +2930,8 @@
     "name": "The IV Jad Challenge",
     "description": "Complete TzHaar-Ket-Rak's fourth challenge.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "325"
   },
   {
     "id": "365",
@@ -2613,7 +2939,8 @@
     "name": "TzHaar-Ket-Rak's Speed-Chaser",
     "description": "Complete TzHaar-Ket-Rak's third challenge in less than 3 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "326"
   },
   {
     "id": "368",
@@ -2621,7 +2948,8 @@
     "name": "Facing Jad Head-on IV",
     "description": "Complete TzHaar-Ket-Rak's fourth challenge with only melee.",
     "category": "Restriction",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "327"
   },
   {
     "id": "369",
@@ -2629,7 +2957,8 @@
     "name": "Supplies? Who Needs 'em?",
     "description": "Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.",
     "category": "Perfection",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "328"
   },
   {
     "id": "371",
@@ -2637,7 +2966,8 @@
     "name": "Multi-Style Specialist",
     "description": "Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "329"
   },
   {
     "id": "381",
@@ -2645,7 +2975,8 @@
     "name": "Hard Mode? Completed It",
     "description": "Complete the Theatre of Blood: Hard Mode within the challenge time.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "330"
   },
   {
     "id": "396",
@@ -2653,7 +2984,8 @@
     "name": "Theatre of Blood: SM Speed-Chaser",
     "description": "Complete the Theatre of Blood: Entry Mode in less than 17 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "331"
   },
   {
     "id": "401",
@@ -2661,7 +2993,8 @@
     "name": "Phosani's Adept",
     "description": "Kill Phosani's Nightmare 25 times.",
     "category": "Kill Count",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "332"
   },
   {
     "id": "404",
@@ -2669,7 +3002,8 @@
     "name": "Phosani's Speedchaser",
     "description": "Kill Phosani's Nightmare within 9 minutes.",
     "category": "Speed",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "333"
   },
   {
     "id": "406",
@@ -2677,7 +3011,8 @@
     "name": "Crush Hour",
     "description": "Kill Phosani's Nightmare while killing every husk and parasite in one hit.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "334"
   },
   {
     "id": "407",
@@ -2685,7 +3020,8 @@
     "name": "I Would Simply React",
     "description": "Kill Phosani's Nightmare without her disabling your prayer.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "335"
   },
   {
     "id": "408",
@@ -2693,7 +3029,8 @@
     "name": "Dreamland Express",
     "description": "Kill Phosani's Nightmare without letting a sleepwalker reach her during the desperation phase.",
     "category": "Mechanical",
-    "tier": "Master"
+    "tier": "Master",
+    "clientSortId": "336"
   },
   {
     "id": "14",
@@ -2701,7 +3038,8 @@
     "name": "The Worst Ranged Weapon",
     "description": "Kill Kree'arra by only dealing damage to him with a salamander.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "337"
   },
   {
     "id": "15",
@@ -2709,7 +3047,8 @@
     "name": "Feather Hunter",
     "description": "Kill Kree'arra 30 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "338"
   },
   {
     "id": "21",
@@ -2717,7 +3056,8 @@
     "name": "Defence Matters",
     "description": "Kill General Graardor 2 times consecutively in a privately rented instance without taking any damage from his bodyguards.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "339"
   },
   {
     "id": "22",
@@ -2725,7 +3065,8 @@
     "name": "Keep Away",
     "description": "Kill General Graardor in a privately rented instance without taking any damage from the boss or bodyguards.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "340"
   },
   {
     "id": "23",
@@ -2733,7 +3074,8 @@
     "name": "Ourg Killer",
     "description": "Kill General Graardor 15 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "341"
   },
   {
     "id": "94",
@@ -2741,7 +3083,8 @@
     "name": "Grotesque Guardians Speed-Runner",
     "description": "Kill the Grotesque Guardians in less than 1:20 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "342"
   },
   {
     "id": "100",
@@ -2749,7 +3092,8 @@
     "name": "Corrupted Gauntlet Grandmaster",
     "description": "Complete the Corrupted Gauntlet 150 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "343"
   },
   {
     "id": "104",
@@ -2757,7 +3101,8 @@
     "name": "Egniol Diet II",
     "description": "Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "344"
   },
   {
     "id": "106",
@@ -2765,7 +3110,8 @@
     "name": "Wolf Puncher II",
     "description": "Kill the Corrupted Hunllef without making more than one attuned weapon.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "345"
   },
   {
     "id": "108",
@@ -2773,7 +3119,8 @@
     "name": "Corrupted Gauntlet Speed-Runner",
     "description": "Complete a Corrupted Gauntlet in less than 6 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "346"
   },
   {
     "id": "118",
@@ -2781,7 +3128,8 @@
     "name": "Gauntlet Speed-Runner",
     "description": "Complete the Gauntlet in less than 4 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "347"
   },
   {
     "id": "143",
@@ -2789,7 +3137,8 @@
     "name": "No Pressure",
     "description": "Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than 10 Hitpoints throughout the entire fight.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "348"
   },
   {
     "id": "145",
@@ -2797,7 +3146,8 @@
     "name": "Alchemical Speed-Runner",
     "description": "Kill the Alchemical Hydra in less than 1 minute 20 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "349"
   },
   {
     "id": "151",
@@ -2805,7 +3155,8 @@
     "name": "Denying the Healers II",
     "description": "Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "350"
   },
   {
     "id": "154",
@@ -2813,7 +3164,8 @@
     "name": "No Time for a Drink",
     "description": "Complete the Fight Caves without losing any prayer points.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "351"
   },
   {
     "id": "156",
@@ -2821,7 +3173,8 @@
     "name": "Fight Caves Speed-Runner",
     "description": "Complete the Fight Caves in less than 26 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "352"
   },
   {
     "id": "186",
@@ -2829,7 +3182,8 @@
     "name": "Terrible Parent",
     "description": "Kill the Nightmare solo without the Parasites healing the boss for more than 100 health.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "353"
   },
   {
     "id": "190",
@@ -2837,7 +3191,8 @@
     "name": "A Long Trip",
     "description": "Kill the Nightmare without any player losing any prayer points.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "354"
   },
   {
     "id": "193",
@@ -2845,7 +3200,8 @@
     "name": "Nightmare (Solo) Speed-Runner",
     "description": "Defeat the Nightmare (Solo) in less than 16 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "355"
   },
   {
     "id": "196",
@@ -2853,7 +3209,8 @@
     "name": "Nightmare (5-Scale) Speed-Runner",
     "description": "Defeat the Nightmare (5-scale) in less than 3:30 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "356"
   },
   {
     "id": "214",
@@ -2861,7 +3218,8 @@
     "name": "Animal Whisperer",
     "description": "Kill Commander Zilyana in a privately rented instance without taking any damage from the boss or bodyguards.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "357"
   },
   {
     "id": "217",
@@ -2869,7 +3227,8 @@
     "name": "Peach Conjurer",
     "description": "Kill Commander Zilyana 50 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "358"
   },
   {
     "id": "232",
@@ -2877,7 +3236,8 @@
     "name": "Zulrah Speed-Runner",
     "description": "Kill Zulrah in less than 54 seconds, without a slayer task.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "359"
   },
   {
     "id": "239",
@@ -2885,7 +3245,8 @@
     "name": "Theatre of Blood Grandmaster",
     "description": "Complete the Theatre of Blood 250 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "360"
   },
   {
     "id": "243",
@@ -2893,7 +3254,8 @@
     "name": "Perfect Theatre",
     "description": "Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: \"Perfect Maiden\", \"Perfect Bloat\", \"Perfect Nylocas\", \"Perfect Sotetseg\", \"Perfect Xarpus\" and \"Perfect Verzik\".",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "361"
   },
   {
     "id": "252",
@@ -2901,7 +3263,8 @@
     "name": "Morytania Only",
     "description": "Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "362"
   },
   {
     "id": "254",
@@ -2909,7 +3272,8 @@
     "name": "Theatre (Duo) Speed-Runner",
     "description": "Complete the Theatre of Blood (Duo) in less than 26 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "363"
   },
   {
     "id": "256",
@@ -2917,7 +3281,8 @@
     "name": "Theatre (Trio) Speed-Runner",
     "description": "Complete the Theatre of Blood (Trio) in less than 17 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "364"
   },
   {
     "id": "258",
@@ -2925,7 +3290,8 @@
     "name": "Theatre (4-Scale) Speed-Runner",
     "description": "Complete the Theatre of Blood (4-scale) in less than 15 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "365"
   },
   {
     "id": "260",
@@ -2933,7 +3299,8 @@
     "name": "Theatre (5-Scale) Speed-Runner",
     "description": "Complete the Theatre of Blood (5-scale) in less than 14 minutes and 15 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "366"
   },
   {
     "id": "274",
@@ -2941,7 +3308,8 @@
     "name": "Faithless Encounter",
     "description": "Kill Vorkath without losing any prayer points.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "367"
   },
   {
     "id": "275",
@@ -2949,7 +3317,8 @@
     "name": "The Fremennik Way",
     "description": "Kill Vorkath with only your fists.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "368"
   },
   {
     "id": "277",
@@ -2957,7 +3326,8 @@
     "name": "Vorkath Speed-Runner",
     "description": "Kill Vorkath in less than 54 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "369"
   },
   {
     "id": "289",
@@ -2965,7 +3335,8 @@
     "name": "Chambers of Xeric: CM Grandmaster",
     "description": "Complete the Chambers of Xeric: Challenge Mode 150 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "370"
   },
   {
     "id": "294",
@@ -2973,7 +3344,8 @@
     "name": "Chambers of Xeric: CM (Solo) Speed-Runner",
     "description": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 38 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "371"
   },
   {
     "id": "296",
@@ -2981,7 +3353,8 @@
     "name": "Chambers of Xeric: CM (5-Scale) Speed-Runner",
     "description": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 25 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "372"
   },
   {
     "id": "298",
@@ -2989,7 +3362,8 @@
     "name": "Chambers of Xeric: CM (Trio) Speed-Runner",
     "description": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 27 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "373"
   },
   {
     "id": "301",
@@ -2997,7 +3371,8 @@
     "name": "Chambers of Xeric Grandmaster",
     "description": "Complete the Chambers of Xeric 250 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "374"
   },
   {
     "id": "323",
@@ -3005,7 +3380,8 @@
     "name": "Chambers of Xeric (Solo) Speed-Runner",
     "description": "Complete a Chambers of Xeric (Solo) in less than 17 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "375"
   },
   {
     "id": "327",
@@ -3013,7 +3389,8 @@
     "name": "Chambers of Xeric (Trio) Speed-Runner",
     "description": "Complete a Chambers of Xeric (Trio) in less than 14 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "376"
   },
   {
     "id": "325",
@@ -3021,7 +3398,8 @@
     "name": "Chambers of Xeric (5-Scale) Speed-Runner",
     "description": "Complete a Chambers of Xeric (5-scale) in less than 12 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "377"
   },
   {
     "id": "338",
@@ -3029,7 +3407,8 @@
     "name": "Demon Whisperer",
     "description": "Kill K'ril Tsutsaroth in a privately rented instance without ever being hit by his bodyguards.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "378"
   },
   {
     "id": "340",
@@ -3037,7 +3416,8 @@
     "name": "Ash Collector",
     "description": "Kill K'ril Tsutsaroth 20 times in a privately rented instance without leaving the room.",
     "category": "Stamina",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "379"
   },
   {
     "id": "342",
@@ -3045,7 +3425,8 @@
     "name": "Inferno Grandmaster",
     "description": "Complete the Inferno 10 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "380"
   },
   {
     "id": "343",
@@ -3053,7 +3434,8 @@
     "name": "The Floor Is Lava",
     "description": "Kill TzKal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "381"
   },
   {
     "id": "344",
@@ -3061,7 +3443,8 @@
     "name": "Playing with Jads",
     "description": "Complete wave 68 of the Inferno within 30 seconds of the first JalTok-Jad dying.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "382"
   },
   {
     "id": "345",
@@ -3069,7 +3452,8 @@
     "name": "No Luck Required",
     "description": "Kill TzKal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "383"
   },
   {
     "id": "347",
@@ -3077,7 +3461,8 @@
     "name": "Wasn't Even Close",
     "description": "Kill TzKal-Zuk without letting your hitpoints fall below 50 during any wave in the Inferno.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "384"
   },
   {
     "id": "348",
@@ -3085,7 +3470,8 @@
     "name": "Budget Setup",
     "description": "Kill TzKal-Zuk without equipping a Twisted Bow within the Inferno.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "385"
   },
   {
     "id": "349",
@@ -3093,7 +3479,8 @@
     "name": "Nibbler Chaser",
     "description": "Kill TzKal-Zuk without using any magic spells during any wave in the Inferno.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "386"
   },
   {
     "id": "350",
@@ -3101,7 +3488,8 @@
     "name": "Facing Jad Head-on II",
     "description": "Kill TzKal-Zuk without equipping any range or mage weapons before wave 69.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "387"
   },
   {
     "id": "351",
@@ -3109,7 +3497,8 @@
     "name": "Jad? What Are You Doing Here?",
     "description": "Kill TzKal-Zuk without killing the JalTok-Jad which spawns during wave 69.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "388"
   },
   {
     "id": "352",
@@ -3117,7 +3506,8 @@
     "name": "Inferno Speed-Runner",
     "description": "Complete the Inferno in less than 65 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "389"
   },
   {
     "id": "363",
@@ -3125,7 +3515,8 @@
     "name": "The VI Jad Challenge",
     "description": "Complete TzHaar-Ket-Rak's sixth challenge.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "390"
   },
   {
     "id": "366",
@@ -3133,7 +3524,8 @@
     "name": "TzHaar-Ket-Rak's Speed-Runner",
     "description": "Complete TzHaar-Ket-Rak's fifth challenge in less than 5 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "391"
   },
   {
     "id": "370",
@@ -3141,7 +3533,8 @@
     "name": "It Wasn't a Fluke",
     "description": "Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "392"
   },
   {
     "id": "372",
@@ -3149,7 +3542,8 @@
     "name": "Stop Right There!",
     "description": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than 15 blood trails.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "393"
   },
   {
     "id": "373",
@@ -3157,7 +3551,8 @@
     "name": "Personal Space",
     "description": "Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with a least 3 people in the room, without anyone in your team standing on top of each other.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "394"
   },
   {
     "id": "374",
@@ -3165,7 +3560,8 @@
     "name": "Royal Affairs",
     "description": "In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "395"
   },
   {
     "id": "375",
@@ -3173,7 +3569,8 @@
     "name": "Harder Mode I",
     "description": "Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "396"
   },
   {
     "id": "376",
@@ -3181,7 +3578,8 @@
     "name": "Harder Mode II",
     "description": "Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "397"
   },
   {
     "id": "377",
@@ -3189,7 +3587,8 @@
     "name": "Nylo Sniper",
     "description": "Defeat Verzik Vitur's in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "398"
   },
   {
     "id": "378",
@@ -3197,7 +3596,8 @@
     "name": "Team Work Makes the Dream Work",
     "description": "When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive",
     "category": "Mechanical",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "399"
   },
   {
     "id": "379",
@@ -3205,7 +3605,8 @@
     "name": "Harder Mode III",
     "description": "Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "400"
   },
   {
     "id": "380",
@@ -3213,7 +3614,8 @@
     "name": "Pack Like a Yak",
     "description": "Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.",
     "category": "Restriction",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "401"
   },
   {
     "id": "382",
@@ -3221,7 +3623,8 @@
     "name": "Theatre: HM (Trio) Speed-Runner",
     "description": "Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than 23 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "402"
   },
   {
     "id": "383",
@@ -3229,7 +3632,8 @@
     "name": "Theatre: HM (4-Scale) Speed-Runner",
     "description": "\tComplete the Theatre of Blood: Hard Mode (4-scale) with an overall time of less than 21 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "403"
   },
   {
     "id": "384",
@@ -3237,7 +3641,8 @@
     "name": "Theatre: HM (5-Scale) Speed-Runner",
     "description": "Complete the Theatre of Blood: Hard Mode (5-scale) with an overall time of less than 19 minutes.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "404"
   },
   {
     "id": "385",
@@ -3245,7 +3650,8 @@
     "name": "Theatre of Blood: HM Grandmaster",
     "description": "Complete the Theatre of Blood: Hard Mode 100 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "405"
   },
   {
     "id": "402",
@@ -3253,7 +3659,8 @@
     "name": "Phosani's Veteran",
     "description": "Kill Phosani's Nightmare 100 times.",
     "category": "Kill Count",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "406"
   },
   {
     "id": "403",
@@ -3261,7 +3668,8 @@
     "name": "Perfect Phosani's Nightmare",
     "description": "Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened parasites. Also, without becoming infected by spores or letting a sleepwalker reach Phosani's Nightmare.",
     "category": "Perfection",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "407"
   },
   {
     "id": "405",
@@ -3269,7 +3677,8 @@
     "name": "Phosani's Speedrunner",
     "description": "Kill Phosani's Nightmare within 7 minutes and 30 seconds.",
     "category": "Speed",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "408"
   },
   {
     "id": "409",
@@ -3277,6 +3686,7 @@
     "name": "Can't Wake Up",
     "description": "Kill Phosani's Nightmare 5 times in a row without leaving Phosani's Dream.",
     "category": "Stamina",
-    "tier": "Grandmaster"
+    "tier": "Grandmaster",
+    "clientSortId": "409"
   }
 ]
