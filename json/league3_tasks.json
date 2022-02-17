@@ -1085,16 +1085,7 @@
     "type": "Combat",
     "tier": "Easy",
     "clientSortId": "93",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "75"
-      },
-      {
-        "skill": "Slayer",
-        "level": "99"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -1224,12 +1215,7 @@
     "type": "Combat",
     "tier": "Easy",
     "clientSortId": "103",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "20"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -1669,16 +1655,7 @@
     "type": "Combat",
     "tier": "Easy",
     "clientSortId": "134",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "40"
-      },
-      {
-        "skill": "Slayer",
-        "level": "99"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -2048,10 +2025,6 @@
       {
         "skill": "Slayer",
         "level": "1"
-      },
-      {
-        "skill": "Combat",
-        "level": "3"
       }
     ],
     "other": ""
@@ -2119,12 +2092,7 @@
     "type": "Minigame",
     "tier": "Easy",
     "clientSortId": "171",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "40"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -2290,16 +2258,7 @@
     "type": "Combat",
     "tier": "Easy",
     "clientSortId": "183",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "20"
-      },
-      {
-        "skill": "Slayer",
-        "level": "99"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -5606,16 +5565,7 @@
     "type": "Combat",
     "tier": "Medium",
     "clientSortId": "421",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "85"
-      },
-      {
-        "skill": "Slayer",
-        "level": "99"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -6046,12 +5996,7 @@
     "type": "Minigame",
     "tier": "Medium",
     "clientSortId": "452",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "70"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -7244,12 +7189,7 @@
     "type": "Combat",
     "tier": "Hard",
     "clientSortId": "540",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "100"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -7260,12 +7200,7 @@
     "type": "Combat",
     "tier": "Hard",
     "clientSortId": "541",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "110"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -9923,16 +9858,8 @@
     "clientSortId": "723",
     "skills": [
       {
-        "skill": "Combat",
-        "level": "100"
-      },
-      {
         "skill": "Slayer",
         "level": "50"
-      },
-      {
-        "skill": "Slayer",
-        "level": "99"
       }
     ],
     "other": ""
@@ -10805,12 +10732,7 @@
     "type": "Minigame",
     "tier": "Hard",
     "clientSortId": "775",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "100"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -10821,12 +10743,7 @@
     "type": "Minigame",
     "tier": "Hard",
     "clientSortId": "776",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "100"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -12888,12 +12805,7 @@
     "type": "Combat",
     "tier": "Elite",
     "clientSortId": "916",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "120"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
@@ -12904,12 +12816,7 @@
     "type": "Combat",
     "tier": "Elite",
     "clientSortId": "917",
-    "skills": [
-      {
-        "skill": "Combat",
-        "level": "126"
-      }
-    ],
+    "skills": [],
     "other": ""
   },
   {
