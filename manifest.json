@@ -1,6 +1,5 @@
-[
-    "min/combat_tasks.min.json",
-    "min/league1_tasks.min.json",
-    "min/league2_tasks.min.json",
-    "min/league3_tasks.min.json"
-]
+{
+  "taskTypeMetadata": "task-types.json",
+  "filterMetadata": "filters.json",
+  "additionalVarbits": []
+}

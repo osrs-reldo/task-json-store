@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "SKILL",
+    "name": "Skill",
+    "uiType": "button-panel", // types TBD
+    "options": {}, // additional properties pertaining to the 'type' control render & behavior
+    "values": [
+      {
+        "name": "Attack",
+        "spriteId": 197,
+        "value": "attack"
+      },
+      {
+        "name": "Strength",
+        "spriteId": 198,
+        "value": "strength"
+      },
+      {
+        "name": "Defence",
+        "spriteId": 199,
+        "value": "defence"
+      },
+      {
+        "name": "Ranged",
+        "spriteId": 200,
+        "value": "ranged"
+      },
+      {
+        "name": "Prayer",
+        "spriteId": 201,
+        "value": "prayer"
+      },
+      {
+        "name": "Magic",
+        "spriteId": 202,
+        "value": "magic"
+      },
+      {
+        "name": "Hitpoints",
+        "spriteId": 203,
+        "value": "hitpoints"
+      },
+      {
+        "name": "Agility",
+        "spriteId": 204,
+        "value": "agility"
+      },
+      {
+        "name": "Herblore",
+        "spriteId": 205,
+        "value": "herblore"
+      },
+      {
+        "name": "Thieving",
+        "spriteId": 206,
+        "value": "thieving"
+      },
+      {
+        "name": "Crafting",
+        "spriteId": 207,
+        "value": "crafting"
+      },
+      {
+        "name": "Fletching",
+        "spriteId": 208,
+        "value": "fletching"
+      },
+      {
+        "name": "Mining",
+        "spriteId": 209,
+        "value": "mining"
+      },
+      {
+        "name": "Smithing",
+        "spriteId": 210,
+        "value": "smithing"
+      },
+      {
+        "name": "Fishing",
+        "spriteId": 211,
+        "value": "fishing"
+      },
+      {
+        "name": "Cooking",
+        "spriteId": 212,
+        "value": "cooking"
+      },
+      {
+        "name": "Firemaking",
+        "spriteId": 213,
+        "value": "firemaking"
+      },
+      {
+        "name": "Woodcutting",
+        "spriteId": 214,
+        "value": "woodcutting"
+      },
+      {
+        "name": "Runecrafting",
+        "spriteId": 215,
+        "value": "runecrafting"
+      },
+      {
+        "name": "Slayer",
+        "spriteId": 216,
+        "value": "slayer"
+      },
+      {
+        "name": "Farming",
+        "spriteId": 217,
+        "value": "farming"
+      },
+      {
+        "name": "Hunter",
+        "spriteId": 220,
+        "value": "hunter"
+      },
+      {
+        "name": "Construction",
+        "spriteId": 221,
+        "value": "construction"
+      }
+    ]
+  },
+  {
+    "slug": "LEAGUE3_TIER",
+    "name": "Tier",
+    "uiType": "button-panel",
+    "options": {},
+    "values": [
+      {
+        "name": "Beginner",
+        "spriteId": 2316,
+        "value": "beginner"
+      },
+      {
+        "name": "Easy",
+        "spriteId": 2317,
+        "value": "easy"
+      },
+      {
+        "name": "Medium",
+        "spriteId": 2318,
+        "value": "medium"
+      },
+      {
+        "name": "Hard",
+        "spriteId": 2319,
+        "value": "hard"
+      },
+      {
+        "name": "Elite",
+        "spriteId": 2320,
+        "value": "elite"
+      },
+      {
+        "name": "Master",
+        "spriteId": 3739,
+        "value": "master"
+      }
+    ]
+  },
+  {
+    "slug": "LEAGUE3_AREA",
+    "name": "Area",
+    "uiType": "dropdown",
+    "options": {},
+    "values": [
+      "Misthalin",
+      "Karamja",
+      "Asgarnia",
+      "Kandarin",
+      "Morytania",
+      "Desert",
+      "Tirannwn",
+      "Fremennik",
+      "Wilderness",
+      "Kourend",
+      "Non-Specific"
+    ]
+  },
+  {
+    "slug": "LEAGUE3_SKILL_CATEGORY",
+    "name": "Skill Category",
+    "uiType": "dropdown",
+    "options": {},
+    "values": ["Combat", "Gathering", "Artisan", "Support", "Unlocked"]
+  },
+  {
+    "slug": "LEAGUE3_TYPE",
+    "name": "Task Type",
+    "options": {},
+    "values": ["Skill", "Combat", "Quest", "Achievement", "Minigame", "Other"]
+  },
+  {
+    "slug": "COMBAT_TIER",
+    "name": "Tier",
+    "uiType": "button-panel",
+    "options": {},
+    "values": []
+  }
+]
