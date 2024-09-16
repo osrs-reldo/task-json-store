@@ -71,5 +71,11 @@
     "taskVarps": [],
     "otherVarps": [],
     "varbits": []
+  },
+  {
+    "name": "League IV: Trailblazer Reloaded",
+    "json": "LEAGUE_4.json",
+    "enabled:": true,
+    "properties": []
   }
 ]

@@ -126,6 +126,7 @@
     "slug": "LEAGUE3_TIER",
     "name": "Tier",
     "uiType": "button-panel",
+    "param": "difficulty",
     "options": {},
     "values": [
       {
