@@ -1,81 +1,111 @@
 [
   {
-    "slug": "LEAGUE_3",
-    "name": "League III: Shattered Relics",
-    "json": "tasks/LEAGUE_3.json",
-    "enabled": true,
-    "properties": [
+    "name": "Combat Achievements",
+    "description": "A set of combat-based tasks and challenges intended to test the player's prowess in combat related content.",
+    "taskJsonName": "COMBAT",
+    "isEnabled": true,
+    "filters": [
       {
-        "key": "skills",
-        "name": "Skill Requirements",
-        "filter": "SKILL"
+        "configKey": "tier",
+        "label": "Tier",
+        "filterType": "BUTTON_FILTER",
+        "valueType": "PARAM_INTEGER",
+        "valueName": "tier",
+        "customItems": [
+          { "value": 1, "spriteId": 3399, "tooltip": "Easy" },
+          { "value": 2, "spriteId": 3400, "tooltip": "Medium" },
+          { "value": 3, "spriteId": 3401, "tooltip": "Hard" },
+          { "value": 4, "spriteId": 3402, "tooltip": "Elite" },
+          { "value": 5, "spriteId": 3403, "tooltip": "Master" },
+          { "value": 6, "spriteId": 3404, "tooltip": "Grandmaster" }
+        ]
       },
       {
-        "key": "tier",
-        "name": "Tier",
-        "filter": "LEAGUE3_TIER"
+        "configKey": "category",
+        "label": "Category",
+        "filterType": "DROPDOWN_FILTER",
+        "valueType": "PARAM_INTEGER",
+        "valueName": "category",
+        "optionLabelEnum": "category"
       },
       {
-        "key": "area",
-        "name": "Area",
-        "filter": "LEAGUE3_AREA"
-      },
-      {
-        "key": "type",
-        "name": "Task Type",
-        "filter": "LEAGUE3_TYPE"
-      },
-      {
-        "key": "category",
-        "name": "Skill Category",
-        "filter": "LEAGUE3_SKILL_CATEGORY"
-      },
-      {
-        "key": "other",
-        "name": "Addl. Wiki Information"
+        "configKey": "monster",
+        "label": "Monster",
+        "filterType": "DROPDOWN_FILTER",
+        "valueType": "PARAM_INTEGER",
+        "valueName": "monster",
+        "optionLabelEnum": "monster"
       }
     ],
+    "intParamMap": {
+      "id": 1306,
+      "tier": 1310,
+      "monster": 1312,
+      "category": 1311
+    },
+    "stringParamMap": {
+      "name": 1308,
+      "description": 1309
+    },
+    "intEnumMap": {
+      "tierSprites": 3965,
+      "tierPoints": 4846
+    },
+    "stringEnumMap": {
+      "category": 3969,
+      "monster": 3971,
+      "tier": 3967
+    },
     "taskVarps": [
-      2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627,
-      2628, 2629, 2630, 2631, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815,
-      2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2826, 2827,
-      2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835, 3339, 3340, 3341, 3342
+      3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127,
+      3128, 3387, 3718, 3773, 3774, 4204
     ],
-    "otherVarps": [2614, 3276],
-    "varbits": [
-      13395, 13396, 13397, 13398, 13399, 13401, 13402, 13344, 13345, 13348,
-      13346, 13349, 13347, 13356, 13358, 13359, 13357, 13352, 13355, 13354,
-      13351, 13350, 13360, 13361, 13353, 13363, 13362, 13393, 13388, 13366,
-      13368, 13372, 13370, 13373, 13391, 13390, 13394, 13365, 13371, 13375,
-      13382, 13384, 13381, 13383, 13387, 13369, 13376, 13364, 13389, 13378,
-      13386, 13374, 13367, 13385, 13379, 13377, 13380, 13392, 13403, 13404,
-      13405, 13406, 13407, 13408, 13409, 13410, 13411, 13412, 13413, 13414,
-      13415, 13416, 13417, 13418, 13419, 13420, 13421, 13422, 13423, 13424,
-      13425, 13426, 13427, 13428, 13429, 13430, 13431, 13432, 13433, 13434,
-      13435, 13436, 13437, 13438, 13439, 13440, 13441, 13442, 13443, 13444,
-      13445, 13446, 13447, 13448, 13449, 13450, 13451, 13452, 13453, 13454,
-      13455, 13403, 13404, 13405, 13406, 13407, 13408, 13409, 13410, 13411,
-      13412, 13413, 13414, 13415, 13416, 13417, 13418, 13419, 13420, 13421,
-      13422, 13423, 13424, 13425, 13426, 13427, 13428, 13429, 13430, 13431,
-      13432, 13433, 13434, 13435, 13436, 13437, 13438, 13439, 13440, 13441,
-      13442, 13443, 13444, 13445, 13446, 13447, 13448, 13449, 13450, 13451,
-      13452, 13453, 13454, 13455, 10046, 10039
-    ]
-  },
-  {
-    "slug": "COMBAT",
-    "name": "Combat Achievements",
-    "json": "tasks/COMBAT.json",
-    "enabled": true,
-    "properties": [],
-    "taskVarps": [],
     "otherVarps": [],
     "varbits": []
   },
   {
     "name": "League IV: Trailblazer Reloaded",
-    "json": "LEAGUE_4.json",
-    "enabled:": true,
-    "properties": []
+    "taskJsonName": "LEAGUE_4",
+    "filters": [
+      {
+        "configKey": "tier",
+        "label": "Tier",
+        "filterType": "DROPDOWN_FILTER",
+        "valueType": "PARAM_INTEGER",
+        "valueName": "tier",
+        "optionLabelEnum": "tier"
+      }
+    ],
+    "intParamMap": {
+      "id": 873,
+      "tier": 1852,
+      "skill": 1018,
+      "area": 1017,
+      "category": 1016
+    },
+    "stringParamMap": {
+      "name": 874,
+      "description": 875
+    },
+    "intEnumMap": {
+      "tierSprites": 2674
+    },
+    "stringEnumMap": {
+      "tier": 2676,
+      "category": 3413,
+      "area": 3412,
+      "skill": 4105
+    },
+    "paramMap": {},
+    "taskVarps": [
+      2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627,
+      2628, 2629, 2630, 2631, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815,
+      2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2826, 2827,
+      2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835, 3339, 3340, 3341, 3342,
+      4036, 4037, 4038, 4039, 4040, 4041, 4042, 4043, 4044, 4045, 4046, 4047,
+      4048, 4049
+    ],
+    "otherVarps": [],
+    "varbits": [10049, 10050, 10051, 10052, 10053, 11696, 17301, 17302]
   }
 ]
