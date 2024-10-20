@@ -69,7 +69,14 @@
 	  },
       {
         "configKey": "leagueTier",
-        "valueType": "GLOBAL"
+        "valueType": "GLOBAL",
+		"customItems": [
+		  { "value": 1, "spriteId": 2316, "tooltip": "Easy" },
+		  { "value": 2, "spriteId": 2318, "tooltip": "Medium" },
+		  { "value": 3, "spriteId": 2319, "tooltip": "Hard" },
+		  { "value": 4, "spriteId": 2320, "tooltip": "Elite" },
+		  { "value": 5, "spriteId": 3739, "tooltip": "Master" }
+		]
       },
       {
         "configKey": "area",
