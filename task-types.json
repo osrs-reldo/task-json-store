@@ -30,11 +30,7 @@
       },
       {
         "configKey": "monster",
-        "label": "Monster",
-        "filterType": "DROPDOWN_FILTER",
-        "valueType": "PARAM_INTEGER",
-        "valueName": "monster",
-        "optionLabelEnum": "monster"
+        "valueType": "GLOBAL"
       }
     ],
     "intParamMap": {
@@ -68,12 +64,20 @@
     "taskJsonName": "LEAGUE_4",
     "filters": [
       {
-        "configKey": "tier",
-        "label": "Tier",
-        "filterType": "DROPDOWN_FILTER",
-        "valueType": "PARAM_INTEGER",
-        "valueName": "tier",
-        "optionLabelEnum": "tier"
+        "configKey": "skill",
+        "valueType": "GLOBAL"
+	  },
+      {
+        "configKey": "leagueTier",
+        "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "area",
+        "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "monster",
+        "valueType": "GLOBAL"
       }
     ],
     "intParamMap": {
