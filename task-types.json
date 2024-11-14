@@ -30,11 +30,7 @@
       },
       {
         "configKey": "monster",
-        "label": "Monster",
-        "filterType": "DROPDOWN_FILTER",
-        "valueType": "PARAM_INTEGER",
-        "valueName": "monster",
-        "optionLabelEnum": "monster"
+        "valueType": "GLOBAL"
       }
     ],
     "intParamMap": {
@@ -76,12 +72,27 @@
     "taskJsonName": "LEAGUE_4",
     "filters": [
       {
-        "configKey": "tier",
-        "label": "Tier",
-        "filterType": "DROPDOWN_FILTER",
-        "valueType": "PARAM_INTEGER",
-        "valueName": "tier",
-        "optionLabelEnum": "tier"
+        "configKey": "skill",
+        "valueType": "GLOBAL"
+	  },
+      {
+        "configKey": "leagueTier",
+        "valueType": "GLOBAL",
+		"customItems": [
+		  { "value": 1, "spriteId": 2316, "tooltip": "Easy" },
+		  { "value": 2, "spriteId": 2318, "tooltip": "Medium" },
+		  { "value": 3, "spriteId": 2319, "tooltip": "Hard" },
+		  { "value": 4, "spriteId": 2320, "tooltip": "Elite" },
+		  { "value": 5, "spriteId": 3739, "tooltip": "Master" }
+		]
+      },
+      {
+        "configKey": "area",
+        "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "monster",
+        "valueType": "GLOBAL"
       }
     ],
     "intParamMap": {
@@ -114,7 +125,7 @@
       4048, 4049
     ],
     "tierSpriteIdMap": {
-      "1": 2317,
+      "1": 2316,
       "2": 2318,
       "3": 2319,
       "4": 2320,
