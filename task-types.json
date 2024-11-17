@@ -65,7 +65,8 @@
       "6": 3404
     },
     "otherVarps": [],
-    "varbits": []
+    "varbits": [],
+    "taskCompletedScriptId": 4834
   },
   {
     "name": "League IV: Trailblazer Reloaded",
@@ -74,17 +75,10 @@
       {
         "configKey": "skill",
         "valueType": "GLOBAL"
-	  },
+      },
       {
         "configKey": "leagueTier",
-        "valueType": "GLOBAL",
-		"customItems": [
-		  { "value": 1, "spriteId": 2316, "tooltip": "Easy" },
-		  { "value": 2, "spriteId": 2318, "tooltip": "Medium" },
-		  { "value": 3, "spriteId": 2319, "tooltip": "Hard" },
-		  { "value": 4, "spriteId": 2320, "tooltip": "Elite" },
-		  { "value": 5, "spriteId": 3739, "tooltip": "Master" }
-		]
+        "valueType": "GLOBAL"
       },
       {
         "configKey": "area",
@@ -132,6 +126,7 @@
       "5": 3739
     },
     "otherVarps": [],
-    "varbits": [10049, 10050, 10051, 10052, 10053, 11696, 17301, 17302]
+    "varbits": [10049, 10050, 10051, 10052, 10053, 11696, 17301, 17302],
+    "taskCompletedScriptId": 3216
   }
 ]
