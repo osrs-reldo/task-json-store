@@ -1,0 +1,110 @@
+[
+  {
+	"configKey": "skill",
+	"label": "Skill",
+	"filterType": "BUTTON_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "skill",
+	"customItems": [
+	  { "value": 1, "spriteId": 197, "tooltip": "Attack" },
+	  { "value": 6, "spriteId": 203, "tooltip": "Hitpoints" },
+	  { "value": 13, "spriteId": 209, "tooltip": "Mining" },
+	  { "value": 2, "spriteId": 198, "tooltip": "Strength" },
+	  { "value": 8, "spriteId": 204, "tooltip": "Agility" },
+	  { "value": 14, "spriteId": 210, "tooltip": "Smithing" },
+	  { "value": 5, "spriteId": 199, "tooltip": "Defence" },
+	  { "value": 9, "spriteId": 205, "tooltip": "Herblore" },
+	  { "value": 15, "spriteId": 211, "tooltip": "Fishing" },
+	  { "value": 3, "spriteId": 200, "tooltip": "Ranged" },
+	  { "value": 10, "spriteId": 206, "tooltip": "Thieving" },
+	  { "value": 16, "spriteId": 212, "tooltip": "Cooking" },
+	  { "value": 7, "spriteId": 201, "tooltip": "Prayer" },
+	  { "value": 11, "spriteId": 207, "tooltip": "Crafting" },
+	  { "value": 17, "spriteId": 213, "tooltip": "Firemaking" },
+	  { "value": 4, "spriteId": 202, "tooltip": "Magic" },
+	  { "value": 19, "spriteId": 208, "tooltip": "Fletching" },
+	  { "value": 18, "spriteId": 214, "tooltip": "Woodcutting" },
+	  { "value": 12, "spriteId": 215, "tooltip": "Runecraft" },
+	  { "value": 20, "spriteId": 216, "tooltip": "Slayer" },
+	  { "value": 21, "spriteId": 217, "tooltip": "Farming" },
+	  { "value": 22, "spriteId": 221, "tooltip": "Construction" },
+	  { "value": 23, "spriteId": 220, "tooltip": "Hunter" },
+	  { "value": 0, "spriteId": 222, "tooltip": "No skill requirements." }
+	]
+  },
+  {
+	"configKey": "leagueTier",
+	"label": "Tier",
+	"filterType": "BUTTON_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "tier",
+	"customItems": [
+	  { "value": 1, "spriteId": 2316, "tooltip": "Beginner" },
+	  { "value": 2, "spriteId": 2317, "tooltip": "Easy" },
+	  { "value": 3, "spriteId": 2318, "tooltip": "Medium" },
+	  { "value": 4, "spriteId": 2319, "tooltip": "Hard" },
+	  { "value": 5, "spriteId": 2320, "tooltip": "Elite" },
+	  { "value": 6, "spriteId": 3739, "tooltip": "Master" }
+	]
+  },
+  {
+	"configKey": "area",
+	"label": "Area",
+	"filterType": "BUTTON_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "area",
+	"customItems": [
+	  { "value": 0, "spriteId": 2275, "tooltip": "Global" },
+	  { "value": 1, "spriteId": 2731, "tooltip": "Misthalin" },
+	  { "value": 2, "spriteId": 2732, "tooltip": "Karamja" },
+	  { "value": 3, "spriteId": 2733, "tooltip": "Asgarnia" },
+	  { "value": 4, "spriteId": 2734, "tooltip": "Desert" },
+	  { "value": 5, "spriteId": 2735, "tooltip": "Morytania" },
+	  { "value": 6, "spriteId": 2736, "tooltip": "Wilderness" },
+	  { "value": 7, "spriteId": 2737, "tooltip": "Kandarin" },
+	  { "value": 8, "spriteId": 2738, "tooltip": "Fremennik" },
+	  { "value": 9, "spriteId": 2739, "tooltip": "Tirannwn" },
+	  { "value": 10, "spriteId": 5468, "tooltip": "Kourend" },
+	  { "value": 11, "spriteId": 5468, "tooltip": "Varlamore" }
+	]
+  },
+  {
+	"configKey": "monster",
+	"label": "Monster",
+	"filterType": "DROPDOWN_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "monster",
+	"optionLabelEnum": "monster"
+  },
+  {
+    "configKey": "skillcategory",
+    "label": "Skill Category",
+    "filterType": "DROPDOWN_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "skillcategory",
+	"optionLabelEnum": "skillcategory",
+	"customItems": [
+	  { "value": 1, "spriteId": 2731, "tooltip": "Combat" },
+	  { "value": 2, "spriteId": 2732, "tooltip": "Gathering" },
+	  { "value": 3, "spriteId": 2733, "tooltip": "Artisan" },
+	  { "value": 4, "spriteId": 2734, "tooltip": "Support" },
+	  { "value": 5, "spriteId": 2735, "tooltip": "Unlocked" }
+	]
+  },
+  {
+    "slug": "category",
+    "label": "Category",
+    "filterType": "DROPDOWN_FILTER",
+	"valueType": "PARAM_INTEGER",
+	"valueName": "category",
+	"optionLabelEnum": "category",
+	"customItems": [
+	  { "value": 1, "spriteId": 2731, "tooltip": "Skill" },
+	  { "value": 2, "spriteId": 2732, "tooltip": "Combat" },
+	  { "value": 3, "spriteId": 2733, "tooltip": "Quest" },
+	  { "value": 4, "spriteId": 2734, "tooltip": "Achievement" },
+	  { "value": 5, "spriteId": 2735, "tooltip": "Minigame" },
+	  { "value": 6, "spriteId": 2736, "tooltip": "Other" }
+	]
+  }
+]
