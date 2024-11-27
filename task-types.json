@@ -104,7 +104,8 @@
       "description": 875
     },
     "intEnumMap": {
-      "tierSprites": 2674
+      "tierSprites": 2674,
+      "tierPoints": 2671
     },
     "stringEnumMap": {
       "tier": 2676,
