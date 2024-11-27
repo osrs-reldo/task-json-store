@@ -65,7 +65,7 @@
       { "value": 8, "spriteId": 2738, "tooltip": "Fremennik" },
       { "value": 7, "spriteId": 2739, "tooltip": "Tirannwn" },
       { "value": 10, "spriteId": 5468, "tooltip": "Kourend" },
-      { "value": 9, "spriteId": 5887, "tooltip": "Varlamore" }
+      { "value": 21, "spriteId": 5887, "tooltip": "Varlamore" }
     ]
   },
   {

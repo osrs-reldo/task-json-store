@@ -158,10 +158,6 @@
       {
         "configKey": "area",
         "valueType": "GLOBAL"
-      },
-      {
-        "configKey": "monster",
-        "valueType": "GLOBAL"
       }
     ],
     "intParamMap": {
