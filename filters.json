@@ -58,14 +58,14 @@
       { "value": 1, "spriteId": 2731, "tooltip": "Misthalin" },
       { "value": 2, "spriteId": 2732, "tooltip": "Karamja" },
       { "value": 3, "spriteId": 2733, "tooltip": "Asgarnia" },
-      { "value": 4, "spriteId": 2734, "tooltip": "Desert" },
+      { "value": 6, "spriteId": 2734, "tooltip": "Desert" },
       { "value": 5, "spriteId": 2735, "tooltip": "Morytania" },
-      { "value": 6, "spriteId": 2736, "tooltip": "Wilderness" },
-      { "value": 7, "spriteId": 2737, "tooltip": "Kandarin" },
+      { "value": 11, "spriteId": 2736, "tooltip": "Wilderness" },
+      { "value": 4, "spriteId": 2737, "tooltip": "Kandarin" },
       { "value": 8, "spriteId": 2738, "tooltip": "Fremennik" },
-      { "value": 9, "spriteId": 2739, "tooltip": "Tirannwn" },
+      { "value": 7, "spriteId": 2739, "tooltip": "Tirannwn" },
       { "value": 10, "spriteId": 5468, "tooltip": "Kourend" },
-      { "value": 11, "spriteId": 5887, "tooltip": "Varlamore" }
+      { "value": 9, "spriteId": 5887, "tooltip": "Varlamore" }
     ]
   },
   {
