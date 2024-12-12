@@ -90,6 +90,25 @@
       {
         "configKey": "area",
         "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "testMetaFilters",
+        "label": "Metadata Test",
+        "valueType": "METADATA",
+        "valueName": "testData",
+        "filterType": "DROPDOWN_FILTER",
+        "customItems": [
+          { "value": -1, "tooltip": "" },
+          { "value": 1, "tooltip": "Pies" }
+        ]
+      },
+      {
+        "configKey": "testMetaFilters2",
+        "label": "Metadata Test 2",
+        "valueType": "METADATA",
+        "valueName": "testData",
+        "filterType": "BUTTON_FILTER",
+        "customItems": [{ "value": 1, "spriteId": 543, "tooltip": "Pies" }]
       }
     ],
     "intParamMap": {
