@@ -68,12 +68,12 @@
     "varbits": [],
     "taskCompletedScriptId": 4834,
     "rewardTiers": [
-      { "varbitId": 4132, "label": "Easy", "points": 33 },
-      { "varbitId": 10660, "label": "Medium", "points": 115 },
-      { "varbitId": 10661, "label": "Hard", "points": 304 },
-      { "varbitId": 14812, "label": "Elite", "points": 820 },
-      { "varbitId": 14813, "label": "Master", "points": 1465 },
-      { "varbitId": 14814, "label": "Grandmaster", "points": 2005 }
+      { "varbitId": 4132, "label": "Easy", "points": 38 },
+      { "varbitId": 10660, "label": "Medium", "points": 148 },
+      { "varbitId": 10661, "label": "Hard", "points": 394 },
+      { "varbitId": 14812, "label": "Elite", "points": 1038 },
+      { "varbitId": 14813, "label": "Master", "points": 1878 },
+      { "varbitId": 14814, "label": "Grandmaster", "points": 2604 }
     ],
     "areaUnlocks": null
   },
