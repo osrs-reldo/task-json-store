@@ -66,7 +66,16 @@
     },
     "otherVarps": [],
     "varbits": [],
-    "taskCompletedScriptId": 4834
+    "taskCompletedScriptId": 4834,
+    "rewardTiers": [
+      { "varbitId": 4132, "label": "Easy", "points": 33 },
+      { "varbitId": 10660, "label": "Medium", "points": 115 },
+      { "varbitId": 10661, "label": "Hard", "points": 304 },
+      { "varbitId": 14812, "label": "Elite", "points": 820 },
+      { "varbitId": 14813, "label": "Master", "points": 1465 },
+      { "varbitId": 14814, "label": "Grandmaster", "points": 2005 }
+    ],
+    "areaUnlocks": null
   },
   {
     "name": "League V: Raging Echoes",
@@ -131,6 +140,22 @@
     },
     "otherVarps": [],
     "varbits": [10049, 10050, 10051, 10052, 10053, 11696, 17301, 17302],
-    "taskCompletedScriptId": 3216
+    "taskCompletedScriptId": 3216,
+    "rewardTiers": [
+      { "varbitId": -1, "label": "Tier 1", "points": 0 },
+      { "varbitId": -1, "label": "Tier 2", "points": 750 },
+      { "varbitId": -1, "label": "Tier 3", "points": 1500 },
+      { "varbitId": -1, "label": "Tier 4", "points": 2500 },
+      { "varbitId": -1, "label": "Tier 5", "points": 5000 },
+      { "varbitId": -1, "label": "Tier 6", "points": 8000 },
+      { "varbitId": -1, "label": "Tier 7", "points": 16000 },
+      { "varbitId": -1, "label": "Tier 8", "points": 25000 }
+    ],
+    "areaUnlocks": [
+      { "varbitId": -1, "label": "Starter", "tasks": 0 },
+      { "varbitId": -1, "label": "1st Unlock", "tasks": 50 },
+      { "varbitId": -1, "label": "2nd Unlock", "tasks": 100 },
+      { "varbitId": -1, "label": "3rd Unlock", "tasks": 200 }
+    ]
   }
 ]
