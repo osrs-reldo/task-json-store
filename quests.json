@@ -1,0 +1,2596 @@
+{
+  "source": "https://oldschool.runescape.wiki/w/Quests/List",
+  "updatedAt": "2026-02-09T18:18:29.653Z",
+  "quests": [
+    {
+      "id": 0,
+      "name": "Animal Magnetism",
+      "requirements": {
+        "skills": {
+          "SLAYER": 18,
+          "CRAFTING": 19,
+          "RANGED": 30,
+          "WOODCUTTING": 35
+        },
+        "quests": [
+          120,
+          44,
+          111
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "name": "Another Slice of H.A.M.",
+      "requirements": {
+        "skills": {
+          "ATTACK": 15,
+          "PRAYER": 25
+        },
+        "quests": [
+          24,
+          63,
+          29
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Ascent of Arceuus",
+      "requirements": {
+        "skills": {
+          "HUNTER": 12
+        },
+        "quests": [
+          13
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Alfred Grimhand's Barcrawl",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 5,
+      "name": "Bear Your Soul",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 6,
+      "name": "Below Ice Mountain",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 7,
+      "name": "Between a Rock...",
+      "requirements": {
+        "skills": {
+          "DEFENCE": 30,
+          "MINING": 40,
+          "SMITHING": 50
+        },
+        "quests": [
+          35,
+          52
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Big Chompy Bird Hunting",
+      "requirements": {
+        "skills": {
+          "FLETCHING": 5,
+          "COOKING": 30,
+          "RANGED": 30
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 9,
+      "name": "Biohazard",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          109
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Black Knights' Fortress",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 11,
+      "name": "Bone Voyage",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 12,
+      "name": "Cabin Fever",
+      "requirements": {
+        "skills": {
+          "AGILITY": 42,
+          "CRAFTING": 45,
+          "SMITHING": 50,
+          "RANGED": 40
+        },
+        "quests": [
+          108,
+          124
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Client of Kourend",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 14,
+      "name": "Clock Tower",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 15,
+      "name": "Cold War",
+      "requirements": {
+        "skills": {
+          "HUNTER": 10,
+          "AGILITY": 30,
+          "CRAFTING": 30,
+          "CONSTRUCTION": 34,
+          "THIEVING": 15
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 16,
+      "name": "Contact!",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          112,
+          75
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "Cook's Assistant",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 18,
+      "name": "The Corsair Curse",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 19,
+      "name": "Creature of Fenkenstrain",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 20,
+          "THIEVING": 25
+        },
+        "quests": [
+          111,
+          120
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "name": "Curse of the Empty Lord",
+      "requirements": {
+        "skills": {
+          "THIEVING": 53,
+          "PRAYER": 31
+        },
+        "quests": [
+          27,
+          120
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "Daddy's Home",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 22,
+      "name": "Darkness of Hallowvale",
+      "requirements": {
+        "skills": {
+          "CONSTRUCTION": 5,
+          "MINING": 20,
+          "THIEVING": 22,
+          "AGILITY": 26,
+          "CRAFTING": 32,
+          "MAGIC": 33,
+          "STRENGTH": 40
+        },
+        "quests": [
+          77
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "name": "Death Plateau",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 24,
+      "name": "Death to the Dorgeshuun",
+      "requirements": {
+        "skills": {
+          "AGILITY": 23,
+          "THIEVING": 23
+        },
+        "quests": [
+          87
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "name": "Demon Slayer",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 26,
+      "name": "The Depths of Despair",
+      "requirements": {
+        "skills": {
+          "AGILITY": 18
+        },
+        "quests": [
+          13
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "Desert Treasure I",
+      "requirements": {
+        "skills": {
+          "THIEVING": 53,
+          "MAGIC": 50,
+          "FIREMAKING": 50,
+          "SLAYER": 10
+        },
+        "quests": [
+          29,
+          146,
+          148,
+          153,
+          111,
+          158
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "name": "Devious Minds",
+      "requirements": {
+        "skills": {
+          "SMITHING": 65,
+          "RUNECRAFT": 50,
+          "FLETCHING": 50
+        },
+        "quests": [
+          156,
+          153,
+          30
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "name": "The Dig Site",
+      "requirements": {
+        "skills": {
+          "AGILITY": 10,
+          "HERBLORE": 10,
+          "THIEVING": 25
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 30,
+      "name": "Doric's Quest",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 31,
+      "name": "Dragon Slayer I",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 32,
+      "name": "Dragon Slayer II",
+      "requirements": {
+        "skills": {
+          "MAGIC": 75,
+          "SMITHING": 70,
+          "MINING": 68,
+          "CRAFTING": 62,
+          "AGILITY": 60,
+          "THIEVING": 60,
+          "CONSTRUCTION": 50,
+          "HITPOINTS": 50
+        },
+        "quests": [
+          85,
+          33,
+          142,
+          0,
+          62,
+          11,
+          13
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "name": "Dream Mentor",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          88,
+          36
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "name": "Druidic Ritual",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 35,
+      "name": "Dwarf Cannon",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 36,
+      "name": "Eadgar's Ruse",
+      "requirements": {
+        "skills": {
+          "HERBLORE": 31
+        },
+        "quests": [
+          34,
+          153
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "name": "Eagles' Peak",
+      "requirements": {
+        "skills": {
+          "HUNTER": 27
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 38,
+      "name": "Elemental Workshop I",
+      "requirements": {
+        "skills": {
+          "MINING": 20,
+          "SMITHING": 20,
+          "CRAFTING": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 39,
+      "name": "Elemental Workshop II",
+      "requirements": {
+        "skills": {
+          "MAGIC": 20,
+          "SMITHING": 30
+        },
+        "quests": [
+          38
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "name": "Enakhra's Lament",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 50,
+          "FIREMAKING": 45,
+          "PRAYER": 43,
+          "MAGIC": 39
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 41,
+      "name": "The Enchanted Key",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          92
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "name": "Enlightened Journey",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 20,
+          "FARMING": 30,
+          "CRAFTING": 36
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 43,
+      "name": "Enter the Abyss",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          125
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "name": "Ernest the Chicken",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 45,
+      "name": "The Eyes of Glouphrie",
+      "requirements": {
+        "skills": {
+          "CONSTRUCTION": 5,
+          "MAGIC": 46
+        },
+        "quests": [
+          66
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "name": "Fairytale I - Growing Pains",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          86,
+          103
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "name": "Fairytale II - Cure a Queen",
+      "requirements": {
+        "skills": {
+          "THIEVING": 40,
+          "FARMING": 49,
+          "HERBLORE": 57
+        },
+        "quests": [
+          46
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "name": "Family Crest",
+      "requirements": {
+        "skills": {
+          "MINING": 40,
+          "SMITHING": 40,
+          "MAGIC": 59,
+          "CRAFTING": 40
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 49,
+      "name": "Family Pest",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          48
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "name": "The Feud",
+      "requirements": {
+        "skills": {
+          "THIEVING": 30
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 51,
+      "name": "Fight Arena",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 52,
+      "name": "Fishing Contest",
+      "requirements": {
+        "skills": {
+          "FISHING": 10
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 53,
+      "name": "Forgettable Tale...",
+      "requirements": {
+        "skills": {
+          "COOKING": 22,
+          "FARMING": 17
+        },
+        "quests": [
+          63,
+          52
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "name": "The Forsaken Tower",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          13
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "name": "The Fremennik Exiles",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 65,
+          "SLAYER": 60,
+          "SMITHING": 60,
+          "FISHING": 60,
+          "RUNECRAFT": 55,
+          "MINING": 60
+        },
+        "quests": [
+          56,
+          88,
+          98,
+          72
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "name": "The Fremennik Isles",
+      "requirements": {
+        "skills": {
+          "CONSTRUCTION": 20
+        },
+        "quests": [
+          57
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "name": "The Fremennik Trials",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 58,
+      "name": "Garden of Tranquillity",
+      "requirements": {
+        "skills": {
+          "FARMING": 25
+        },
+        "quests": [
+          19
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "name": "The General's Shadow",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          20,
+          51
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "name": "Gertrude's Cat",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 61,
+      "name": "Getting Ahead",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 30,
+          "CONSTRUCTION": 26
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 62,
+      "name": "Ghosts Ahoy",
+      "requirements": {
+        "skills": {
+          "AGILITY": 25,
+          "COOKING": 20
+        },
+        "quests": [
+          111,
+          120
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "name": "The Giant Dwarf",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 12,
+          "FIREMAKING": 16,
+          "MAGIC": 33,
+          "THIEVING": 14
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 64,
+      "name": "Goblin Diplomacy",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 65,
+      "name": "The Golem",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 20,
+          "THIEVING": 25
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 66,
+      "name": "The Grand Tree",
+      "requirements": {
+        "skills": {
+          "AGILITY": 25
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 67,
+      "name": "The Great Brain Robbery",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 16,
+          "CONSTRUCTION": 30,
+          "PRAYER": 50
+        },
+        "quests": [
+          19,
+          12,
+          2310
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "name": "Grim Tales",
+      "requirements": {
+        "skills": {
+          "FARMING": 45,
+          "HERBLORE": 52,
+          "THIEVING": 58,
+          "AGILITY": 59,
+          "WOODCUTTING": 71
+        },
+        "quests": [
+          160
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "name": "The Hand in the Sand",
+      "requirements": {
+        "skills": {
+          "THIEVING": 17,
+          "CRAFTING": 49
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 70,
+      "name": "Haunted Mine",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 35
+        },
+        "quests": [
+          111
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "name": "Hazeel Cult",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 72,
+      "name": "Heroes' Quest",
+      "requirements": {
+        "skills": {
+          "COOKING": 53,
+          "FISHING": 53,
+          "HERBLORE": 25,
+          "MINING": 50
+        },
+        "quests": [
+          132,
+          86,
+          93,
+          31
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "name": "Holy Grail",
+      "requirements": {
+        "skills": {
+          "ATTACK": 20
+        },
+        "quests": [
+          93
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "name": "Horror from the Deep",
+      "requirements": {
+        "skills": {
+          "AGILITY": 35
+        },
+        "quests": [
+          4
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "name": "Icthlarin's Little Helper",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          60
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "name": "Imp Catcher",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 77,
+      "name": "In Aid of the Myreque",
+      "requirements": {
+        "skills": {
+          "AGILITY": 25,
+          "CRAFTING": 25,
+          "MINING": 15,
+          "MAGIC": 7
+        },
+        "quests": [
+          79
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "name": "In Search of Knowledge",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 79,
+      "name": "In Search of the Myreque",
+      "requirements": {
+        "skills": {
+          "AGILITY": 25
+        },
+        "quests": [
+          103
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "name": "Jungle Potion",
+      "requirements": {
+        "skills": {
+          "HERBLORE": 3
+        },
+        "quests": [
+          34
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "name": "A Kingdom Divided",
+      "requirements": {
+        "skills": {
+          "AGILITY": 54,
+          "THIEVING": 52,
+          "WOODCUTTING": 52,
+          "HERBLORE": 50,
+          "MINING": 42,
+          "CRAFTING": 38,
+          "MAGIC": 35
+        },
+        "quests": [
+          26,
+          113,
+          3,
+          54,
+          143,
+          13
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "name": "King's Ransom",
+      "requirements": {
+        "skills": {
+          "MAGIC": 45,
+          "DEFENCE": 65
+        },
+        "quests": [
+          10,
+          73,
+          101,
+          107
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "name": "The Knight's Sword",
+      "requirements": {
+        "skills": {
+          "MINING": 10
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 84,
+      "name": "Lair of Tarn Razorlor",
+      "requirements": {
+        "skills": {
+          "SLAYER": 40
+        },
+        "quests": [
+          70
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "name": "Legends' Quest",
+      "requirements": {
+        "skills": {
+          "AGILITY": 50,
+          "CRAFTING": 50,
+          "HERBLORE": 45,
+          "MAGIC": 56,
+          "MINING": 52,
+          "PRAYER": 42,
+          "SMITHING": 50,
+          "STRENGTH": 50,
+          "THIEVING": 50,
+          "WOODCUTTING": 50
+        },
+        "quests": [
+          48,
+          72,
+          133,
+          154,
+          158
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "name": "Lost City",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 31,
+          "WOODCUTTING": 36
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 87,
+      "name": "The Lost Tribe",
+      "requirements": {
+        "skills": {
+          "AGILITY": 13,
+          "THIEVING": 13,
+          "MINING": 17
+        },
+        "quests": [
+          64,
+          125
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "name": "Lunar Diplomacy",
+      "requirements": {
+        "skills": {
+          "HERBLORE": 5,
+          "CRAFTING": 61,
+          "DEFENCE": 40,
+          "FIREMAKING": 49,
+          "MAGIC": 65,
+          "MINING": 60,
+          "WOODCUTTING": 55
+        },
+        "quests": [
+          57,
+          86,
+          125,
+          133
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "name": "Mage Arena I",
+      "requirements": {
+        "skills": {
+          "MAGIC": 60
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 90,
+      "name": "Mage Arena II",
+      "requirements": {
+        "skills": {
+          "MAGIC": 75
+        },
+        "quests": [
+          89
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "name": "Making Friends with My Arm",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 66,
+          "MINING": 72,
+          "CONSTRUCTION": 35,
+          "AGILITY": 68
+        },
+        "quests": [
+          102,
+          140,
+          15,
+          121
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "name": "Making History",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          111,
+          120
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "name": "Merlin's Crystal",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 94,
+      "name": "Misthalin Mystery",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 95,
+      "name": "Monkey Madness I",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          66,
+          150
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "name": "Monkey Madness II",
+      "requirements": {
+        "skills": {
+          "SLAYER": 69,
+          "CRAFTING": 70,
+          "HUNTER": 60,
+          "AGILITY": 55,
+          "THIEVING": 55,
+          "FIREMAKING": 60
+        },
+        "quests": [
+          42,
+          45,
+          2315,
+          153,
+          157
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "name": "Monk's Friend",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 98,
+      "name": "Mountain Daughter",
+      "requirements": {
+        "skills": {
+          "AGILITY": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 99,
+      "name": "Mourning's End Part I",
+      "requirements": {
+        "skills": {
+          "RANGED": 60,
+          "THIEVING": 50
+        },
+        "quests": [
+          122,
+          8,
+          130
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "name": "Mourning's End Part II",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          99
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "name": "Murder Mystery",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 102,
+      "name": "My Arm's Big Adventure",
+      "requirements": {
+        "skills": {
+          "FARMING": 29,
+          "WOODCUTTING": 10
+        },
+        "quests": [
+          36,
+          50,
+          80
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "name": "Nature Spirit",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          111,
+          120
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "name": "A Night at the Theatre",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          144
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "name": "Observatory Quest",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 106,
+      "name": "Olaf's Quest",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 40,
+          "WOODCUTTING": 50
+        },
+        "quests": [
+          57
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "name": "One Small Favour",
+      "requirements": {
+        "skills": {
+          "AGILITY": 36,
+          "CRAFTING": 25,
+          "HERBLORE": 18,
+          "SMITHING": 30
+        },
+        "quests": [
+          125,
+          133
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "name": "Pirate's Treasure",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 109,
+      "name": "Plague City",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 110,
+      "name": "A Porcine of Interest",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 111,
+      "name": "Priest in Peril",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 112,
+      "name": "Prince Ali Rescue",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 113,
+      "name": "The Queen of Thieves",
+      "requirements": {
+        "skills": {
+          "THIEVING": 20
+        },
+        "quests": [
+          13
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "name": "Rag and Bone Man I",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 115,
+      "name": "Rag and Bone Man II",
+      "requirements": {
+        "skills": {
+          "SLAYER": 40,
+          "DEFENCE": 20
+        },
+        "quests": [
+          114,
+          135,
+          74,
+          57,
+          19,
+          158
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "name": "Ratcatchers",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          75
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "name": "Recipe for Disaster",
+      "requirements": {
+        "skills": {
+          "COOKING": 70,
+          "AGILITY": 48,
+          "MINING": 50,
+          "FISHING": 53,
+          "THIEVING": 53,
+          "HERBLORE": 25,
+          "MAGIC": 59,
+          "SMITHING": 40,
+          "FIREMAKING": 50,
+          "RANGED": 40,
+          "CRAFTING": 40,
+          "FLETCHING": 10,
+          "WOODCUTTING": 36
+        },
+        "quests": [
+          52,
+          64,
+          8,
+          101,
+          103,
+          160,
+          60,
+          129,
+          85,
+          95,
+          27,
+          74
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "name": "Recruitment Drive",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          10,
+          34
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "name": "Regicide",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 10,
+          "AGILITY": 56
+        },
+        "quests": [
+          154
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "name": "The Restless Ghost",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 121,
+      "name": "Romeo & Juliet",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 122,
+      "name": "Roving Elves",
+      "requirements": {
+        "skills": {
+          "AGILITY": 56
+        },
+        "quests": [
+          119,
+          158
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "name": "Royal Trouble",
+      "requirements": {
+        "skills": {
+          "AGILITY": 40,
+          "SLAYER": 40
+        },
+        "quests": [
+          147
+        ]
+      }
+    },
+    {
+      "id": 124,
+      "name": "Rum Deal",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 42,
+          "FARMING": 40,
+          "PRAYER": 47,
+          "SLAYER": 42,
+          "FISHING": 50
+        },
+        "quests": [
+          163,
+          111
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "name": "Rune Mysteries",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 126,
+      "name": "Scorpion Catcher",
+      "requirements": {
+        "skills": {
+          "PRAYER": 31
+        },
+        "quests": [
+          4
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "name": "Sea Slug",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 30
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 128,
+      "name": "Shades of Mort'ton",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 20,
+          "HERBLORE": 15,
+          "FIREMAKING": 5
+        },
+        "quests": [
+          111
+        ]
+      }
+    },
+    {
+      "id": 129,
+      "name": "Shadow of the Storm",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 30
+        },
+        "quests": [
+          65,
+          25
+        ]
+      }
+    },
+    {
+      "id": 130,
+      "name": "Sheep Herder",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 131,
+      "name": "Sheep Shearer",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 132,
+      "name": "Shield of Arrav",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 133,
+      "name": "Shilo Village",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 20,
+          "AGILITY": 32
+        },
+        "quests": [
+          80
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "name": "Sins of the Father",
+      "requirements": {
+        "skills": {
+          "WOODCUTTING": 62,
+          "FLETCHING": 60,
+          "CRAFTING": 56,
+          "AGILITY": 52,
+          "ATTACK": 50,
+          "SLAYER": 50,
+          "MAGIC": 49
+        },
+        "quests": [
+          155,
+          144
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "name": "Skippy and the Mogres",
+      "requirements": {
+        "skills": {
+          "COOKING": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 136,
+      "name": "The Slug Menace",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 30,
+          "RUNECRAFT": 30,
+          "SLAYER": 30,
+          "THIEVING": 30
+        },
+        "quests": [
+          156,
+          127
+        ]
+      }
+    },
+    {
+      "id": 137,
+      "name": "Song of the Elves",
+      "requirements": {
+        "skills": {
+          "AGILITY": 70,
+          "CONSTRUCTION": 70,
+          "FARMING": 70,
+          "HERBLORE": 70,
+          "HUNTER": 70,
+          "MINING": 70,
+          "SMITHING": 70,
+          "WOODCUTTING": 70
+        },
+        "quests": [
+          100,
+          92,
+          34
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "name": "A Soul's Bane",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 139,
+      "name": "Spirits of the Elid",
+      "requirements": {
+        "skills": {
+          "MAGIC": 33,
+          "RANGED": 37,
+          "MINING": 37,
+          "THIEVING": 37
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 140,
+      "name": "Swan Song",
+      "requirements": {
+        "skills": {
+          "MAGIC": 66,
+          "COOKING": 62,
+          "FISHING": 62,
+          "SMITHING": 45,
+          "FIREMAKING": 42,
+          "CRAFTING": 40
+        },
+        "quests": [
+          107,
+          58
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "name": "Tai Bwo Wannai Trio",
+      "requirements": {
+        "skills": {
+          "AGILITY": 15,
+          "COOKING": 30,
+          "FISHING": 5
+        },
+        "quests": [
+          80
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "name": "A Tail of Two Cats",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          75
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "name": "Tale of the Righteous",
+      "requirements": {
+        "skills": {
+          "STRENGTH": 16,
+          "MINING": 10
+        },
+        "quests": [
+          13
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "name": "A Taste of Hope",
+      "requirements": {
+        "skills": {
+          "CRAFTING": 48,
+          "AGILITY": 45,
+          "ATTACK": 40,
+          "HERBLORE": 40,
+          "SLAYER": 38
+        },
+        "quests": [
+          22
+        ]
+      }
+    },
+    {
+      "id": 145,
+      "name": "Tears of Guthix",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 49,
+          "CRAFTING": 20,
+          "MINING": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 146,
+      "name": "Temple of Ikov",
+      "requirements": {
+        "skills": {
+          "THIEVING": 42,
+          "RANGED": 40
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 147,
+      "name": "Throne of Miscellania",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          72,
+          57
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "name": "The Tourist Trap",
+      "requirements": {
+        "skills": {
+          "FLETCHING": 10,
+          "SMITHING": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 149,
+      "name": "Tower of Life",
+      "requirements": {
+        "skills": {
+          "CONSTRUCTION": 10
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 150,
+      "name": "Tree Gnome Village",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 151,
+      "name": "Tribal Totem",
+      "requirements": {
+        "skills": {
+          "THIEVING": 21
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 152,
+      "name": "Troll Romance",
+      "requirements": {
+        "skills": {
+          "AGILITY": 28
+        },
+        "quests": [
+          153
+        ]
+      }
+    },
+    {
+      "id": 153,
+      "name": "Troll Stronghold",
+      "requirements": {
+        "skills": {
+          "AGILITY": 15
+        },
+        "quests": [
+          23
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "name": "Underground Pass",
+      "requirements": {
+        "skills": {
+          "RANGED": 25
+        },
+        "quests": [
+          9
+        ]
+      }
+    },
+    {
+      "id": 155,
+      "name": "Vampyre Slayer",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 156,
+      "name": "Wanted!",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          118,
+          87,
+          111,
+          43
+        ]
+      }
+    },
+    {
+      "id": 157,
+      "name": "Watchtower",
+      "requirements": {
+        "skills": {
+          "MAGIC": 14,
+          "THIEVING": 15,
+          "AGILITY": 25,
+          "HERBLORE": 14,
+          "MINING": 40
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 158,
+      "name": "Waterfall Quest",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 159,
+      "name": "What Lies Below",
+      "requirements": {
+        "skills": {
+          "RUNECRAFT": 35
+        },
+        "quests": [
+          125
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "name": "Witch's House",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 161,
+      "name": "Witch's Potion",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 162,
+      "name": "X Marks the Spot",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 163,
+      "name": "Zogre Flesh Eaters",
+      "requirements": {
+        "skills": {
+          "SMITHING": 4,
+          "HERBLORE": 8,
+          "RANGED": 30
+        },
+        "quests": [
+          8,
+          80
+        ]
+      }
+    },
+    {
+      "id": 164,
+      "name": "The Frozen Door",
+      "requirements": {
+        "skills": {
+          "AGILITY": 70,
+          "HITPOINTS": 70,
+          "RANGED": 70,
+          "STRENGTH": 70
+        },
+        "quests": [
+          27
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "name": "Land of the Goblins",
+      "requirements": {
+        "skills": {
+          "AGILITY": 38,
+          "FISHING": 40,
+          "THIEVING": 45,
+          "HERBLORE": 48
+        },
+        "quests": [
+          1,
+          52
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "name": "Hopespear's Will",
+      "requirements": {
+        "skills": {
+          "PRAYER": 50
+        },
+        "quests": [
+          120,
+          27,
+          47,
+          165
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "name": "Temple of the Eye",
+      "requirements": {
+        "skills": {
+          "RUNECRAFT": 10
+        },
+        "quests": [
+          43
+        ]
+      }
+    },
+    {
+      "id": 168,
+      "name": "Beneath Cursed Sands",
+      "requirements": {
+        "skills": {
+          "AGILITY": 62,
+          "CRAFTING": 55,
+          "FIREMAKING": 55
+        },
+        "quests": [
+          16
+        ]
+      }
+    },
+    {
+      "id": 169,
+      "name": "Sleeping Giants",
+      "requirements": {
+        "skills": {
+          "SMITHING": 15
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 180,
+      "name": "The Garden of Death",
+      "requirements": {
+        "skills": {
+          "FARMING": 20
+        },
+        "quests": []
+      }
+    },
+    {
+      "id": 2306,
+      "name": "Into the Tombs",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          168
+        ]
+      }
+    },
+    {
+      "id": 2307,
+      "name": "Recipe for Disaster/Another Cook's Quest",
+      "requirements": {
+        "skills": {
+          "COOKING": 10
+        },
+        "quests": [
+          17
+        ]
+      }
+    },
+    {
+      "id": 2308,
+      "name": "Recipe for Disaster/Freeing the Mountain Dwarf",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          52
+        ]
+      }
+    },
+    {
+      "id": 2309,
+      "name": "Recipe for Disaster/Freeing the Goblin generals",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          2307,
+          64
+        ]
+      }
+    },
+    {
+      "id": 2310,
+      "name": "Recipe for Disaster/Freeing Pirate Pete",
+      "requirements": {
+        "skills": {
+          "COOKING": 31
+        },
+        "quests": [
+          2307
+        ]
+      }
+    },
+    {
+      "id": 2311,
+      "name": "Recipe for Disaster/Freeing the Lumbridge Guide",
+      "requirements": {
+        "skills": {
+          "COOKING": 40
+        },
+        "quests": [
+          8,
+          9,
+          25,
+          101,
+          103,
+          2307,
+          160
+        ]
+      }
+    },
+    {
+      "id": 2312,
+      "name": "Recipe for Disaster/Freeing Evil Dave",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          60,
+          2307,
+          129
+        ]
+      }
+    },
+    {
+      "id": 2313,
+      "name": "Recipe for Disaster/Freeing Skrach Uglogwee",
+      "requirements": {
+        "skills": {
+          "COOKING": 41,
+          "FIREMAKING": 20
+        },
+        "quests": [
+          8,
+          2307
+        ]
+      }
+    },
+    {
+      "id": 2314,
+      "name": "Recipe for Disaster/Freeing Sir Amik Varze",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          48,
+          72,
+          2307,
+          133,
+          154,
+          158
+        ]
+      }
+    },
+    {
+      "id": 2315,
+      "name": "Recipe for Disaster/Freeing King Awowogei",
+      "requirements": {
+        "skills": {
+          "COOKING": 70,
+          "AGILITY": 48
+        },
+        "quests": [
+          95,
+          2307
+        ]
+      }
+    },
+    {
+      "id": 2316,
+      "name": "Recipe for Disaster/Defeating the Culinaromancer",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          27,
+          74,
+          2312,
+          2309,
+          2311,
+          2308,
+          2310,
+          2314,
+          2313,
+          2315
+        ]
+      }
+    },
+    {
+      "id": 2338,
+      "name": "Secrets of the North",
+      "requirements": {
+        "skills": {
+          "AGILITY": 69,
+          "THIEVING": 64,
+          "HUNTER": 56
+        },
+        "quests": [
+          91,
+          59,
+          28,
+          71
+        ]
+      }
+    },
+    {
+      "id": 2343,
+      "name": "Desert Treasure II - The Fallen Empire",
+      "requirements": {
+        "skills": {
+          "FIREMAKING": 75,
+          "MAGIC": 75,
+          "THIEVING": 70,
+          "HERBLORE": 62,
+          "RUNECRAFT": 60,
+          "CONSTRUCTION": 60
+        },
+        "quests": [
+          27,
+          2338,
+          40,
+          167,
+          180,
+          6,
+          3250
+        ]
+      }
+    },
+    {
+      "id": 3250,
+      "name": "His Faithful Servants",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          111
+        ]
+      }
+    },
+    {
+      "id": 3425,
+      "name": "The Path of Glouphrie",
+      "requirements": {
+        "skills": {
+          "STRENGTH": 60,
+          "SLAYER": 56,
+          "THIEVING": 56,
+          "RANGED": 47,
+          "AGILITY": 45
+        },
+        "quests": [
+          45,
+          158,
+          150
+        ]
+      }
+    },
+    {
+      "id": 3450,
+      "name": "Children of the Sun",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 3451,
+      "name": "Barbarian Training",
+      "requirements": {
+        "skills": {
+          "FISHING": 55,
+          "FIREMAKING": 35,
+          "STRENGTH": 35,
+          "AGILITY": 15,
+          "FARMING": 15,
+          "CRAFTING": 11,
+          "SMITHING": 5,
+          "HERBLORE": 4
+        },
+        "quests": [
+          141
+        ]
+      }
+    },
+    {
+      "id": 3466,
+      "name": "Defender of Varrock",
+      "requirements": {
+        "skills": {
+          "SMITHING": 55,
+          "HUNTER": 52
+        },
+        "quests": [
+          132,
+          146,
+          6,
+          48,
+          58,
+          159,
+          121,
+          25
+        ]
+      }
+    },
+    {
+      "id": 3467,
+      "name": "While Guthix Sleeps",
+      "requirements": {
+        "skills": {
+          "THIEVING": 72,
+          "MAGIC": 67,
+          "AGILITY": 66,
+          "FARMING": 65,
+          "HERBLORE": 65,
+          "HUNTER": 62,
+          "ATTACK": 99,
+          "STRENGTH": 99
+        },
+        "quests": [
+          3466,
+          3425,
+          51,
+          33,
+          69,
+          156,
+          167,
+          145,
+          103,
+          142
+        ]
+      }
+    },
+    {
+      "id": 3512,
+      "name": "Twilight's Promise",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 3513,
+      "name": "At First Light",
+      "requirements": {
+        "skills": {
+          "HUNTER": 46,
+          "HERBLORE": 30,
+          "CONSTRUCTION": 27
+        },
+        "quests": [
+          3450,
+          37
+        ]
+      }
+    },
+    {
+      "id": 3514,
+      "name": "Perilous Moons",
+      "requirements": {
+        "skills": {
+          "SLAYER": 48,
+          "HUNTER": 20,
+          "FISHING": 20,
+          "RUNECRAFT": 20,
+          "CONSTRUCTION": 10
+        },
+        "quests": [
+          3512
+        ]
+      }
+    },
+    {
+      "id": 3515,
+      "name": "The Ribbiting Tale of a Lily Pad Labour Dispute",
+      "requirements": {
+        "skills": {
+          "WOODCUTTING": 15
+        },
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 3710,
+      "name": "The Heart of Darkness",
+      "requirements": {
+        "skills": {
+          "MINING": 55,
+          "THIEVING": 48,
+          "SLAYER": 48,
+          "AGILITY": 46
+        },
+        "quests": [
+          3512
+        ]
+      }
+    },
+    {
+      "id": 3711,
+      "name": "Death on the Isle",
+      "requirements": {
+        "skills": {
+          "THIEVING": 34,
+          "AGILITY": 32
+        },
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 3712,
+      "name": "Meat and Greet",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 3713,
+      "name": "Ethically Acquired Antiquities",
+      "requirements": {
+        "skills": {
+          "THIEVING": 25
+        },
+        "quests": [
+          3450,
+          132
+        ]
+      }
+    },
+    {
+      "id": 3937,
+      "name": "The Curse of Arrav",
+      "requirements": {
+        "skills": {
+          "MINING": 64,
+          "RANGED": 62,
+          "THIEVING": 62,
+          "AGILITY": 61,
+          "STRENGTH": 58,
+          "SLAYER": 37
+        },
+        "quests": [
+          3466,
+          152
+        ]
+      }
+    },
+    {
+      "id": 5189,
+      "name": "The Final Dawn",
+      "requirements": {
+        "skills": {
+          "THIEVING": 66,
+          "RUNECRAFT": 52,
+          "FLETCHING": 52
+        },
+        "quests": [
+          3710,
+          3514
+        ]
+      }
+    },
+    {
+      "id": 5190,
+      "name": "Shadows of Custodia",
+      "requirements": {
+        "skills": {
+          "SLAYER": 54,
+          "FISHING": 45,
+          "CONSTRUCTION": 41,
+          "HUNTER": 36
+        },
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 5191,
+      "name": "Scrambled!",
+      "requirements": {
+        "skills": {
+          "CONSTRUCTION": 38,
+          "COOKING": 36,
+          "SMITHING": 35
+        },
+        "quests": [
+          3450
+        ]
+      }
+    },
+    {
+      "id": 5194,
+      "name": "Vale Totems",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 7033,
+      "name": "Tutorial Island",
+      "requirements": {
+        "skills": {},
+        "quests": []
+      }
+    },
+    {
+      "id": 7103,
+      "name": "Pandemonium",
+      "requirements": {
+        "skills": {},
+        "quests": [
+          7103,
+          7104,
+          7105,
+          7106,
+          7107
+        ]
+      }
+    },
+    {
+      "id": 7104,
+      "name": "Prying Times",
+      "requirements": {
+        "skills": {
+          "SMITHING": 30
+        },
+        "quests": [
+          7103,
+          7104,
+          7105,
+          7106,
+          7107
+        ]
+      }
+    },
+    {
+      "id": 7105,
+      "name": "Current Affairs",
+      "requirements": {
+        "skills": {
+          "FISHING": 10
+        },
+        "quests": [
+          7103,
+          7104,
+          7105,
+          7106,
+          7107
+        ]
+      }
+    },
+    {
+      "id": 7106,
+      "name": "Troubled Tortugans",
+      "requirements": {
+        "skills": {
+          "SLAYER": 51,
+          "CONSTRUCTION": 48,
+          "HUNTER": 45,
+          "WOODCUTTING": 40,
+          "CRAFTING": 34
+        },
+        "quests": [
+          7103,
+          7104,
+          7105,
+          7106,
+          7107
+        ]
+      }
+    },
+    {
+      "id": 7107,
+      "name": "The Red Reef",
+      "requirements": {
+        "skills": {
+          "SMITHING": 48
+        },
+        "quests": [
+          7103,
+          7104,
+          7105,
+          7106,
+          7107
+        ]
+      }
+    }
+  ]
+}
