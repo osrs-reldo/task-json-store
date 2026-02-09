@@ -1,0 +1,883 @@
+{
+  "key": "skills",
+  "label": "skills",
+  "valueType": "skills",
+  "values": {
+    "327": [
+      {
+        "skill": "SLAYER",
+        "level": 60
+      }
+    ],
+    "328": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "366": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "380": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "388": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "399": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "400": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "404": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "405": [
+      {
+        "skill": "SLAYER",
+        "level": 85
+      }
+    ],
+    "410": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "443": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "446": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "550": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "602": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "718": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "1690": [
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "3156": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3157": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3158": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3159": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3160": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3161": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3162": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3163": [
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "3171": [
+      {
+        "skill": "SLAYER",
+        "level": 60
+      }
+    ],
+    "3173": [
+      {
+        "skill": "SLAYER",
+        "level": 50
+      }
+    ],
+    "3174": [
+      {
+        "skill": "SLAYER",
+        "level": 77
+      }
+    ],
+    "3191": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3192": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3193": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3194": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3195": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3196": [
+      {
+        "skill": "SLAYER",
+        "level": 91
+      }
+    ],
+    "3222": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3223": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3224": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3225": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3226": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3227": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3228": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3229": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3230": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3231": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3232": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3233": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3234": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3235": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3236": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3237": [
+      {
+        "skill": "SLAYER",
+        "level": 75
+      }
+    ],
+    "3263": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3264": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3265": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3266": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3267": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3268": [
+      {
+        "skill": "FARMING",
+        "level": 65
+      }
+    ],
+    "3275": [
+      {
+        "skill": "SLAYER",
+        "level": 95
+      }
+    ],
+    "3276": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3277": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3278": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3279": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3280": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3281": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3282": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3283": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3284": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3285": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3286": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3304": [
+      {
+        "skill": "PRAYER",
+        "level": 43
+      }
+    ],
+    "3308": [
+      {
+        "skill": "SLAYER",
+        "level": 87
+      }
+    ],
+    "3309": [
+      {
+        "skill": "SLAYER",
+        "level": 87
+      }
+    ],
+    "3310": [
+      {
+        "skill": "SLAYER",
+        "level": 87
+      }
+    ],
+    "3311": [
+      {
+        "skill": "SLAYER",
+        "level": 87
+      }
+    ],
+    "3312": [
+      {
+        "skill": "SLAYER",
+        "level": 87
+      }
+    ],
+    "3313": [
+      {
+        "skill": "SLAYER",
+        "level": 70
+      }
+    ],
+    "3351": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3352": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3353": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3354": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3355": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3356": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3357": [
+      {
+        "skill": "AGILITY",
+        "level": 70
+      }
+    ],
+    "3363": [
+      {
+        "skill": "SLAYER",
+        "level": 72
+      }
+    ],
+    "3401": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3402": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3403": [
+      {
+        "skill": "SLAYER",
+        "level": 93
+      }
+    ],
+    "3419": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3420": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3421": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3422": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3423": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3424": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3425": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3426": [
+      {
+        "skill": "FIREMAKING",
+        "level": 50
+      }
+    ],
+    "3427": [
+      {
+        "skill": "SLAYER",
+        "level": 62
+      }
+    ],
+    "3461": [
+      {
+        "skill": "MAGIC",
+        "level": 13
+      }
+    ],
+    "3472": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3473": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3474": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3475": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3476": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3477": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3478": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3479": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3480": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      }
+    ],
+    "3493": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3494": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3495": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3496": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3497": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3498": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3499": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3500": [
+      {
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "3539": [
+      {
+        "skill": "MAGIC",
+        "level": 38
+      }
+    ],
+    "4137": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "4138": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4139": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      }
+    ],
+    "4140": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4141": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4142": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4143": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4144": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4145": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4146": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ],
+    "4147": [
+      {
+        "skill": "HITPOINTS",
+        "level": 70
+      },
+      {
+        "skill": "STRENGTH",
+        "level": 70
+      },
+      {
+        "skill": "AGILITY",
+        "level": 70
+      },
+      {
+        "skill": "RANGED",
+        "level": 70
+      }
+    ]
+  }
+}
