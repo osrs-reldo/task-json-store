@@ -12,12 +12,36 @@
         "valueType": "PARAM_INTEGER",
         "valueName": "tier",
         "customItems": [
-          { "value": 1, "spriteId": 3399, "tooltip": "Easy" },
-          { "value": 2, "spriteId": 3400, "tooltip": "Medium" },
-          { "value": 3, "spriteId": 3401, "tooltip": "Hard" },
-          { "value": 4, "spriteId": 3402, "tooltip": "Elite" },
-          { "value": 5, "spriteId": 3403, "tooltip": "Master" },
-          { "value": 6, "spriteId": 3404, "tooltip": "Grandmaster" }
+          {
+            "value": 1,
+            "spriteId": 3399,
+            "tooltip": "Easy"
+          },
+          {
+            "value": 2,
+            "spriteId": 3400,
+            "tooltip": "Medium"
+          },
+          {
+            "value": 3,
+            "spriteId": 3401,
+            "tooltip": "Hard"
+          },
+          {
+            "value": 4,
+            "spriteId": 3402,
+            "tooltip": "Elite"
+          },
+          {
+            "value": 5,
+            "spriteId": 3403,
+            "tooltip": "Master"
+          },
+          {
+            "value": 6,
+            "spriteId": 3404,
+            "tooltip": "Grandmaster"
+          }
         ]
       },
       {
@@ -53,8 +77,26 @@
       "tier": 3967
     },
     "taskVarps": [
-      3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127,
-      3128, 3387, 3718, 3773, 3774, 4204, 4496, 4721
+      3116,
+      3117,
+      3118,
+      3119,
+      3120,
+      3121,
+      3122,
+      3123,
+      3124,
+      3125,
+      3126,
+      3127,
+      3128,
+      3387,
+      3718,
+      3773,
+      3774,
+      4204,
+      4496,
+      4721
     ],
     "tierSpriteIdMap": {
       "1": 3399,
@@ -68,12 +110,36 @@
     "varbits": [],
     "taskCompletedScriptId": 4834,
     "taskPointTiers": [
-      { "varbitId": 4132, "label": "Easy", "points": 38 },
-      { "varbitId": 10660, "label": "Medium", "points": 148 },
-      { "varbitId": 10661, "label": "Hard", "points": 394 },
-      { "varbitId": 14812, "label": "Elite", "points": 1038 },
-      { "varbitId": 14813, "label": "Master", "points": 1878 },
-      { "varbitId": 14814, "label": "Grandmaster", "points": 2604 }
+      {
+        "varbitId": 4132,
+        "label": "Easy",
+        "points": 38
+      },
+      {
+        "varbitId": 10660,
+        "label": "Medium",
+        "points": 148
+      },
+      {
+        "varbitId": 10661,
+        "label": "Hard",
+        "points": 394
+      },
+      {
+        "varbitId": 14812,
+        "label": "Elite",
+        "points": 1038
+      },
+      {
+        "varbitId": 14813,
+        "label": "Master",
+        "points": 1878
+      },
+      {
+        "varbitId": 14814,
+        "label": "Grandmaster",
+        "points": 2604
+      }
     ],
     "taskCompletionCountTiers": null
   },
@@ -89,11 +155,31 @@
         "configKey": "leagueTier",
         "valueType": "GLOBAL",
         "customItems": [
-          { "value": 1, "spriteId": 2316, "tooltip": "Easy" },
-          { "value": 2, "spriteId": 2318, "tooltip": "Medium" },
-          { "value": 3, "spriteId": 2319, "tooltip": "Hard" },
-          { "value": 4, "spriteId": 2320, "tooltip": "Elite" },
-          { "value": 5, "spriteId": 3739, "tooltip": "Master" }
+          {
+            "value": 1,
+            "spriteId": 2316,
+            "tooltip": "Easy"
+          },
+          {
+            "value": 2,
+            "spriteId": 2318,
+            "tooltip": "Medium"
+          },
+          {
+            "value": 3,
+            "spriteId": 2319,
+            "tooltip": "Hard"
+          },
+          {
+            "value": 4,
+            "spriteId": 2320,
+            "tooltip": "Elite"
+          },
+          {
+            "value": 5,
+            "spriteId": 3739,
+            "tooltip": "Master"
+          }
         ]
       },
       {
@@ -124,12 +210,68 @@
     },
     "paramMap": {},
     "taskVarps": [
-      2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627,
-      2628, 2629, 2630, 2631, 2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815,
-      2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823, 2824, 2825, 2826, 2827,
-      2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835, 3339, 3340, 3341, 3342,
-      4036, 4037, 4038, 4039, 4040, 4041, 4042, 4043, 4044, 4045, 4046, 4047,
-      4048, 4049
+      2616,
+      2617,
+      2618,
+      2619,
+      2620,
+      2621,
+      2622,
+      2623,
+      2624,
+      2625,
+      2626,
+      2627,
+      2628,
+      2629,
+      2630,
+      2631,
+      2808,
+      2809,
+      2810,
+      2811,
+      2812,
+      2813,
+      2814,
+      2815,
+      2816,
+      2817,
+      2818,
+      2819,
+      2820,
+      2821,
+      2822,
+      2823,
+      2824,
+      2825,
+      2826,
+      2827,
+      2828,
+      2829,
+      2830,
+      2831,
+      2832,
+      2833,
+      2834,
+      2835,
+      3339,
+      3340,
+      3341,
+      3342,
+      4036,
+      4037,
+      4038,
+      4039,
+      4040,
+      4041,
+      4042,
+      4043,
+      4044,
+      4045,
+      4046,
+      4047,
+      4048,
+      4049
     ],
     "tierSpriteIdMap": {
       "1": 2316,
@@ -139,23 +281,80 @@
       "5": 3739
     },
     "otherVarps": [],
-    "varbits": [10049, 10050, 10051, 10052, 10053, 11696, 17301, 17302],
+    "varbits": [
+      10049,
+      10050,
+      10051,
+      10052,
+      10053,
+      11696,
+      17301,
+      17302
+    ],
     "taskCompletedScriptId": 3216,
     "taskPointTiers": [
-      { "varbitId": -1, "label": "Tier 1", "points": 0 },
-      { "varbitId": -1, "label": "Tier 2", "points": 750 },
-      { "varbitId": -1, "label": "Tier 3", "points": 1500 },
-      { "varbitId": -1, "label": "Tier 4", "points": 2500 },
-      { "varbitId": -1, "label": "Tier 5", "points": 5000 },
-      { "varbitId": -1, "label": "Tier 6", "points": 8000 },
-      { "varbitId": -1, "label": "Tier 7", "points": 16000 },
-      { "varbitId": -1, "label": "Tier 8", "points": 25000 }
+      {
+        "varbitId": -1,
+        "label": "Tier 1",
+        "points": 0
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 2",
+        "points": 750
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 3",
+        "points": 1500
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 4",
+        "points": 2500
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 5",
+        "points": 5000
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 6",
+        "points": 8000
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 7",
+        "points": 16000
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 8",
+        "points": 25000
+      }
     ],
     "taskCompletionCountTiers": [
-      { "varbitId": -1, "label": "Starter", "tasks": 0 },
-      { "varbitId": -1, "label": "1st Unlock", "tasks": 50 },
-      { "varbitId": -1, "label": "2nd Unlock", "tasks": 100 },
-      { "varbitId": -1, "label": "3rd Unlock", "tasks": 200 }
+      {
+        "varbitId": -1,
+        "label": "Starter",
+        "tasks": 0
+      },
+      {
+        "varbitId": -1,
+        "label": "1st Unlock",
+        "tasks": 50
+      },
+      {
+        "varbitId": -1,
+        "label": "2nd Unlock",
+        "tasks": 100
+      },
+      {
+        "varbitId": -1,
+        "label": "3rd Unlock",
+        "tasks": 200
+      }
     ]
   }
 ]
