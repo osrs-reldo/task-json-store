@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "faux-starting-route",
+    "name": "Faux's Starting Route",
+    "author": "Faux",
+    "description": "~2,500+ points routed. Relics: Animal wrangler (pooner), Dodgy deals.",
+    "taskType": "LEAGUE_5"
+  },
+  {
+    "filename": "laef-starting-guide",
+    "name": "Starting Guide",
+    "author": "LAEF",
+    "description": "LAEF's starting guide for League 5",
+    "taskType": "LEAGUE_5"
+  },
+  {
+    "filename": "dnd-test-route",
+    "name": "DnD Test Route",
+    "author": "Syrif",
+    "description": "Small test route with custom items (bank stops, teleports)",
+    "taskType": "LEAGUE_5"
+  }
+]

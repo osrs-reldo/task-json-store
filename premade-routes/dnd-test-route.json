@@ -1,0 +1,44 @@
+{
+  "name": "DnD Test Route",
+  "taskType": "LEAGUE_5",
+  "sections": [
+    {
+      "name": "Lumbridge Start",
+      "description": "Grab easy tasks off spawn",
+      "items": [
+        {"taskId": 2645},
+        {"taskId": 2646},
+        {"taskId": 1211},
+        {"customItem": {"id": "bank0001", "label": "Bank", "icon": 1453, "description": "Deposit starter items"}},
+        {"taskId": 2192},
+        {"taskId": 2177},
+        {"taskId": 2647}
+      ]
+    },
+    {
+      "name": "Varrock Run",
+      "description": "Teleport up and sweep",
+      "items": [
+        {"customItem": {"id": "tele0001", "label": "Teleport", "icon": 1504, "description": "Varrock teleport"}},
+        {"taskId": 4825},
+        {"taskId": 4826},
+        {"taskId": 1801},
+        {"customItem": {"id": "bank0002", "label": "Bank", "icon": 1453, "description": "Varrock west bank"}},
+        {"taskId": 1864},
+        {"taskId": 1865}
+      ]
+    },
+    {
+      "name": "Falador Wrap-up",
+      "description": "",
+      "items": [
+        {"customItem": {"id": "tele0002", "label": "Teleport", "icon": 1504, "description": "Falador teleport"}},
+        {"taskId": 5104},
+        {"taskId": 1951},
+        {"customItem": {"id": "note0001", "label": "Reminder", "description": "Check if mining level is high enough"}},
+        {"taskId": 5067},
+        {"taskId": 1771}
+      ]
+    }
+  ]
+}
