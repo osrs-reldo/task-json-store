@@ -1260,14 +1260,6 @@
           }
         },
         {
-          "taskId": 14618,
-          "location": {
-            "x": 1355,
-            "y": 3290,
-            "plane": 0
-          }
-        },
-        {
           "customItem": {
             "id": "8d2b49b8-c069-4ef6-b74a-a9501b290704",
             "label": "Get a forestry kit",
