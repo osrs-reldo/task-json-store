@@ -356,5 +356,27 @@
         "tasks": 200
       }
     ]
+  },
+  {
+    "name": "Gridmaster",
+    "description": "Gridmaster tasks from cache DB table 118. Test harness for the new DB-row plugin architecture - real live data that uses the same table+column model Jagex is moving L6 onto.",
+    "taskJsonName": "GRID_MASTER",
+    "isEnabled": false,
+    "_testingNotes": "Tasks in GRID_MASTER.min.json carry dbRowId (not structId) - that's the signal for the plugin to read via client.getDBTableField(dbRowId, colIdx, 0) instead of client.getStructComposition(structId).getParam(paramId). intParamMap/stringParamMap values are reinterpreted as column indices. taskVarps and taskCompletedScriptId are placeholders - cache2 can't decode RuneScripts, and RuneLite source doesn't expose Gridmaster completion tracking, so fill these in at runtime by watching varp flips on a task completion. Per perterter, completion bit is still varp[ordinal/32] bit (ordinal%32), where ordinal = sortId.",
+    "filters": [],
+    "intParamMap": {
+      "pointsValue": 15
+    },
+    "stringParamMap": {
+      "name": 0
+    },
+    "intEnumMap": {},
+    "stringEnumMap": {},
+    "taskVarps": [],
+    "otherVarps": [],
+    "varbits": [],
+    "taskCompletedScriptId": -1,
+    "taskPointTiers": null,
+    "taskCompletionCountTiers": null
   }
 ]
