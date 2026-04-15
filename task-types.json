@@ -3,6 +3,7 @@
     "name": "Combat Achievements",
     "description": "A set of combat-based tasks and challenges intended to test the player's prowess in combat related content.",
     "taskJsonName": "COMBAT",
+    "taskSourceType": "STRUCT",
     "isEnabled": true,
     "filters": [
       {
@@ -146,6 +147,7 @@
   {
     "name": "League V: Raging Echoes",
     "taskJsonName": "LEAGUE_5",
+    "taskSourceType": "STRUCT",
     "filters": [
       {
         "configKey": "skill",
@@ -361,13 +363,14 @@
     "name": "Gridmaster",
     "description": "Gridmaster tasks from cache DB table 118. Test harness for the new DB-row plugin architecture - real live data that uses the same table+column model Jagex is moving L6 onto.",
     "taskJsonName": "GRID_MASTER",
+    "taskSourceType": "DBROW",
     "isEnabled": false,
     "_testingNotes": "Tasks in GRID_MASTER.min.json carry dbRowId (not structId) - that's the signal for the plugin to read via client.getDBTableField(dbRowId, colIdx, 0) instead of client.getStructComposition(structId).getParam(paramId). intParamMap/stringParamMap values are reinterpreted as column indices. Per perterter, completion bit is still varp[ordinal/32] bit (ordinal%32), where ordinal = sortId. taskVarps and taskCompletedScriptId are placeholders - cache2 can't decode RuneScripts, RuneLite source doesn't expose Gridmaster completion, fill at runtime by watching varp flips on a task completion.",
     "_columnLayout": "Table 118 has 30 columns. Names below are best-guess from value sampling; underscored col_N names are placeholders where semantics aren't yet known. String-typed columns go in stringParamMap, every other primitive (int/bool/sprite/item/npc/struct/dbrow/stat) is int-shaped and goes in intParamMap. Pair/array columns are represented by their first element on access; perterter can extend the loader for full array reads if needed.",
     "filters": [],
     "stringParamMap": {
       "name": 0,
-      "hintLabel": 3
+      "description": 3
     },
     "intParamMap": {
       "iconSprite": 1,
