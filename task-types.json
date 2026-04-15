@@ -400,7 +400,7 @@
     },
     "intEnumMap": {},
     "stringEnumMap": {},
-    "taskVarps": [],
+    "taskVarps": [10000, 10001, 10002],
     "otherVarps": [],
     "varbits": [],
     "taskCompletedScriptId": -1,
