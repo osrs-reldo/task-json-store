@@ -116,7 +116,7 @@
         },
         {
           "taskId": 15355,
-          "note": "<span class=\"scp\" data-skill=\"Thieving\" data-level=\"5\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Thieving\" title=\"Thieving\"><img alt=\"Thieving\" src=\"/images/Thieving_icon.png?973fe\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 5 <a href=\"/w/Thieving\" title=\"Thieving\">Thieving</a></span>\nSteal some bread from a Bakery Stall",
+          "note": "5 Thieving\nSteal some bread from a Bakery Stall",
           "location": {
             "x": 1687,
             "y": 3112,
@@ -177,15 +177,6 @@
             "description": ""
           },
           "note": "Buy a stew\nBuy 9 jugs of wine\nDrink 1 wine",
-          "location": {
-            "x": 1714,
-            "y": 3115,
-            "plane": 0
-          }
-        },
-        {
-          "taskId": 13599,
-          "note": "Eat a piece of food that restores at least 6 hitpoints",
           "location": {
             "x": 1714,
             "y": 3115,
@@ -436,7 +427,7 @@
         },
         {
           "taskId": 14780,
-          "note": "Any <a href=\"/w/Axe\" title=\"Axe\">axe</a>\nChop any kind of logs.",
+          "note": "Any axe\nChop any kind of logs.",
           "location": {
             "x": 1719,
             "y": 3089,
@@ -785,7 +776,7 @@
         },
         {
           "taskId": 14818,
-          "note": "<span class=\"scp\" data-skill=\"Crafting\" data-level=\"34\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Crafting\" title=\"Crafting\"><img alt=\"Crafting\" src=\"/images/Crafting_icon.png?a1f71\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"22\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"22\"></a></span> 34 <a href=\"/w/Crafting\" title=\"Crafting\">Crafting</a></span>\nCut a Ruby",
+          "note": "34 Crafting\nCut a Ruby",
           "location": {
             "x": 1428,
             "y": 2973,
@@ -1252,7 +1243,7 @@
         },
         {
           "taskId": 14769,
-          "note": "<span class=\"scp\" data-skill=\"Hunter\" data-level=\"15\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Hunter\" title=\"Hunter\"><img alt=\"Hunter\" src=\"/images/Hunter_icon.png?8762f\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"23\" class=\"mw-file-element\" data-file-width=\"22\" data-file-height=\"23\"></a></span> 15 <a href=\"/w/Hunter\" title=\"Hunter\">Hunter</a></span>\nCatch any butterfly",
+          "note": "15 Hunter\nCatch any butterfly",
           "location": {
             "x": 1389,
             "y": 3393,
@@ -1434,7 +1425,7 @@
         },
         {
           "taskId": 15254,
-          "note": "<span class=\"scp\" data-skill=\"Hunter\" data-level=\"39\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Hunter\" title=\"Hunter\"><img alt=\"Hunter\" src=\"/images/Hunter_icon.png?8762f\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"23\" class=\"mw-file-element\" data-file-width=\"22\" data-file-height=\"23\"></a></span> 39 <a href=\"/w/Hunter\" title=\"Hunter\">Hunter</a></span><br><a href=\"/w/Box_trap\" title=\"Box trap\">Box trap</a>\nCatch an Embertailed jerboa.",
+          "note": "39 HunterBox trap\nCatch an Embertailed jerboa.",
           "location": {
             "x": 1516,
             "y": 3048,
@@ -1457,7 +1448,7 @@
         },
         {
           "taskId": 14622,
-          "note": "<span class=\"scp\" data-skill=\"Hunter\" data-level=\"46\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Hunter\" title=\"Hunter\"><img alt=\"Hunter\" src=\"/images/Hunter_icon.png?8762f\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"23\" class=\"mw-file-element\" data-file-width=\"22\" data-file-height=\"23\"></a></span> 46 <a href=\"/w/Hunter\" title=\"Hunter\">Hunter</a></span>\nEnter a dark cave in varlamore, near the Hunter Guild.",
+          "note": "46 Hunter\nEnter a dark cave in varlamore, near the Hunter Guild.",
           "location": {
             "x": 1536,
             "y": 3050,
@@ -1500,7 +1491,7 @@
         },
         {
           "taskId": 14617,
-          "note": "<span class=\"scp\" data-skill=\"Agility\" data-level=\"1\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Agility\" title=\"Agility\"><img alt=\"Agility\" src=\"/images/Agility_icon.png?389e0\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 1 <a href=\"/w/Agility\" title=\"Agility\">Agility</a></span>\nJump on Yama's stepping stones in his League domain 666 times.\n333 with Hotfoot",
+          "note": "1 Agility\nJump on Yama's stepping stones in his League domain 666 times.\n333 with Hotfoot",
           "location": {
             "x": 1665,
             "y": 3139,
@@ -1572,7 +1563,7 @@
             "label": "Activate the Statue of Ates",
             "description": "Revisit - task already completed earlier"
           },
-          "note": "<span class=\"scp\" data-skill=\"Quest points\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Quest_points\" title=\"Quest points\"><img alt=\"Quest points\" src=\"/images/Quest_point_icon.png?dc356\" decoding=\"async\" loading=\"lazy\" width=\"21\" height=\"21\" class=\"mw-file-element\" data-file-width=\"21\" data-file-height=\"21\"></a></span> </span> <a href=\"/w/Death_on_the_Isle\" title=\"Death on the Isle\">Death on the Isle</a>\nActivate the Statue of Ates in Aldarin.\nPickpocket Constantinius for the Chest key\nSearch the Fancy chest in the Villa Lucens Wine cellar\nSearch the south-west fountain on the villa grounds\nUse the icon on the statue north of the Aldarin market"
+          "note": "Death on the Isle\nActivate the Statue of Ates in Aldarin.\nPickpocket Constantinius for the Chest key\nSearch the Fancy chest in the Villa Lucens Wine cellar\nSearch the south-west fountain on the villa grounds\nUse the icon on the statue north of the Aldarin market"
         },
         {
           "customItem": {
@@ -1801,7 +1792,7 @@
         },
         {
           "taskId": 15171,
-          "note": "<span class=\"scp\" data-skill=\"Thieving\" data-level=\"55\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Thieving\" title=\"Thieving\"><img alt=\"Thieving\" src=\"/images/Thieving_icon.png?973fe\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 55 <a href=\"/w/Thieving\" title=\"Thieving\">Thieving</a></span>\nPickpocket a Knight of Varlamore 20 times.",
+          "note": "55 Thieving\nPickpocket a Knight of Varlamore 20 times.",
           "location": {
             "x": 1658,
             "y": 3146,
@@ -1861,7 +1852,7 @@
         },
         {
           "taskId": 15276,
-          "note": "<span class=\"scp\" data-skill=\"Hunter\" data-level=\"57\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Hunter\" title=\"Hunter\"><img alt=\"Hunter\" src=\"/images/Hunter_icon.png?8762f\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"23\" class=\"mw-file-element\" data-file-width=\"22\" data-file-height=\"23\"></a></span> 57 <a href=\"/w/Hunter\" title=\"Hunter\">Hunter</a></span><br><a href=\"/w/Knife\" title=\"Knife\">Knife</a> and <a href=\"/w/Logs\" title=\"Logs\">Logs</a>\nCatch a Pyre fox.",
+          "note": "57 HunterKnife and Logs\nCatch a Pyre fox.",
           "location": {
             "x": 1617,
             "y": 2999,
@@ -2388,7 +2379,7 @@
         },
         {
           "taskId": 13909,
-          "note": "<span class=\"scp\" data-skill=\"Magic\" data-level=\"9\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Magic\" title=\"Magic\"><img alt=\"Magic\" src=\"/images/Magic_icon.png?334cf\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"23\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"23\"></a></span> 9 <a href=\"/w/Magic\" title=\"Magic\">Magic</a></span>\nDefeat an Imp with an earth spell.",
+          "note": "9 Magic\nDefeat an Imp with an earth spell.",
           "location": {
             "x": 1379,
             "y": 3054,
@@ -2460,7 +2451,7 @@
         },
         {
           "taskId": 14239,
-          "note": "<span class=\"scp\" data-skill=\"Defence\" data-level=\"5\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Defence\" title=\"Defence\"><img alt=\"Defence\" src=\"/images/Defence_icon.png?ca0cd\" decoding=\"async\" loading=\"lazy\" width=\"17\" height=\"19\" class=\"mw-file-element\" data-file-width=\"17\" data-file-height=\"19\"></a></span> 5 <a href=\"/w/Defence\" title=\"Defence\">Defence</a></span>\nEquip a Tyras helm",
+          "note": "5 Defence\nEquip a Tyras helm",
           "location": {
             "x": 1290,
             "y": 3134,
@@ -2478,7 +2469,7 @@
         },
         {
           "taskId": 14758,
-          "note": "<span class=\"scp\" data-skill=\"Magic\" data-level=\"21\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Magic\" title=\"Magic\"><img alt=\"Magic\" src=\"/images/Magic_icon.png?334cf\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"23\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"23\"></a></span> 21 <a href=\"/w/Magic\" title=\"Magic\">Magic</a></span>\nCast the Low Level Alchemy spell",
+          "note": "21 Magic\nCast the Low Level Alchemy spell",
           "location": {
             "x": 1291,
             "y": 3134,
@@ -2608,7 +2599,7 @@
         },
         {
           "taskId": 14284,
-          "note": "<span class=\"scp\" data-skill=\"Hunter\" data-level=\"17\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Hunter\" title=\"Hunter\"><img alt=\"Hunter\" src=\"/images/Hunter_icon.png?8762f\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"23\" class=\"mw-file-element\" data-file-width=\"22\" data-file-height=\"23\"></a></span> 17 <a href=\"/w/Hunter\" title=\"Hunter\">Hunter</a></span>\nCatch 50 Implings in Puro-Puro.",
+          "note": "17 Hunter\nCatch 50 Implings in Puro-Puro.",
           "location": {
             "x": 1648,
             "y": 3011,
@@ -2668,7 +2659,7 @@
         },
         {
           "taskId": 14806,
-          "note": "<span class=\"scp\" data-skill=\"Crafting\" data-level=\"24\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Crafting\" title=\"Crafting\"><img alt=\"Crafting\" src=\"/images/Crafting_icon.png?a1f71\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"22\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"22\"></a></span> 24 <a href=\"/w/Crafting\" title=\"Crafting\">Crafting</a></span>\nCraft a Sapphire amulet.",
+          "note": "24 Crafting\nCraft a Sapphire amulet.",
           "location": {
             "x": 1648,
             "y": 3011,
@@ -2902,7 +2893,7 @@
         },
         {
           "taskId": 15247,
-          "note": "<span class=\"scp\" data-skill=\"Mining\" data-level=\"41\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 41 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span><br><a href=\"/w/Hammer\" title=\"Hammer\">Hammer</a> and any <a href=\"/w/Pickaxe\" title=\"Pickaxe\">Pickaxe</a>\nBreak down 10 Calcified deposits.",
+          "note": "41 MiningHammer and any Pickaxe\nBreak down 10 Calcified deposits.",
           "location": {
             "x": 1436,
             "y": 3132,
@@ -3110,7 +3101,7 @@
         },
         {
           "taskId": 13585,
-          "note": "<span class=\"scp\" data-skill=\"Magic\" data-level=\"53\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Magic\" title=\"Magic\"><img alt=\"Magic\" src=\"/images/Magic_icon.png?334cf\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"23\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"23\"></a></span> 53 <a href=\"/w/Magic\" title=\"Magic\">Magic</a></span>\nCast an Earth Blast Spell",
+          "note": "53 Magic\nCast an Earth Blast Spell",
           "location": {
             "x": 2856,
             "y": 3169,
@@ -3276,7 +3267,7 @@
         },
         {
           "taskId": 14767,
-          "note": "<span class=\"scp\" data-skill=\"Fishing\" data-level=\"20\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fishing\" title=\"Fishing\"><img alt=\"Fishing\" src=\"/images/Fishing_icon.png?15a98\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"23\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"23\"></a></span> 20 <a href=\"/w/Fishing\" title=\"Fishing\">Fishing</a></span>\nCatch 75 Raw Trout whilst Fishing",
+          "note": "20 Fishing\nCatch 75 Raw Trout whilst Fishing",
           "location": {
             "x": 2858,
             "y": 2972,
@@ -3285,7 +3276,7 @@
         },
         {
           "taskId": 15194,
-          "note": "<span class=\"scp\" data-skill=\"Fishing\" data-level=\"30\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fishing\" title=\"Fishing\"><img alt=\"Fishing\" src=\"/images/Fishing_icon.png?15a98\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"23\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"23\"></a></span> 30 <a href=\"/w/Fishing\" title=\"Fishing\">Fishing</a></span>\nCatch a Salmon on Karamja.",
+          "note": "30 Fishing\nCatch a Salmon on Karamja.",
           "location": {
             "x": 2858,
             "y": 2972,
@@ -3540,7 +3531,7 @@
         },
         {
           "taskId": 14759,
-          "note": "<span class=\"scp\" data-skill=\"Fishing\" data-level=\"23\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fishing\" title=\"Fishing\"><img alt=\"Fishing\" src=\"/images/Fishing_icon.png?15a98\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"23\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"23\"></a></span> 23 <a href=\"/w/Fishing\" title=\"Fishing\">Fishing</a></span>\nCatch 10 Cod",
+          "note": "23 Fishing\nCatch 10 Cod",
           "location": {
             "x": 1770,
             "y": 2968,
@@ -3549,7 +3540,7 @@
         },
         {
           "taskId": 14763,
-          "note": "<span class=\"scp\" data-skill=\"Fishing\" data-level=\"16\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fishing\" title=\"Fishing\"><img alt=\"Fishing\" src=\"/images/Fishing_icon.png?15a98\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"23\" class=\"mw-file-element\" data-file-width=\"24\" data-file-height=\"23\"></a></span> 16 <a href=\"/w/Fishing\" title=\"Fishing\">Fishing</a></span>\nCatch 20 Raw mackerel whilst Fishing",
+          "note": "16 Fishing\nCatch 20 Raw mackerel whilst Fishing",
           "location": {
             "x": 1769,
             "y": 2967,
@@ -3558,7 +3549,7 @@
         },
         {
           "taskId": 14870,
-          "note": "<span class=\"scp\" data-skill=\"Mining\" data-level=\"30\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 30 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span>\nMine some coal from Stonecutter Outpost.",
+          "note": "30 Mining\nMine some coal from Stonecutter Outpost.",
           "location": {
             "x": 1733,
             "y": 2949,
@@ -3581,7 +3572,7 @@
         },
         {
           "taskId": 14941,
-          "note": "<span class=\"scp\" data-skill=\"Mining\" data-level=\"20\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 20 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span>\nMine 10 Silver ore",
+          "note": "20 Mining\nMine 10 Silver ore",
           "location": {
             "x": 1743,
             "y": 2950,
@@ -3711,7 +3702,7 @@
         },
         {
           "taskId": 14262,
-          "note": "<span class=\"scp\" data-skill=\"Attack\" data-level=\"55\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Attack\" title=\"Attack\"><img alt=\"Attack\" src=\"/images/Attack_icon.png?b4bce\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 55 <a href=\"/w/Attack\" title=\"Attack\">Attack</a></span>\nEquip the Sulphur blades.",
+          "note": "55 Attack\nEquip the Sulphur blades.",
           "location": {
             "x": 1436,
             "y": 3132,
@@ -3780,7 +3771,7 @@
         },
         {
           "taskId": 14683,
-          "note": "<span class=\"scp\" data-skill=\"Mining\" data-level=\"55\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 55 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span>, <span class=\"scp\" data-skill=\"Thieving\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Thieving\" title=\"Thieving\"><img alt=\"Thieving\" src=\"/images/Thieving_icon.png?973fe\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 48 <a href=\"/w/Thieving\" title=\"Thieving\">Thieving</a></span>, <span class=\"scp\" data-skill=\"Slayer\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Slayer\" title=\"Slayer\"><img alt=\"Slayer\" src=\"/images/Slayer_icon.png?cd34f\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"24\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"24\"></a></span> 48 <a href=\"/w/Slayer\" title=\"Slayer\">Slayer</a></span>, <span class=\"scp\" data-skill=\"Agility\" data-level=\"46\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Agility\" title=\"Agility\"><img alt=\"Agility\" src=\"/images/Agility_icon.png?389e0\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 46 <a href=\"/w/Agility\" title=\"Agility\">Agility</a></span>\nComplete The Heart of Darkness quest.",
+          "note": "55 Mining, 48 Thieving, 48 Slayer, 46 Agility\nComplete The Heart of Darkness quest.",
           "location": {
             "x": 1453,
             "y": 3174,
@@ -3789,7 +3780,7 @@
         },
         {
           "taskId": 13664,
-          "note": "<span class=\"scp\" data-skill=\"Quest points\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Quest_points\" title=\"Quest points\"><img alt=\"Quest points\" src=\"/images/Quest_point_icon.png?dc356\" decoding=\"async\" loading=\"lazy\" width=\"21\" height=\"21\" class=\"mw-file-element\" data-file-width=\"21\" data-file-height=\"21\"></a></span> </span><a href=\"/w/The_Heart_of_Darkness\" title=\"The Heart of Darkness\">The Heart of Darkness</a>, <span class=\"scp\" data-skill=\"Mining\" data-level=\"55\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 55 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span>, <span class=\"scp\" data-skill=\"Thieving\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Thieving\" title=\"Thieving\"><img alt=\"Thieving\" src=\"/images/Thieving_icon.png?973fe\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 48 <a href=\"/w/Thieving\" title=\"Thieving\">Thieving</a></span>, <span class=\"scp\" data-skill=\"Slayer\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Slayer\" title=\"Slayer\"><img alt=\"Slayer\" src=\"/images/Slayer_icon.png?cd34f\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"24\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"24\"></a></span> 48 <a href=\"/w/Slayer\" title=\"Slayer\">Slayer</a></span>, <span class=\"scp\" data-skill=\"Agility\" data-level=\"46\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Agility\" title=\"Agility\"><img alt=\"Agility\" src=\"/images/Agility_icon.png?389e0\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 46 <a href=\"/w/Agility\" title=\"Agility\">Agility</a></span>\nDefeat 10 Frost Crabs.",
+          "note": "The Heart of Darkness, 55 Mining, 48 Thieving, 48 Slayer, 46 Agility\nDefeat 10 Frost Crabs.",
           "location": {
             "x": 1692,
             "y": 3232,
@@ -3812,7 +3803,7 @@
         },
         {
           "taskId": 13663,
-          "note": "<span class=\"scp\" data-skill=\"Quest points\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Quest_points\" title=\"Quest points\"><img alt=\"Quest points\" src=\"/images/Quest_point_icon.png?dc356\" decoding=\"async\" loading=\"lazy\" width=\"21\" height=\"21\" class=\"mw-file-element\" data-file-width=\"21\" data-file-height=\"21\"></a></span> </span><a href=\"/w/The_Heart_of_Darkness\" title=\"The Heart of Darkness\">The Heart of Darkness</a>, <span class=\"scp\" data-skill=\"Mining\" data-level=\"55\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Mining\" title=\"Mining\"><img alt=\"Mining\" src=\"/images/Mining_icon.png?00870\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"23\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"23\"></a></span> 55 <a href=\"/w/Mining\" title=\"Mining\">Mining</a></span>, <span class=\"scp\" data-skill=\"Thieving\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Thieving\" title=\"Thieving\"><img alt=\"Thieving\" src=\"/images/Thieving_icon.png?973fe\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 48 <a href=\"/w/Thieving\" title=\"Thieving\">Thieving</a></span>, <span class=\"scp\" data-skill=\"Slayer\" data-level=\"48\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Slayer\" title=\"Slayer\"><img alt=\"Slayer\" src=\"/images/Slayer_icon.png?cd34f\" decoding=\"async\" loading=\"lazy\" width=\"23\" height=\"24\" class=\"mw-file-element\" data-file-width=\"23\" data-file-height=\"24\"></a></span> 48 <a href=\"/w/Slayer\" title=\"Slayer\">Slayer</a></span>, <span class=\"scp\" data-skill=\"Agility\" data-level=\"46\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Agility\" title=\"Agility\"><img alt=\"Agility\" src=\"/images/Agility_icon.png?389e0\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 46 <a href=\"/w/Agility\" title=\"Agility\">Agility</a></span>\nDefeat the Amoxliatl in Varlamore.",
+          "note": "The Heart of Darkness, 55 Mining, 48 Thieving, 48 Slayer, 46 Agility\nDefeat the Amoxliatl in Varlamore.",
           "location": {
             "x": 1693,
             "y": 3232,
@@ -3852,7 +3843,7 @@
         },
         {
           "taskId": 14671,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"20\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 20 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span>\nComplete the Vale totems miniquest.",
+          "note": "20 Fletching\nComplete the Vale totems miniquest.",
           "location": {
             "x": 1366,
             "y": 3369,
@@ -3898,7 +3889,7 @@
         },
         {
           "taskId": 15375,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"20\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 20 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span><br><a href=\"/w/Knife\" title=\"Knife\">Knife</a> and 5 <a href=\"/w/Oak_logs\" title=\"Oak logs\">Oak logs</a>\nFully decorate an Oak totem in the Auburn Valley.",
+          "note": "20 FletchingKnife and 5 Oak logs\nFully decorate an Oak totem in the Auburn Valley.",
           "location": {
             "x": 1397,
             "y": 3330,
@@ -3907,7 +3898,7 @@
         },
         {
           "taskId": 14867,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"35\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 35 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span>\nFletch a Willow Shortbow (u).",
+          "note": "35 Fletching\nFletch a Willow Shortbow (u).",
           "location": {
             "x": 1397,
             "y": 3330,
@@ -3916,7 +3907,7 @@
         },
         {
           "taskId": 15139,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"35\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 35 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span><br><a href=\"/w/Knife\" title=\"Knife\">Knife</a> and 5 <a href=\"/w/Willow_logs\" title=\"Willow logs\">Willow logs</a>\nFully decorate a Willow totem in the Auburn Valley.",
+          "note": "35 FletchingKnife and 5 Willow logs\nFully decorate a Willow totem in the Auburn Valley.",
           "location": {
             "x": 1397,
             "y": 3329,
@@ -3925,7 +3916,7 @@
         },
         {
           "taskId": 14860,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"40\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 40 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span>\nFletch 50 Willow longbow (u).",
+          "note": "40 Fletching\nFletch 50 Willow longbow (u).",
           "location": {
             "x": 1397,
             "y": 3330,
@@ -3934,7 +3925,7 @@
         },
         {
           "taskId": 14777,
-          "note": "<span class=\"scp\" data-skill=\"Woodcutting\" data-level=\"30\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Woodcutting\" title=\"Woodcutting\"><img alt=\"Woodcutting\" src=\"/images/Woodcutting_icon.png?6ead4\" decoding=\"async\" loading=\"lazy\" width=\"18\" height=\"22\" class=\"mw-file-element\" data-file-width=\"18\" data-file-height=\"22\"></a></span> 30 <a href=\"/w/Woodcutting\" title=\"Woodcutting\">Woodcutting</a></span>\nChop 100 Willow Logs from Willow Trees.",
+          "note": "30 Woodcutting\nChop 100 Willow Logs from Willow Trees.",
           "location": {
             "x": 1397,
             "y": 3330,
@@ -3943,7 +3934,7 @@
         },
         {
           "taskId": 15374,
-          "note": "<span class=\"scp\" data-skill=\"Fletching\" data-level=\"50\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Fletching\" title=\"Fletching\"><img alt=\"Fletching\" src=\"/images/Fletching_icon.png?15cda\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" data-file-width=\"25\" data-file-height=\"25\"></a></span> 50 <a href=\"/w/Fletching\" title=\"Fletching\">Fletching</a></span><br><a href=\"/w/Knife\" title=\"Knife\">Knife</a> and 5 <a href=\"/w/Maple_logs\" title=\"Maple logs\">Maple logs</a>\nFully decorate an Maple totem in the Auburn Valley.",
+          "note": "50 FletchingKnife and 5 Maple logs\nFully decorate an Maple totem in the Auburn Valley.",
           "location": {
             "x": 1397,
             "y": 3330,
@@ -4207,7 +4198,7 @@
         },
         {
           "taskId": 15378,
-          "note": "<span class=\"scp\" data-skill=\"Woodcutting\" data-level=\"35\" style=\"position:relative;display:inline-block;height:1em;\"><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"/w/Woodcutting\" title=\"Woodcutting\"><img alt=\"Woodcutting\" src=\"/images/Woodcutting_icon.png?6ead4\" decoding=\"async\" loading=\"lazy\" width=\"18\" height=\"22\" class=\"mw-file-element\" data-file-width=\"18\" data-file-height=\"22\"></a></span> 35 <a href=\"/w/Woodcutting\" title=\"Woodcutting\">Woodcutting</a></span>\nFully clear a dense jungle in the Tai Bwo Wannai Cleanup.",
+          "note": "35 Woodcutting\nFully clear a dense jungle in the Tai Bwo Wannai Cleanup.",
           "location": {
             "x": 2806,
             "y": 3075,
