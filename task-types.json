@@ -373,14 +373,20 @@
       "description": 1
     },
     "intParamMap": {
-      "action_display_graphic": 1,
-      "league_tier": 32,
+      "tier": 32,
       "league_task_marker": 34,
       "league_bucket": 35,
-      "league_area": 36
+      "area": 36
     },
     "intEnumMap": {},
     "stringEnumMap": {},
+    "tierSpriteIdMap": {
+      "1": 2316,
+      "2": 2318,
+      "3": 2319,
+      "4": 2320,
+      "5": 3739
+    },
     "taskVarps": [],
     "otherVarps": [],
     "varbits": [],
