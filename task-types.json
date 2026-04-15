@@ -150,7 +150,7 @@
     "taskJsonName": "LEAGUE_6",
     "taskSourceType": "DBROW",
     "isEnabled": true,
-    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless. Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
+    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across 50 varps in the VarPlayerID.LEAGUE_TASK_COMPLETED_0..49 block (reused from L5 - same varps; game presumably clears between leagues). Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
     "filters": [],
     "stringParamMap": {
       "name": 0,
@@ -171,7 +171,13 @@
       "4": 2320,
       "5": 3739
     },
-    "taskVarps": [],
+    "taskVarps": [
+      2616, 2617, 2618, 2619, 2620, 2621, 2622, 2623, 2624, 2625, 2626, 2627, 2628, 2629, 2630, 2631,
+      2808, 2809, 2810, 2811, 2812, 2813, 2814, 2815, 2816, 2817, 2818, 2819, 2820, 2821, 2822, 2823,
+      2824, 2825, 2826, 2827, 2828, 2829, 2830, 2831, 2832, 2833, 2834, 2835,
+      3339, 3340, 3341, 3342,
+      4036, 4037
+    ],
     "otherVarps": [],
     "varbits": [],
     "taskCompletedScriptId": -1,
