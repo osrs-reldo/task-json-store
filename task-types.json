@@ -131,7 +131,43 @@
     "taskSourceType": "DBROW",
     "isEnabled": true,
     "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless. Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
-    "filters": [],
+    "filters": [
+      {
+        "configKey": "leagueTier",
+        "valueType": "GLOBAL",
+        "customItems": [
+          {
+            "value": 1,
+            "spriteId": 2316,
+            "tooltip": "Easy"
+          },
+          {
+            "value": 2,
+            "spriteId": 2318,
+            "tooltip": "Medium"
+          },
+          {
+            "value": 3,
+            "spriteId": 2319,
+            "tooltip": "Hard"
+          },
+          {
+            "value": 4,
+            "spriteId": 2320,
+            "tooltip": "Elite"
+          },
+          {
+            "value": 5,
+            "spriteId": 3739,
+            "tooltip": "Master"
+          }
+        ]
+      },
+      {
+        "configKey": "area",
+        "valueType": "GLOBAL"
+      }
+    ],
     "stringParamMap": {
       "name": 0,
       "description": 1
@@ -163,7 +199,48 @@
     "otherVarps": [],
     "varbits": [],
     "taskCompletedScriptId": -1,
-    "taskPointTiers": null,
+    "taskPointTiers": [
+      {
+        "varbitId": -1,
+        "label": "Tier 1",
+        "points": 0
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 2",
+        "points": 600
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 3",
+        "points": 1200
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 4",
+        "points": 2600
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 5",
+        "points": 5200
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 6",
+        "points": 8500
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 7",
+        "points": 16500
+      },
+      {
+        "varbitId": -1,
+        "label": "Tier 8",
+        "points": 28000
+      }
+    ],
     "taskCompletionCountTiers": null
   }
 ]
