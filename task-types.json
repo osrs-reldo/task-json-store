@@ -148,6 +148,7 @@
     "name": "League V: Raging Echoes",
     "taskJsonName": "LEAGUE_5",
     "taskSourceType": "STRUCT",
+    "isEnabled": false,
     "filters": [
       {
         "configKey": "skill",
@@ -358,56 +359,6 @@
         "tasks": 200
       }
     ]
-  },
-  {
-    "name": "Gridmaster",
-    "description": "Gridmaster tasks from cache DB table 118. Test harness for the new DB-row plugin architecture - real live data that uses the same table+column model Jagex is moving L6 onto.",
-    "taskJsonName": "GRID_MASTER",
-    "taskSourceType": "DBROW",
-    "isEnabled": false,
-    "_testingNotes": "Tasks in GRID_MASTER.min.json carry dbRowId (not structId). Plugin reads via client.getDBTableField(dbRowId, colIdx, 0) instead of getStructComposition(structId).getParam(paramId). taskVarps 4897/4898 hold completion for the 49 per-player grid cells (bingo_rs_7x7_row_X_col_Y dbRows 6877-6925), each of which references one of the 93 action dbRows in table 118 (this file). Static per-dbRow bit assignment doesn't exist; any sortId >= 64 won't map to real completion. Plugin's processTaskStatus is bounds-checked so sortIds beyond the varp range are silently skipped.",
-    "_columnLayout": "Column names match the cache DB column schema (action:action_name = col 0, etc). Pair columns (col 3 string/string, col 10 bool/bool, col 16 stat/int, col 23 obj/bool) are read as element 0 only via getDBTableField(row, col, 0); a multi-index loader would need a plugin change.",
-    "filters": [],
-    "stringParamMap": {
-      "name": 0,
-      "description": 3
-    },
-    "intParamMap": {
-      "action_display_graphic": 1,
-      "action_display_object": 2,
-      "action_display_show_derived_desc": 4,
-      "custom_tracking": 7,
-      "boss_kill": 8,
-      "boss_kill_category": 9,
-      "boss_kill_extras": 10,
-      "npc_kill": 11,
-      "npc_kill_category": 12,
-      "npc_kill_slayer_category": 13,
-      "equip_item": 14,
-      "total_level": 15,
-      "level": 16,
-      "collection_generic": 17,
-      "collection_specific": 18,
-      "loot_drop": 19,
-      "loot_drop_specific_npc": 20,
-      "quest": 21,
-      "mine_ore": 22,
-      "hunter": 23,
-      "poh_build": 24,
-      "poh_set_portal": 25,
-      "create_item": 26,
-      "chop_logs": 27,
-      "leagues_task": 28,
-      "child_action": 29
-    },
-    "intEnumMap": {},
-    "stringEnumMap": {},
-    "taskVarps": [4897, 4898],
-    "otherVarps": [],
-    "varbits": [],
-    "taskCompletedScriptId": -1,
-    "taskPointTiers": null,
-    "taskCompletionCountTiers": null
   },
   {
     "name": "Leagues VI: Demonic Pacts",
