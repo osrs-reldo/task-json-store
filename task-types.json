@@ -142,7 +142,9 @@
       "league_bucket": 35,
       "area": 36
     },
-    "intEnumMap": {},
+    "intEnumMap": {
+      "tierPoints": 2671
+    },
     "stringEnumMap": {},
     "tierSpriteIdMap": {
       "1": 2316,
