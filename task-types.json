@@ -142,7 +142,9 @@
       "league_bucket": 35,
       "area": 36
     },
-    "intEnumMap": {},
+    "intEnumMap": {
+      "tierPoints": 2671
+    },
     "stringEnumMap": {},
     "tierSpriteIdMap": {
       "1": 2316,
@@ -161,7 +163,38 @@
     "otherVarps": [],
     "varbits": [],
     "taskCompletedScriptId": -1,
-    "taskPointTiers": null,
+    "taskPointTiers": [
+      {
+        "varbitId": 4132,
+        "label": "Easy",
+        "points": 38
+      },
+      {
+        "varbitId": 10660,
+        "label": "Medium",
+        "points": 148
+      },
+      {
+        "varbitId": 10661,
+        "label": "Hard",
+        "points": 394
+      },
+      {
+        "varbitId": 14812,
+        "label": "Elite",
+        "points": 1038
+      },
+      {
+        "varbitId": 14813,
+        "label": "Master",
+        "points": 1878
+      },
+      {
+        "varbitId": 14814,
+        "label": "Grandmaster",
+        "points": 2604
+      }
+    ],
     "taskCompletionCountTiers": null
   }
 ]
