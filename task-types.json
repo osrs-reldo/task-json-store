@@ -408,5 +408,33 @@
     "taskCompletedScriptId": -1,
     "taskPointTiers": null,
     "taskCompletionCountTiers": null
+  },
+  {
+    "name": "Leagues VI: Demonic Pacts",
+    "description": "Demonic Pacts League tasks loaded from cache DB table 118. Wiki data-taskid = enum 5950 index, which is also the varbit index used for completion. Real dbRowId resolved via enum 5950 so client.getDBTableField reads work.",
+    "taskJsonName": "LEAGUE_6",
+    "taskSourceType": "DBROW",
+    "isEnabled": true,
+    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across ~50 varps in the VarPlayerID.LEAGUE_TASK_0..63 block (IDs TBC). Populate taskVarps with the 64 consecutive IDs once known; plugin's bounds check means extra empty slots are harmless.",
+    "filters": [],
+    "stringParamMap": {
+      "name": 0,
+      "description": 1
+    },
+    "intParamMap": {
+      "action_display_graphic": 1,
+      "league_tier": 32,
+      "league_task_marker": 34,
+      "league_bucket": 35,
+      "league_area": 36
+    },
+    "intEnumMap": {},
+    "stringEnumMap": {},
+    "taskVarps": [],
+    "otherVarps": [],
+    "varbits": [],
+    "taskCompletedScriptId": -1,
+    "taskPointTiers": null,
+    "taskCompletionCountTiers": null
   }
 ]
