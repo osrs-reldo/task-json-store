@@ -369,7 +369,8 @@
     "_columnLayout": "Column names match the cache DB column schema (action:action_name = col 0, etc). Pair columns (col 3 string/string, col 10 bool/bool, col 16 stat/int, col 23 obj/bool) are read as element 0 only via getDBTableField(row, col, 0); a multi-index loader would need a plugin change.",
     "filters": [],
     "stringParamMap": {
-      "name": 0
+      "name": 0,
+      "description": 3
     },
     "intParamMap": {
       "action_display_graphic": 1,
