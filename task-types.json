@@ -78,26 +78,6 @@
       "tier": 3967
     },
     "taskVarps": [
-      3116,
-      3117,
-      3118,
-      3119,
-      3120,
-      3121,
-      3122,
-      3123,
-      3124,
-      3125,
-      3126,
-      3127,
-      3128,
-      3387,
-      3718,
-      3773,
-      3774,
-      4204,
-      4496,
-      4721
     ],
     "tierSpriteIdMap": {
       "1": 3399,
@@ -145,136 +125,25 @@
     "taskCompletionCountTiers": null
   },
   {
-    "name": "League V: Raging Echoes",
-    "taskJsonName": "LEAGUE_5",
-    "taskSourceType": "STRUCT",
-    "filters": [
-      {
-        "configKey": "skill",
-        "valueType": "GLOBAL"
-      },
-      {
-        "configKey": "leagueTier",
-        "valueType": "GLOBAL",
-        "customItems": [
-          {
-            "value": 1,
-            "spriteId": 2316,
-            "tooltip": "Easy"
-          },
-          {
-            "value": 2,
-            "spriteId": 2318,
-            "tooltip": "Medium"
-          },
-          {
-            "value": 3,
-            "spriteId": 2319,
-            "tooltip": "Hard"
-          },
-          {
-            "value": 4,
-            "spriteId": 2320,
-            "tooltip": "Elite"
-          },
-          {
-            "value": 5,
-            "spriteId": 3739,
-            "tooltip": "Master"
-          }
-        ]
-      },
-      {
-        "configKey": "area",
-        "valueType": "GLOBAL"
-      }
-    ],
-    "intParamMap": {
-      "id": 873,
-      "tier": 2044,
-      "skill": 1018,
-      "area": 1017,
-      "category": 1016
-    },
+    "name": "Leagues VI: Demonic Pacts",
+    "description": "Demonic Pacts League tasks loaded from cache DB table 118. Wiki data-taskid = enum 5950 index, which is also the varbit index used for completion. Real dbRowId resolved via enum 5950 so client.getDBTableField reads work.",
+    "taskJsonName": "LEAGUE_6",
+    "taskSourceType": "DBROW",
+    "isEnabled": true,
+    "_testingNotes": "1592 tasks, sortIds 0-1591. sortId = wiki enum-5950 index = completion bit position. Completion bits packed across 50 varps in the VarPlayerID.LEAGUE_TASK_COMPLETED_0..49 block (reused from L5 - same varps; game presumably clears between leagues). Filters disabled until plugin's ParamButtonFilter empty-config bug is fixed (see plugin-side fix: empty config should pass-through, not hide).",
+    "filters": [],
     "stringParamMap": {
-      "name": 874,
-      "description": 875
+      "name": 0,
+      "description": 1
     },
-    "intEnumMap": {
-      "tierSprites": 2674,
-      "tierPoints": 2671
+    "intParamMap": {
+      "tier": 32,
+      "league_task_marker": 34,
+      "league_bucket": 35,
+      "area": 36
     },
-    "stringEnumMap": {
-      "tier": 2676,
-      "category": 3413,
-      "area": 3412,
-      "skill": 4105
-    },
-    "paramMap": {},
-    "taskVarps": [
-      2616,
-      2617,
-      2618,
-      2619,
-      2620,
-      2621,
-      2622,
-      2623,
-      2624,
-      2625,
-      2626,
-      2627,
-      2628,
-      2629,
-      2630,
-      2631,
-      2808,
-      2809,
-      2810,
-      2811,
-      2812,
-      2813,
-      2814,
-      2815,
-      2816,
-      2817,
-      2818,
-      2819,
-      2820,
-      2821,
-      2822,
-      2823,
-      2824,
-      2825,
-      2826,
-      2827,
-      2828,
-      2829,
-      2830,
-      2831,
-      2832,
-      2833,
-      2834,
-      2835,
-      3339,
-      3340,
-      3341,
-      3342,
-      4036,
-      4037,
-      4038,
-      4039,
-      4040,
-      4041,
-      4042,
-      4043,
-      4044,
-      4045,
-      4046,
-      4047,
-      4048,
-      4049
-    ],
+    "intEnumMap": {},
+    "stringEnumMap": {},
     "tierSpriteIdMap": {
       "1": 2316,
       "2": 2318,
@@ -282,127 +151,8 @@
       "4": 2320,
       "5": 3739
     },
-    "otherVarps": [],
-    "varbits": [
-      10049,
-      10050,
-      10051,
-      10052,
-      10053,
-      11696,
-      17301,
-      17302
+    "taskVarps": [
     ],
-    "taskCompletedScriptId": 3216,
-    "taskPointTiers": [
-      {
-        "varbitId": -1,
-        "label": "Tier 1",
-        "points": 0
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 2",
-        "points": 750
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 3",
-        "points": 1500
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 4",
-        "points": 2500
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 5",
-        "points": 5000
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 6",
-        "points": 8000
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 7",
-        "points": 16000
-      },
-      {
-        "varbitId": -1,
-        "label": "Tier 8",
-        "points": 25000
-      }
-    ],
-    "taskCompletionCountTiers": [
-      {
-        "varbitId": -1,
-        "label": "Starter",
-        "tasks": 0
-      },
-      {
-        "varbitId": -1,
-        "label": "1st Unlock",
-        "tasks": 50
-      },
-      {
-        "varbitId": -1,
-        "label": "2nd Unlock",
-        "tasks": 100
-      },
-      {
-        "varbitId": -1,
-        "label": "3rd Unlock",
-        "tasks": 200
-      }
-    ]
-  },
-  {
-    "name": "Gridmaster",
-    "description": "Gridmaster tasks from cache DB table 118. Test harness for the new DB-row plugin architecture - real live data that uses the same table+column model Jagex is moving L6 onto.",
-    "taskJsonName": "GRID_MASTER",
-    "taskSourceType": "DBROW",
-    "isEnabled": false,
-    "_testingNotes": "Tasks in GRID_MASTER.min.json carry dbRowId (not structId). Plugin reads via client.getDBTableField(dbRowId, colIdx, 0) instead of getStructComposition(structId).getParam(paramId). taskVarps 4897/4898 hold completion for the 49 per-player grid cells (bingo_rs_7x7_row_X_col_Y dbRows 6877-6925), each of which references one of the 93 action dbRows in table 118 (this file). Static per-dbRow bit assignment doesn't exist; any sortId >= 64 won't map to real completion. Plugin's processTaskStatus is bounds-checked so sortIds beyond the varp range are silently skipped.",
-    "_columnLayout": "Column names match the cache DB column schema (action:action_name = col 0, etc). Pair columns (col 3 string/string, col 10 bool/bool, col 16 stat/int, col 23 obj/bool) are read as element 0 only via getDBTableField(row, col, 0); a multi-index loader would need a plugin change.",
-    "filters": [],
-    "stringParamMap": {
-      "name": 0,
-      "description": 3
-    },
-    "intParamMap": {
-      "action_display_graphic": 1,
-      "action_display_object": 2,
-      "action_display_show_derived_desc": 4,
-      "custom_tracking": 7,
-      "boss_kill": 8,
-      "boss_kill_category": 9,
-      "boss_kill_extras": 10,
-      "npc_kill": 11,
-      "npc_kill_category": 12,
-      "npc_kill_slayer_category": 13,
-      "equip_item": 14,
-      "total_level": 15,
-      "level": 16,
-      "collection_generic": 17,
-      "collection_specific": 18,
-      "loot_drop": 19,
-      "loot_drop_specific_npc": 20,
-      "quest": 21,
-      "mine_ore": 22,
-      "hunter": 23,
-      "poh_build": 24,
-      "poh_set_portal": 25,
-      "create_item": 26,
-      "chop_logs": 27,
-      "leagues_task": 28,
-      "child_action": 29
-    },
-    "intEnumMap": {},
-    "stringEnumMap": {},
-    "taskVarps": [4897, 4898],
     "otherVarps": [],
     "varbits": [],
     "taskCompletedScriptId": -1,
