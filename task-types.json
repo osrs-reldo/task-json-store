@@ -175,7 +175,7 @@
     "intParamMap": {
       "tier": 32,
       "league_task_marker": 34,
-      "league_bucket": 35,
+      "category": 35,
       "area": 36
     },
     "intEnumMap": {
