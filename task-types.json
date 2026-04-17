@@ -122,7 +122,13 @@
         "points": 2604
       }
     ],
-    "taskCompletionCountTiers": null
+    "taskCompletionCountTiers": null,
+    "wikiConfig": {
+      "url": "https://oldschool.runescape.wiki/w/Combat_Achievements/All_tasks",
+      "taskIdAttribute": "data-taskid",
+      "completionColumnId": 5,
+      "requirementsColumnId": null
+    }
   },
   {
     "name": "Leagues VI: Demonic Pacts",
@@ -241,6 +247,12 @@
         "points": 28000
       }
     ],
-    "taskCompletionCountTiers": null
+    "taskCompletionCountTiers": null,
+    "wikiConfig": {
+      "url": "https://oldschool.runescape.wiki/w/Demonic_Pacts_League/Tasks",
+      "taskIdAttribute": "data-taskid",
+      "completionColumnId": 5,
+      "requirementsColumnId": 3
+    }
   }
 ]
