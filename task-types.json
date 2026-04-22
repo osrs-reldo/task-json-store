@@ -172,6 +172,10 @@
       {
         "configKey": "area",
         "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "wikiSkill",
+        "valueType": "GLOBAL"
       }
     ],
     "stringParamMap": {

@@ -106,5 +106,11 @@
       { "value": 5, "spriteId": 2735, "tooltip": "Minigame" },
       { "value": 6, "spriteId": 2736, "tooltip": "Other" }
     ]
+  },
+  {
+    "configKey": "wikiSkill",
+    "label": "Skill",
+    "filterType": "BUTTON_FILTER",
+    "valueType": "SKILL"
   }
 ]
