@@ -178,6 +178,14 @@
       {
         "configKey": "wikiSkill",
         "valueType": "GLOBAL"
+      },
+      {
+        "configKey": "category",
+        "label": "Category",
+        "filterType": "DROPDOWN_FILTER",
+        "valueType": "PARAM_INTEGER",
+        "valueName": "category",
+        "optionLabelEnum": "category"
       }
     ],
     "stringParamMap": {
@@ -193,7 +201,9 @@
     "intEnumMap": {
       "tierPoints": 2671
     },
-    "stringEnumMap": {},
+    "stringEnumMap": {
+      "category": 3411
+    },
     "tierSpriteIdMap": {
       "1": 2316,
       "2": 2318,
