@@ -1,0 +1,608 @@
+[
+  {
+    "varbitName": "league_task_kandarin_longbow",
+    "varbitId": 10909,
+    "target": 1,
+    "dbRowId": 15032
+  },
+  {
+    "varbitName": "league_gold_ore_in_tirannwn",
+    "varbitId": 13238,
+    "target": 25,
+    "dbRowId": 15330
+  },
+  {
+    "varbitName": "league_blisterwood_chopped",
+    "varbitId": 13241,
+    "target": 100,
+    "dbRowId": 15212
+  },
+  {
+    "varbitName": "league_task_dig_saltpetre",
+    "varbitId": 13244,
+    "target": 25,
+    "dbRowId": 14627
+  },
+  {
+    "varbitName": "league_task_create_juniper_charcoal",
+    "varbitId": 13245,
+    "target": 100,
+    "dbRowId": 14626
+  },
+  {
+    "varbitName": "league_task_craft_blood_runes",
+    "varbitId": 13248,
+    "target": 100,
+    "dbRowId": 15030
+  },
+  {
+    "varbitName": "league_task_chop_yew_logs_in_shayzien",
+    "varbitId": 13249,
+    "target": 15,
+    "dbRowId": 15291
+  },
+  {
+    "varbitName": "league_task_kill_spinners",
+    "varbitId": 13250,
+    "target": 5,
+    "dbRowId": 13661
+  },
+  {
+    "varbitName": "league_task_catch_anglerfish",
+    "varbitId": 13251,
+    "target": 150,
+    "dbRowId": 14855
+  },
+  {
+    "varbitName": "league_task_steal_house_keys",
+    "varbitId": 13253,
+    "target": 15,
+    "dbRowId": 15179
+  },
+  {
+    "varbitName": "league_task_harvest_zamoraks_grapes",
+    "varbitId": 13255,
+    "target": 25,
+    "dbRowId": 14944
+  },
+  {
+    "varbitName": "league_task_mine_sulphur",
+    "varbitId": 13256,
+    "target": 50,
+    "dbRowId": 15160
+  },
+  {
+    "varbitName": "league_task_create_dynamite",
+    "varbitId": 13257,
+    "target": 10,
+    "dbRowId": 15035
+  },
+  {
+    "varbitName": "league_task_craft_sunfire_runes",
+    "varbitId": 13258,
+    "target": 1000,
+    "dbRowId": 15044
+  },
+  {
+    "varbitName": "league_task_mine_mithril_ore_in_the_stonecutter_outpost",
+    "varbitId": 13259,
+    "target": 20,
+    "dbRowId": 15144
+  },
+  {
+    "varbitName": "league_task_mine_blessed_bone_shards",
+    "varbitId": 13260,
+    "target": 250,
+    "dbRowId": 15147
+  },
+  {
+    "varbitName": "league_task_create_jugs_of_blessed_sunfire_wine",
+    "varbitId": 13261,
+    "target": 100,
+    "dbRowId": 15045
+  },
+  {
+    "varbitName": "league_task_chop_magic_logs_in_varlamore",
+    "varbitId": 13262,
+    "target": 20,
+    "dbRowId": 15040
+  },
+  {
+    "varbitName": "league_task_catch_pyre_fox",
+    "varbitId": 13263,
+    "target": 1,
+    "dbRowId": 15276
+  },
+  {
+    "varbitName": "league_task_catch_sunlight_antelopes",
+    "varbitId": 13264,
+    "target": 25,
+    "dbRowId": 15036
+  },
+  {
+    "varbitName": "league_task_catch_moonlight_antelopes",
+    "varbitId": 13266,
+    "target": 50,
+    "dbRowId": 14911
+  },
+  {
+    "varbitName": "league_task_make_goading_potions",
+    "varbitId": 13268,
+    "target": 50,
+    "dbRowId": 15019
+  },
+  {
+    "varbitName": "league_task_chop_juniper_logs",
+    "varbitId": 13269,
+    "target": 25,
+    "dbRowId": 15317
+  },
+  {
+    "varbitName": "league_task_make_prayer_regeneration_potions",
+    "varbitId": 13270,
+    "target": 100,
+    "dbRowId": 15018
+  },
+  {
+    "varbitName": "league_task_kill_frost_crabs",
+    "varbitId": 13271,
+    "target": 10,
+    "dbRowId": 13664
+  },
+  {
+    "varbitName": "league_task_chop_magic_logs_in_tirannwn",
+    "varbitId": 13275,
+    "target": 50,
+    "dbRowId": 15177
+  },
+  {
+    "varbitName": "league_task_pick_up_whiteberries_in_tirannwn",
+    "varbitId": 13276,
+    "target": 10,
+    "dbRowId": 14649
+  },
+  {
+    "varbitName": "league_task_cook_moonlight_antelopes",
+    "varbitId": 13277,
+    "target": 100,
+    "dbRowId": 15043
+  },
+  {
+    "varbitName": "league_task_clean_grimy_guam_leafs",
+    "varbitId": 13278,
+    "target": 25,
+    "dbRowId": 14785
+  },
+  {
+    "varbitName": "league_task_clean_grimy_tarromin",
+    "varbitId": 13279,
+    "target": 15,
+    "dbRowId": 14784
+  },
+  {
+    "varbitName": "league_task_clean_grimy_ranarr_weed",
+    "varbitId": 13280,
+    "target": 50,
+    "dbRowId": 14788
+  },
+  {
+    "varbitName": "league_task_clean_grimy_cadantine",
+    "varbitId": 13282,
+    "target": 50,
+    "dbRowId": 14786
+  },
+  {
+    "varbitName": "league_task_clean_grimy_lantadyme",
+    "varbitId": 13283,
+    "target": 50,
+    "dbRowId": 14787
+  },
+  {
+    "varbitName": "league_task_check_the_health_of_crystal_trees",
+    "varbitId": 13284,
+    "target": 5,
+    "dbRowId": 14889
+  },
+  {
+    "varbitName": "league_task_blast_furnace_mithril_bars",
+    "varbitId": 13285,
+    "target": 100,
+    "dbRowId": 15005
+  },
+  {
+    "varbitName": "league_task_blast_furnace_runite_bars",
+    "varbitId": 13286,
+    "target": 100,
+    "dbRowId": 14878
+  },
+  {
+    "varbitName": "league_task_trade_in_minnows",
+    "varbitId": 13287,
+    "target": 1000,
+    "dbRowId": 15016
+  },
+  {
+    "varbitName": "league_task_cut_maple_logs",
+    "varbitId": 13288,
+    "target": 50,
+    "dbRowId": 14817
+  },
+  {
+    "varbitName": "league_task_burn_maple_logs",
+    "varbitId": 13289,
+    "target": 25,
+    "dbRowId": 14752
+  },
+  {
+    "varbitName": "league_task_smith_mithril_bolts",
+    "varbitId": 13292,
+    "target": 250,
+    "dbRowId": 15326
+  },
+  {
+    "varbitName": "league_elves_killed",
+    "varbitId": 15648,
+    "target": 50,
+    "dbRowId": 13653
+  },
+  {
+    "varbitName": "league_soft_clay_in_tirannwn",
+    "varbitId": 15659,
+    "target": 200,
+    "dbRowId": 15127
+  },
+  {
+    "varbitName": "league_runite_ore_in_tirannwn",
+    "varbitId": 15660,
+    "target": 100,
+    "dbRowId": 14903
+  },
+  {
+    "varbitName": "league_red_chinchompas_in_tirannwn",
+    "varbitId": 15664,
+    "target": 300,
+    "dbRowId": 14888
+  },
+  {
+    "varbitName": "league_task_creatures_with_mace",
+    "varbitId": 20369,
+    "target": 5,
+    "dbRowId": 13902
+  },
+  {
+    "varbitName": "league_task_iron_arrows_shot",
+    "varbitId": 20374,
+    "target": 6,
+    "dbRowId": 13616
+  },
+  {
+    "varbitName": "league_task_pickpocket_successes_in_a_row",
+    "varbitId": 20376,
+    "target": 10,
+    "dbRowId": 15360
+  },
+  {
+    "varbitName": "league_task_blast_furnace_adamantite_bars",
+    "varbitId": 20382,
+    "target": 100,
+    "dbRowId": 15047
+  },
+  {
+    "varbitName": "league_task_craft_aether_runes",
+    "varbitId": 20383,
+    "target": 100,
+    "dbRowId": 15403
+  },
+  {
+    "varbitName": "league_task_create_antivenom_potions",
+    "varbitId": 20384,
+    "target": 50,
+    "dbRowId": 14905
+  },
+  {
+    "varbitName": "league_task_create_antivenom_plus_potions",
+    "varbitId": 20385,
+    "target": 50,
+    "dbRowId": 14905
+  },
+  {
+    "varbitName": "league_task_make_100_mahogany_planks_in_prifddinas",
+    "varbitId": 20386,
+    "target": 100,
+    "dbRowId": 15263
+  },
+  {
+    "varbitName": "league_task_mine_1000_ancient_essence",
+    "varbitId": 20388,
+    "target": 1000,
+    "dbRowId": 14879
+  },
+  {
+    "varbitName": "league_task_snare_15_tropical_wagtails",
+    "varbitId": 20389,
+    "target": 15,
+    "dbRowId": 15336
+  },
+  {
+    "varbitName": "league_grubby_chest_counter",
+    "varbitId": 10038,
+    "target": 10,
+    "dbRowId": 13579
+  },
+  {
+    "varbitName": "league_grubby_chest_counter",
+    "varbitId": 10038,
+    "target": 25,
+    "dbRowId": 13580
+  },
+  {
+    "varbitName": "league_library_book_counter",
+    "varbitId": 10039,
+    "target": 10,
+    "dbRowId": 15266
+  },
+  {
+    "varbitName": "league_library_book_counter",
+    "varbitId": 10039,
+    "target": 50,
+    "dbRowId": 14923
+  },
+  {
+    "varbitName": "league_artefacts_stolen",
+    "varbitId": 10040,
+    "target": 10,
+    "dbRowId": 15242
+  },
+  {
+    "varbitName": "league_golovanova_planted",
+    "varbitId": 10043,
+    "target": 100,
+    "dbRowId": 15208
+  },
+  {
+    "varbitName": "league_bologano_planted",
+    "varbitId": 10044,
+    "target": 100,
+    "dbRowId": 15006
+  },
+  {
+    "varbitName": "league_logavano_planted",
+    "varbitId": 10045,
+    "target": 100,
+    "dbRowId": 15007
+  },
+  {
+    "varbitName": "league_summer_sqirkjuices_given",
+    "varbitId": 10904,
+    "target": 50,
+    "dbRowId": 14304
+  },
+  {
+    "varbitName": "league_mole_claws_traded",
+    "varbitId": 10905,
+    "target": 100,
+    "dbRowId": 13565
+  },
+  {
+    "varbitName": "league_task_motherlode_nugget",
+    "varbitId": 10910,
+    "target": 20,
+    "dbRowId": 15299
+  },
+  {
+    "varbitName": "league_vorkath_no_leave_kills",
+    "varbitId": 10917,
+    "target": 15,
+    "dbRowId": 13762
+  },
+  {
+    "varbitName": "league_task_agility_ticket_streak",
+    "varbitId": 10922,
+    "target": 30,
+    "dbRowId": 14335
+  },
+  {
+    "varbitName": "league_make_oak_planks_in_kourend",
+    "varbitId": 13235,
+    "target": 100,
+    "dbRowId": 15263
+  },
+  {
+    "varbitName": "league_rabbits_killed",
+    "varbitId": 13239,
+    "target": 5,
+    "dbRowId": 13901
+  },
+  {
+    "varbitName": "league_sand_filled_in_relekka",
+    "varbitId": 13240,
+    "target": 20,
+    "dbRowId": 14644
+  },
+  {
+    "varbitName": "league_chop_maples_in_prif",
+    "varbitId": 13243,
+    "target": 100,
+    "dbRowId": 15397
+  },
+  {
+    "varbitName": "league_task_catch_chinchompas",
+    "varbitId": 13254,
+    "target": 500,
+    "dbRowId": 14765
+  },
+  {
+    "varbitName": "league_task_create_divine_super_attack_potions",
+    "varbitId": 13272,
+    "target": 25,
+    "dbRowId": 15214
+  },
+  {
+    "varbitName": "league_task_create_divine_super_strength_potions",
+    "varbitId": 13273,
+    "target": 25,
+    "dbRowId": 15221
+  },
+  {
+    "varbitName": "league_task_dissect_sacred_eels",
+    "varbitId": 13274,
+    "target": 50,
+    "dbRowId": 15253
+  },
+  {
+    "varbitName": "league_task_dissect_sacred_eels",
+    "varbitId": 13274,
+    "target": 250,
+    "dbRowId": 14900
+  },
+  {
+    "varbitName": "league_task_clean_grimy_avantoe",
+    "varbitId": 13281,
+    "target": 100,
+    "dbRowId": 14783
+  },
+  {
+    "varbitName": "league_task_chop_yew_logs",
+    "varbitId": 13290,
+    "target": 100,
+    "dbRowId": 14778
+  },
+  {
+    "varbitName": "league_task_mine_mithril_ore",
+    "varbitId": 13291,
+    "target": 50,
+    "dbRowId": 14946
+  },
+  {
+    "varbitName": "league_priff_bells_rang",
+    "varbitId": 15651,
+    "target": 8,
+    "dbRowId": 14650
+  },
+  {
+    "varbitName": "league_iron_sheets_sold",
+    "varbitId": 15652,
+    "target": 20,
+    "dbRowId": 14652
+  },
+  {
+    "varbitName": "league_redwood_logs",
+    "varbitId": 15653,
+    "target": 200,
+    "dbRowId": 15014
+  },
+  {
+    "varbitName": "league_total_ca_speed_tasks",
+    "varbitId": 15654,
+    "target": 5,
+    "dbRowId": 13456
+  },
+  {
+    "varbitName": "league_total_ca_speed_tasks",
+    "varbitId": 15654,
+    "target": 10,
+    "dbRowId": 13453
+  },
+  {
+    "varbitName": "league_total_ca_speed_tasks",
+    "varbitId": 15654,
+    "target": 20,
+    "dbRowId": 13454
+  },
+  {
+    "varbitName": "league_total_ca_speed_tasks",
+    "varbitId": 15654,
+    "target": 30,
+    "dbRowId": 13455
+  },
+  {
+    "varbitName": "league_task_red_chinchompa_kandarin",
+    "varbitId": 15655,
+    "target": 150,
+    "dbRowId": 14891
+  },
+  {
+    "varbitName": "league_karambwan_success",
+    "varbitId": 15657,
+    "target": 20,
+    "dbRowId": 15280
+  },
+  {
+    "varbitName": "league_redwood_logs_made_into_arrow_shafts",
+    "varbitId": 15658,
+    "target": 250,
+    "dbRowId": 14894
+  },
+  {
+    "varbitName": "league_chop_teak_logs_in_prif",
+    "varbitId": 15661,
+    "target": 100,
+    "dbRowId": 15149
+  },
+  {
+    "varbitName": "league_make_teak_planks_in_prif",
+    "varbitId": 15662,
+    "target": 100,
+    "dbRowId": 15263
+  },
+  {
+    "varbitName": "league_rune_dart_tips_in_prif",
+    "varbitId": 15663,
+    "target": 1000,
+    "dbRowId": 15134
+  },
+  {
+    "varbitName": "league_task_calcified_deposit",
+    "varbitId": 20367,
+    "target": 10,
+    "dbRowId": 15247
+  },
+  {
+    "varbitName": "league_task_bones_counter",
+    "varbitId": 20368,
+    "target": 6,
+    "dbRowId": 13582
+  },
+  {
+    "varbitName": "league_task_flax_picked",
+    "varbitId": 20370,
+    "target": 6,
+    "dbRowId": 14664
+  },
+  {
+    "varbitName": "league_task_wheat_picked",
+    "varbitId": 20371,
+    "target": 6,
+    "dbRowId": 14665
+  },
+  {
+    "varbitName": "league_task_cabbage_picked",
+    "varbitId": 20372,
+    "target": 6,
+    "dbRowId": 14665
+  },
+  {
+    "varbitName": "league_task_potatoes_picked",
+    "varbitId": 20373,
+    "target": 6,
+    "dbRowId": 14665
+  },
+  {
+    "varbitName": "league_task_birds_snared",
+    "varbitId": 20375,
+    "target": 20,
+    "dbRowId": 15352
+  },
+  {
+    "varbitName": "league_task_make_200_brutal_rune_arrow",
+    "varbitId": 20387,
+    "target": 200,
+    "dbRowId": 14898
+  },
+  {
+    "varbitName": "league_task_snare_5_crimson_swift",
+    "varbitId": 20390,
+    "target": 5,
+    "dbRowId": 15349
+  }
+]
