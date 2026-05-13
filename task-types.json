@@ -332,6 +332,7 @@
       "taskIdAttribute": "data-taskid",
       "completionColumnId": 5,
       "requirementsColumnId": 3
-    }
+    },
+    "dbRowEnumId": 5950
   }
 ]
