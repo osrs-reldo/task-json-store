@@ -26,5 +26,12 @@
     "author": "LAEF",
     "description": "Starting guide by LAEF. Covers early hunter, rumours, wealthy citizens, and core progression.",
     "taskType": "LEAGUE_6"
+  },
+  {
+    "filename": "reapers-raffle-hcw-v1",
+    "name": "Reaper's Raffle - Hardcore Worlds Task List",
+    "author": "Jagex (task list order)",
+    "description": "All 443 Reaper's Raffle tasks in the official order, unrouted. Custom tasks only.",
+    "taskType": "REAPERS_RAFFLE"
   }
 ]

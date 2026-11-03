@@ -1,0 +1,2703 @@
+{
+  "id": "reapers-raffle-hcw-v1",
+  "name": "Reaper's Raffle - Hardcore Worlds Task List",
+  "taskType": "REAPERS_RAFFLE",
+  "author": "Jagex (task list order)",
+  "description": "All 443 Reaper's Raffle tasks, unrouted, in the order shown on the official news post (Exploration, PvM, Skilling, Quests, Achievements, Wilderness). All items are custom (no in-game cache data). Item IDs are the official task IDs (e.g. EXP-009).",
+  "sections": [
+    {
+      "id": "exploration",
+      "name": "Exploration",
+      "items": [
+        {
+          "customItem": {
+            "id": "EXP-009",
+            "label": "Login to Hardcore Worlds"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-010",
+            "label": "Complete Grimhand's Barcrawl"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-012",
+            "label": "Achieve 99 in any Skill"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-013",
+            "label": "Complete a task from the Wise Old Man"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-014",
+            "label": "Trade your dog for some Runes"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-015",
+            "label": "Drink a Bottle of Soul"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-016",
+            "label": "Obtain a Red Token"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-017",
+            "label": "Be the first player to discover a Shooting Star"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-018",
+            "label": "Claim any Chompy Bird Hat from Rantz"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-019",
+            "label": "Grapple across the River Lum"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-020",
+            "label": "Travel to Castle Wars by Hot Air Balloon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-021",
+            "label": "Travel from Lumbridge to Edgeville on a waka canoe"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-022",
+            "label": "Pet Renu"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-023",
+            "label": "Mine some iron ore at Al Kharid mine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-024",
+            "label": "Catch a Blue Gill on Lake Molch"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-025",
+            "label": "Enter the Woodcutting Guild"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-026",
+            "label": "Enter the Crafting Guild"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-027",
+            "label": "Teleport to Ape Atoll"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-028",
+            "label": "Teleport to Catherby"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-029",
+            "label": "Teleport to Falador"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-030",
+            "label": "Teleport to Ghorrock"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-031",
+            "label": "Grapple over Yanille's South Wall"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-032",
+            "label": "Climb the summit of the Agility Pyramid"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-033",
+            "label": "Play 1 game of Gnomeball"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-034",
+            "label": "Pass through the Shantay Pass"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-035",
+            "label": "Pick any fruit from the Sorceress' Garden"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-036",
+            "label": "Complete a game of Pest Control"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-037",
+            "label": "Complete the Tears of Guthix minigame"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-038",
+            "label": "Equip any Clue Hunter item from Crack the Clue"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-039",
+            "label": "Complete a game of Werewolf Skullball"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-040",
+            "label": "Complete a game of Castle Wars"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-041",
+            "label": "Complete a game of Soul Wars"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-042",
+            "label": "Ride a sled down an icy timed course in Scrubfoot's cave"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-043",
+            "label": "Travel on a Fairy Ring"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-044",
+            "label": "Travel on a Charter Ship"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-045",
+            "label": "Travel on a Spirit Tree"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-047",
+            "label": "Travel on a Flying Carpet"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-049",
+            "label": "Travel by boat to Kourend"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-051",
+            "label": "Build a Portal Nexus in your Player-Owned House"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-052",
+            "label": "Use the Quetzal Transport System"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-053",
+            "label": "Build a Quetzal Transport System Site"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-054",
+            "label": "Put some Banana Slices in a Rum Bottle"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-055",
+            "label": "Obtain a Dramen Staff"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-056",
+            "label": "Obtain any Ardougne Cloak"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-059",
+            "label": "Obtain any Teleport Scroll"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-060",
+            "label": "Teleport with the Ectophial"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-061",
+            "label": "Offer some fish to Fossegrimen"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-062",
+            "label": "Teleport to Kourend with Kharedst's Memoirs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-063",
+            "label": "Obtain Drakan's Medallion"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-064",
+            "label": "Unlock the permenant Sleepe boat"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-065",
+            "label": "Teleport with the Chronicle"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-066",
+            "label": "Use the Lovakengj Minecart Network"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-067",
+            "label": "Unlock the full Mycelium Transportation System"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-068",
+            "label": "Travel on Swamp Boaty"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-070",
+            "label": "Use the ship that travels between the Ruins of Unkah and Tempoross Cove"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-071",
+            "label": "Use the Shilo Village cart system"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-072",
+            "label": "Use the Dorgesh-Kaan to Keldagrim train system"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-074",
+            "label": "Teleport using the lever in East Ardougne"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-075",
+            "label": "Teleport using the Sailors' Amulet"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-076",
+            "label": "Teleport using the Skull Sceptre"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-077",
+            "label": "Teleport using Ghommal's Hilt"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-078",
+            "label": "Teleport using the Explorer's Ring"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-079",
+            "label": "Teleport using Rada's Blessing"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-080",
+            "label": "Teleport using the Fremennik Sea Boots"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-081",
+            "label": "Teleport with the Desert Amulet"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-082",
+            "label": "Use a Teleport on a Skill Cape"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-084",
+            "label": "Build a Portal in your Player-Owned House"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-085",
+            "label": "Chart 1 thing while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-086",
+            "label": "Chart 5 things while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-087",
+            "label": "Chart 10 things while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-088",
+            "label": "Chart 20 things while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-089",
+            "label": "Chart 40 things while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-090",
+            "label": "Chart 80 things while out at sea"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-091",
+            "label": "Complete the Marlin rank of The Tempor Tantrum"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-092",
+            "label": "Complete the Marlin rank of The Jubbly Jive"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-093",
+            "label": "Complete the Marlin rank of The Gwenith Glide"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-094",
+            "label": "Salvage at Barracuda shipwrecks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-095",
+            "label": "Salvage from Pirate shipwrecks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-096",
+            "label": "Salvage from Fremennik shipwrecks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "EXP-097",
+            "label": "Reach 99 in the Sailing Skill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pvm",
+      "name": "PvM",
+      "items": [
+        {
+          "customItem": {
+            "id": "PVM-009",
+            "label": "Achieve a Combat Level of 10"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-010",
+            "label": "Achieve a Combat Level of 30"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-011",
+            "label": "Achieve a Combat Level of 50"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-012",
+            "label": "Achieve a Combat Level of 70"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-013",
+            "label": "Achieve a Combat Level of 100"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-014",
+            "label": "Achieve a Combat Level of 126"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-015",
+            "label": "Achieve 99 Attack"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-016",
+            "label": "Achieve 99 Strength"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-017",
+            "label": "Achieve 99 Defence"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-018",
+            "label": "Achieve 99 Hitpoints"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-019",
+            "label": "Achieve 99 Magic"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-020",
+            "label": "Achieve 99 Ranged"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-021",
+            "label": "Achieve 99 Slayer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-022",
+            "label": "Complete 10 Slayer Tasks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-023",
+            "label": "Complete 50 Slayer Tasks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-024",
+            "label": "Complete 100 Slayer Tasks"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-025",
+            "label": "Defeat 1 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-026",
+            "label": "Defeat 3 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-027",
+            "label": "Defeat 6 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-028",
+            "label": "Defeat 10 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-029",
+            "label": "Defeat 15 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-030",
+            "label": "Defeat 20 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-031",
+            "label": "Defeat 30 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-032",
+            "label": "Defeat 40 Unique Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-033",
+            "label": "Defeat Brutus"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-034",
+            "label": "Defeat Scurius"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-035",
+            "label": "Defeat Obor or Bryophyta"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-036",
+            "label": "Receive MvP at Gemstone Crab"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-037",
+            "label": "Defeat Giant Mole"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-038",
+            "label": "Defeat Sarachnis"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-039",
+            "label": "Defeat Amoxliatl"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-040",
+            "label": "Defeat Royal Titans"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-041",
+            "label": "Defeat Doom of Mokhaiotl"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-042",
+            "label": "Complete a Deep Delve at Doom"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-043",
+            "label": "Defeat The Mad Angel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-044",
+            "label": "Defeat Grotesque Guardians"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-045",
+            "label": "Defeat any Dagannoth King"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-046",
+            "label": "Open the Lunar Chest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-047",
+            "label": "Defeat Any God Wars Boss"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-048",
+            "label": "Defeat All God Wars Bosses"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-049",
+            "label": "Defeat Nex"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-050",
+            "label": "Defeat the Abyssal Sire"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-051",
+            "label": "Defeat Kraken"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-052",
+            "label": "Defeat Cerberus"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-053",
+            "label": "Defeat Aaraxxor"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-054",
+            "label": "Defeat the Thermonuclear smoke Devil"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-055",
+            "label": "Defeat the Alchemical Hydra"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-056",
+            "label": "Defeat the Crystalline Hunllef"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-057",
+            "label": "Defeat the Corrupted Hunllef"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-058",
+            "label": "Open 10 Barrows Chests"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-059",
+            "label": "Defeat Zulrah"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-060",
+            "label": "Defeat Vorkath"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-061",
+            "label": "Defeat the Phantom Muspah"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-062",
+            "label": "Defeat the Maggot King"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-063",
+            "label": "Defeat The Nightmare"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-064",
+            "label": "Defeat a Mimic"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-065",
+            "label": "Defeat Hespori"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-066",
+            "label": "Defeat Skotizo"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-067",
+            "label": "Defeat the Shellbane gryphon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-068",
+            "label": "Complete The Fight Caves"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-069",
+            "label": "Defeat Yama"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-070",
+            "label": "Defeat Duke Sucellus"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-071",
+            "label": "Defeat The Leviathan"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-072",
+            "label": "Defeat The Whisperer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-073",
+            "label": "Kill an Awakened Desert Treasure II Boss"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-074",
+            "label": "Defeat Vardorvis"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-075",
+            "label": "Complete The Chambers of Xeric"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-076",
+            "label": "Complete The Chambers of Xeric - Challenge Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-077",
+            "label": "Complete The Theatre of Blood - Entry Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-078",
+            "label": "Complete The Theatre of Blood - Normal Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-079",
+            "label": "Complete The Theatre of Blood - Hard Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-080",
+            "label": "Complete The Tombs of Amascut - Entry Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-081",
+            "label": "Complete The Tombs of Amascut - Normal Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-082",
+            "label": "Complete The Tombs of Amascut - Expert Mode"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-083",
+            "label": "Complete The Fractured Archive"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-084",
+            "label": "Complete The Fortis Colosseum"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-085",
+            "label": "Complete The Inferno"
+          }
+        },
+        {
+          "customItem": {
+            "id": "PVM-086",
+            "label": "Obtain any Boss Pet"
+          }
+        }
+      ]
+    },
+    {
+      "id": "skilling",
+      "name": "Skilling",
+      "items": [
+        {
+          "customItem": {
+            "id": "SKI-009",
+            "label": "Achieve a Total Level of 250"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-010",
+            "label": "Achieve a Total Level of 500"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-011",
+            "label": "Achieve a Total Level of 750"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-012",
+            "label": "Achieve a Total Level of 1,000"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-013",
+            "label": "Achieve a Total Level of 1,500"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-014",
+            "label": "Achieve a Total Level of 1,750"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-015",
+            "label": "Achieve a Total Level of 2,000"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-018",
+            "label": "Achieve any Skilling Pet"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-019",
+            "label": "Grind some bones in the Bonegrinder"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-020",
+            "label": "Offer Blessed Bones Shards 50 times to the Libation Bowl"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-021",
+            "label": "Achieve 43 Prayer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-022",
+            "label": "Unlock Piety"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-023",
+            "label": "Achieve 99 Prayer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-024",
+            "label": "Complete the Guardians of the Rift minigame 5 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-025",
+            "label": "Craft 50 Nature Runes"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-026",
+            "label": "Complete the Guardians of the Rift minigame 30 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-027",
+            "label": "Craft 500 Death Runes"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-028",
+            "label": "Achieve 99 Runecraft"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-029",
+            "label": "Craft Any Silver Item"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-030",
+            "label": "Craft a Crab Helmet or Crab Claw"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-031",
+            "label": "Craft 100 Unpowered Orbs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-032",
+            "label": "Create 50 Golems on Wyrmscraig"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-033",
+            "label": "Achieve 99 Crafting"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-034",
+            "label": "Mine a Shooting Star"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-035",
+            "label": "Mine 100 Iron ore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-036",
+            "label": "Obtain a Volcanic Mine Teleport"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-037",
+            "label": "Mine 1,000 total ore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-038",
+            "label": "Achieve 99 Mining"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-039",
+            "label": "Smith an Elemental Shield"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-040",
+            "label": "Drink Kovac's Grog"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-041",
+            "label": "Complete 50 Giant's Foundry Contracts"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-042",
+            "label": "Put some coins in the Blast Furnace coffer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-043",
+            "label": "Achieve 99 Smithing"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-044",
+            "label": "Complete 3 rounds of Fishing Trawler"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-045",
+            "label": "Subdue Tempoross 20 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-046",
+            "label": "250 Sharks Fished"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-047",
+            "label": "Catch 2,500 of any fish"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-048",
+            "label": "Achieve 99 Fishing"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-049",
+            "label": "Ferment a Jug of Wine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-050",
+            "label": "Cook 150 Swordfish"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-051",
+            "label": "Make 15 Hard Gnome Deliveries"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-052",
+            "label": "Bake 200 pies"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-053",
+            "label": "Achieve 99 Cooking"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-054",
+            "label": "Light 30 Willow Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-055",
+            "label": "Subdue Wintertodt 10 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-056",
+            "label": "Light 200 Yew Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-057",
+            "label": "Light a Mining Helmet"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-058",
+            "label": "Achieve 99 Firemaking"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-059",
+            "label": "Obtain a Forestry Kit"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-060",
+            "label": "Obtain the Lumberjack Outfit"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-061",
+            "label": "Chop 2,000 Logs of any type"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-062",
+            "label": "Chop 75 Magic Logs"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-063",
+            "label": "Achieve 99 Woodcutting"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-064",
+            "label": "Complete any Rooftop Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-065",
+            "label": "Obtain 30 Agility Arena Tickets"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-066",
+            "label": "Complete 200 Rooftop laps"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-067",
+            "label": "Complete Floor 4 of the Hallowed Sepulchre"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-068",
+            "label": "Achieve 99 Agility"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-069",
+            "label": "Make 50 Prayer Potions"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-070",
+            "label": "Clean a Dwarf Weed"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-071",
+            "label": "Catch Herbiboar 30 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-072",
+            "label": "Fulfill 100 Mastering Mixology orders"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-073",
+            "label": "Achieve 99 Herblore"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-074",
+            "label": "Obtain a piece of the Rogue's Outfit"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-075",
+            "label": "Pickpocket Ardougne Knight 250 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-076",
+            "label": "Blackjack a Menaphite Thug 250 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-077",
+            "label": "Pickpocket Vyre 250 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-078",
+            "label": "Achieve 99 Thieving"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-079",
+            "label": "Complete the Vale Totems miniquest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-080",
+            "label": "Fletch 150 Willow Longbows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-081",
+            "label": "Decorate a Vale Totem with a Yew Shortbow"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-082",
+            "label": "Fletch 100 Magic Longbows"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-083",
+            "label": "Achieve 99 Fletching"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-084",
+            "label": "Store a Spade with the Tool Leprechaun"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-085",
+            "label": "Enter the Farming Guild"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-086",
+            "label": "Get 100 Tithe Farm Reward Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-087",
+            "label": "Complete 5 Farming Contracts"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-088",
+            "label": "Achieve 99 Farming"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-089",
+            "label": "Complete Daddy's Home miniquest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-090",
+            "label": "Pick up your Pet Rock from your Player-Owned House"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-091",
+            "label": "Complete 50 Mahogany Homes Contracts"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-092",
+            "label": "Build a Dungeon in your Player-Owned House"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-093",
+            "label": "Achieve 99 Construction"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-094",
+            "label": "Can an Impling in Puro-Puro"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-095",
+            "label": "Catch 50 Orange Salamanders"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-096",
+            "label": "Check your Birdhouses 20 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-097",
+            "label": "Complete a total of 50 Hunter Rumours"
+          }
+        },
+        {
+          "customItem": {
+            "id": "SKI-098",
+            "label": "Achieve 99 Hunter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quests",
+      "name": "Quests",
+      "items": [
+        {
+          "customItem": {
+            "id": "QUE-001",
+            "label": "Earn 1 Quest Point"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-002",
+            "label": "Earn 10 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-003",
+            "label": "Earn 25 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-004",
+            "label": "Earn 50 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-005",
+            "label": "Earn 100 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-006",
+            "label": "Earn 150 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-007",
+            "label": "Earn 200 Quest Points"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-008",
+            "label": "Earn the Quest Cape"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-009",
+            "label": "Complete Cook's Assistant"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-010",
+            "label": "Complete Rune Mysteries"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-011",
+            "label": "Complete Drudic Ritual"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-012",
+            "label": "Complete The Ides of Milk"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-013",
+            "label": "Complete Imp Catcher"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-014",
+            "label": "Complete Shield of Arrav"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-015",
+            "label": "Complete Underground Pass"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-016",
+            "label": "Complete A Ruff Situation"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-017",
+            "label": "Complete Gertrude's Cat"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-018",
+            "label": "Complete Demon Slayer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-019",
+            "label": "Complete Waterfall Quest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-020",
+            "label": "Complete Haunted Mine"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-021",
+            "label": "Complete The Garden of Death"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-022",
+            "label": "Complete Animal Magnetism"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-023",
+            "label": "Complete Scrambled!"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-024",
+            "label": "Complete The Ribbiting Tale of the Lilypad Labour Dispute"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-025",
+            "label": "Complete Dragon Slayer"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-026",
+            "label": "Complete One Small Favour"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-027",
+            "label": "Complete Ratcatchers"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-028",
+            "label": "Complete Monkey Madness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-029",
+            "label": "Complete Desert Treasure"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-030",
+            "label": "Complete Lunar Diplomacy"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-031",
+            "label": "Complete Recipe for Disaster"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-032",
+            "label": "Complete Fallen From Grace"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-033",
+            "label": "Complete Perilous Moons"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-034",
+            "label": "Complete Legends' Quest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-035",
+            "label": "Complete Mourning Ends: Part II"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-036",
+            "label": "Complete Monkey Madness II"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-037",
+            "label": "Complete While Guthix Sleeps"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-038",
+            "label": "Complete Dragon Slayer II"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-039",
+            "label": "Complete Song of the Elves"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-040",
+            "label": "Complete Blood Moon Rises"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-041",
+            "label": "Complete Desert Treasure II: The Fallen Empire"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-042",
+            "label": "Complete the Rag & Bone Man Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-043",
+            "label": "Complete the Fairytale Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-044",
+            "label": "Complete the Elemental Workshop Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-045",
+            "label": "Complete the Tortugan Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-046",
+            "label": "Complete the Twilight Emissaries Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-047",
+            "label": "Complete the Great Kourend Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-048",
+            "label": "Complete the Troll Series"
+          }
+        },
+        {
+          "customItem": {
+            "id": "QUE-049",
+            "label": "Complete the Fremennik Series"
+          }
+        }
+      ]
+    },
+    {
+      "id": "achievements",
+      "name": "Achievements",
+      "items": [
+        {
+          "customItem": {
+            "id": "ACH-001",
+            "label": "Complete 10 Easy Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-002",
+            "label": "Complete 20 Easy Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-003",
+            "label": "Complete All Easy Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-004",
+            "label": "Complete 10 Medium Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-005",
+            "label": "Complete 20 Medium Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-006",
+            "label": "Complete All Medium Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-007",
+            "label": "Complete 10 Hard Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-008",
+            "label": "Complete 20 Hard Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-009",
+            "label": "Complete All Hard Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-010",
+            "label": "Complete 10 Elite Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-011",
+            "label": "Complete 20 Elite Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-012",
+            "label": "Complete All Elite Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-013",
+            "label": "Complete 10 Master Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-014",
+            "label": "Complete 20 Master Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-015",
+            "label": "Complete All Master Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-016",
+            "label": "Complete 10 Grandmaster Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-017",
+            "label": "Complete 20 Grandmaster Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-018",
+            "label": "Complete All Grandmaster Combat Achievements"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-019",
+            "label": "Log 10 Collections on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-020",
+            "label": "Log 30 Collections on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-021",
+            "label": "Log 50 Collections on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-022",
+            "label": "Achieve Bronze Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-023",
+            "label": "Achieve Iron Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-024",
+            "label": "Achieve Steel Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-025",
+            "label": "Achieve Black Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-026",
+            "label": "Achieve Mithril Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-027",
+            "label": "Achieve Adamant Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-028",
+            "label": "Achieve Rune Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-029",
+            "label": "Achieve Dragon Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-030",
+            "label": "Achieve Gilded Rank on the Collection Log"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-031",
+            "label": "Complete the Easy Ardougne Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-032",
+            "label": "Complete the Medium Ardougne Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-033",
+            "label": "Complete the Hard Ardougne Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-034",
+            "label": "Complete the Elite Ardougne Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-035",
+            "label": "Complete the Easy Desert Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-036",
+            "label": "Complete the Medium Desert Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-037",
+            "label": "Complete the Hard Desert Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-038",
+            "label": "Complete the Elite Desert Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-039",
+            "label": "Complete the Easy Falador Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-040",
+            "label": "Complete the Medium Falador Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-041",
+            "label": "Complete the Hard Falador Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-042",
+            "label": "Complete the Elite Falador Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-043",
+            "label": "Complete the Easy Fremennik Province Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-044",
+            "label": "Complete the Medium Fremennik Province Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-045",
+            "label": "Complete the Hard Fremennik Province Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-046",
+            "label": "Complete the Elite Fremennik Province Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-047",
+            "label": "Complete the Easy Kandarin Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-048",
+            "label": "Complete the Medium Kandarin Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-049",
+            "label": "Complete the Hard Kandarin Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-050",
+            "label": "Complete the Elite Kandarin Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-051",
+            "label": "Complete the Easy Karamja Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-052",
+            "label": "Complete the Medium Karamja Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-053",
+            "label": "Complete the Hard Karamja Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-054",
+            "label": "Complete the Elite Karamja Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-055",
+            "label": "Complete the Easy Kourend & Kebos Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-056",
+            "label": "Complete the Medium Kourend & Kebos Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-057",
+            "label": "Complete the Hard Kourend & Kebos Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-058",
+            "label": "Complete the Elite Kourend & Kebos Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-059",
+            "label": "Complete the Easy Lumbridge & Draynor Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-060",
+            "label": "Complete the Medium Lumbridge & Draynor Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-061",
+            "label": "Complete the Hard Lumbridge & Draynor Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-062",
+            "label": "Complete the Elite Lumbridge & Draynor Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-063",
+            "label": "Complete the Easy Morytania Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-064",
+            "label": "Complete the Medium Morytania Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-065",
+            "label": "Complete the Hard Morytania Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-066",
+            "label": "Complete the Elite Morytania Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-067",
+            "label": "Complete the Easy Varrock Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-068",
+            "label": "Complete the Medium Varrock Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-069",
+            "label": "Complete the Hard Varrock Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-070",
+            "label": "Complete the Elite Varrock Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-071",
+            "label": "Complete the Easy Western Provinces Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-072",
+            "label": "Complete the Medium Western Provinces Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-073",
+            "label": "Complete the Hard Western Provinces Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-074",
+            "label": "Complete the Elite Western Provinces Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-075",
+            "label": "Complete the Easy Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-076",
+            "label": "Complete the Medium Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-077",
+            "label": "Complete the Hard Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "ACH-078",
+            "label": "Complete the Elite Wilderness Achievement Diary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wilderness",
+      "name": "Wilderness",
+      "items": [
+        {
+          "customItem": {
+            "id": "WIL-001",
+            "label": "Kill another player in The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-002",
+            "label": "Claim a value of 10,000 gp from Loot Keys"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-003",
+            "label": "Claim a value of 100,000 gp from Loot Keys"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-004",
+            "label": "Claim a value of 1,000,000 gp from Loot Keys"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-005",
+            "label": "Claim a value of 10,000,000 gp from Loot Keys"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-006",
+            "label": "Destroy at least 10,000 gp from Loot Keys"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-008",
+            "label": "Have the Mage of Zamorak teleport you to the Abyss"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-010",
+            "label": "Offer some bones at the Chaos Temple"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-011",
+            "label": "Offer Dragon Bones at the Chaos Temple"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-012",
+            "label": "Restore some prayer points at the demonic ruins"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-013",
+            "label": "Collect some Red Spiders' Eggs from The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-014",
+            "label": "Enter the Wilderness God Wars Dungeon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-015",
+            "label": "Complete the Easy Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-016",
+            "label": "Complete the Medium Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-017",
+            "label": "Complete the Hard Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-018",
+            "label": "Complete the Elite Wilderness Achievement Diary"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-019",
+            "label": "Deliver the One Ring"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-020",
+            "label": "Enter the Chaos Runecrafting temple"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-021",
+            "label": "Defeat Corporeal Beast"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-022",
+            "label": "Defeat King Black Dragon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-023",
+            "label": "Defeat the Derranged Archaeologist"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-024",
+            "label": "Defeat the Crazy Archaeologist"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-025",
+            "label": "Defeat Chaos Elemental"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-026",
+            "label": "Defeat either Artio, Calvar'ion or Spindel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-027",
+            "label": "Defeat Artio, Calvar'ion and Spindel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-028",
+            "label": "Defeat either Callisto, Vet'ion or Venenatis"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-029",
+            "label": "Defeat Callisto, Vet'ion and Venenatis"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-030",
+            "label": "Defeat Scorpia"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-031",
+            "label": "Defeat a Revenant"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-032",
+            "label": "Defeat 100 Revenants"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-033",
+            "label": "Defeat 1,000 Revenants"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-034",
+            "label": "Obtain an Ancient Relic from The Revenants"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-035",
+            "label": "Complete a lap of the Wilderness Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-036",
+            "label": "Complete 10 consecutive laps of the Wilderness Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-037",
+            "label": "Complete 30 consecutive laps of the Wilderness Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-038",
+            "label": "Complete 60 consecutive laps of the Wilderness Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-039",
+            "label": "Complete 101+ consecutive laps of the Wilderness Agility Course"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-040",
+            "label": "Mine some Iron Ore in the Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-041",
+            "label": "Mine some Mithril Ore in the Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-042",
+            "label": "Charge an Air Orb"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-043",
+            "label": "Fish and Cook a Dark Crab in the Resource Area"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-044",
+            "label": "Steal from the Rogues' Chest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-045",
+            "label": "Cut and burn some Magic Logs in the Resource Area"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-046",
+            "label": "Complete Mage Arena"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-047",
+            "label": "Complete Mage Arena II"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-048",
+            "label": "Complete 1 Combat Achievement in The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-049",
+            "label": "Complete 5 Combat Achievements in The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-050",
+            "label": "Complete 10 Combat Achievements in The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-051",
+            "label": "Complete 20 Combat Achievements in The Wilderness"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-052",
+            "label": "Complete 1 Combat Achievement for King Black Dragon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-053",
+            "label": "Complete all Combat Achievements for King Black Dragon"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-054",
+            "label": "Complete 1 Combat Achievement for Scorpia"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-055",
+            "label": "Complete all Combat Achievements for Scorpia"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-056",
+            "label": "Complete 1 Combat Achievement for the Crazy Archaeologist"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-057",
+            "label": "Complete all Combat Achievements for the Crazy Archaeologist"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-058",
+            "label": "Complete 1 Combat Achievement for the Chaos Fanatic"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-059",
+            "label": "Complete all Combat Achievements for the Chaos Fanatic"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-060",
+            "label": "Complete 1 Combat Achievement for the Chaos Elemental"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-061",
+            "label": "Complete all Combat Achievements for the Chaos Elemental"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-062",
+            "label": "Complete 1 Combat Achievement for either Venenatis or Spindel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-063",
+            "label": "Complete all Combat Achievements for either Venenatis or Spindel"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-064",
+            "label": "Complete 1 Combat Achievement for either Vet'ion or Calvar'ion"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-065",
+            "label": "Complete all Combat Achievements for either Vet'ion or Calvar'ion"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-066",
+            "label": "Complete 1 Combat Achievement for either Callisto or Artio"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-067",
+            "label": "Complete all Combat Achievements for either Callisto or Artio"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-068",
+            "label": "Open the Muddy Chest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-069",
+            "label": "Open a Larran's Chest"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-070",
+            "label": "Open the Larran's Chest 10 times"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-071",
+            "label": "Open the Zombie Pirate Lockers"
+          }
+        },
+        {
+          "customItem": {
+            "id": "WIL-072",
+            "label": "Open the Zombie Pirate Lockers 10 times"
+          }
+        }
+      ]
+    }
+  ]
+}
