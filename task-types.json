@@ -347,5 +347,24 @@
       "requirementsColumnId": 3
     },
     "dbRowEnumId": 5950
+  },
+  {
+    "name": "Reaper's Raffle",
+    "description": "Reaper's Raffle (Hardcore Worlds) task list. Custom tasks only - no in-game cache data. Skeleton type used for premade routes.",
+    "taskJsonName": "REAPERS_RAFFLE",
+    "taskSourceType": "DBROW",
+    "isEnabled": false,
+    "filters": [],
+    "intParamMap": {},
+    "stringParamMap": {},
+    "intEnumMap": {},
+    "stringEnumMap": {},
+    "tierSpriteIdMap": {},
+    "taskVarps": [],
+    "otherVarps": [],
+    "varbits": [],
+    "taskCompletedScriptId": -1,
+    "taskPointTiers": null,
+    "taskCompletionCountTiers": null
   }
 ]
